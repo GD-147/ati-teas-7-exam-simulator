@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS1-001",
+    "prompt": "The left ventricle is one of the four chambers of the heart.\nQuestion:\nWhat is the primary function of the left ventricle?",
+    "choices": {
+      "A": "To receive deoxygenated blood from the body",
+      "B": "To pump oxygenated blood to the body",
+      "C": "To pump deoxygenated blood to the lungs",
+      "D": "To exchange gases with the blood"
+    },
+    "correct": "B",
+    "explanation": "The left ventricle sends oxygen-rich blood through the aorta to the body. The main trap is C because pumping blood to the lungs is the job of the right ventricle."
+  },
+  {
+    "id": "TS1-002",
+    "prompt": "The respiratory system includes the trachea, bronchi, bronchioles, and alveoli.\nQuestion:\nIn which structure does most gas exchange occur?",
+    "choices": {
+      "A": "Trachea",
+      "B": "Bronchi",
+      "C": "Alveoli",
+      "D": "Diaphragm"
+    },
+    "correct": "C",
+    "explanation": "Alveoli are tiny air sacs where oxygen and carbon dioxide diffuse between air and blood. The main trap is A because the trachea mainly conducts air, not exchange gases."
+  },
+  {
+    "id": "TS1-003",
+    "prompt": "Insulin and glucagon help regulate blood glucose levels.\nQuestion:\nWhich hormone lowers blood glucose levels?",
+    "choices": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Adrenaline",
+      "D": "Thyroxine"
+    },
+    "correct": "A",
+    "explanation": "Insulin helps move glucose from the blood into cells, lowering blood glucose levels. The main trap is B because glucagon usually raises blood glucose."
+  },
+  {
+    "id": "TS1-004",
+    "prompt": "The nephron is the functional unit of the kidney.\nQuestion:\nWhich structure in the nephron filters blood?",
+    "choices": {
+      "A": "Ureter",
+      "B": "Glomerulus",
+      "C": "Bladder",
+      "D": "Urethra"
+    },
+    "correct": "B",
+    "explanation": "The glomerulus is the nephron structure that filters blood. The main trap is A because the ureter carries urine from the kidney to the bladder."
+  },
+  {
+    "id": "TS1-005",
+    "prompt": "The human body contains three types of muscle tissue: skeletal, smooth, and cardiac.\nQuestion:\nWhich type of muscle tissue is under voluntary control?",
+    "choices": {
+      "A": "Cardiac muscle",
+      "B": "Smooth muscle",
+      "C": "Skeletal muscle",
+      "D": "Visceral muscle"
+    },
+    "correct": "C",
+    "explanation": "Skeletal muscle is attached to bones and is voluntarily controlled. The main trap is A because cardiac muscle is involuntary."
+  },
+  {
+    "id": "TS1-006",
+    "prompt": "A person exercises on a hot day and begins sweating.\nQuestion:\nThis response is an example of",
+    "choices": {
+      "A": "positive feedback",
+      "B": "negative feedback",
+      "C": "genetic mutation",
+      "D": "chemical digestion"
+    },
+    "correct": "B",
+    "explanation": "Sweating helps return body temperature toward normal, which is a negative feedback response. The main trap is A because positive feedback amplifies a change rather than correcting it."
+  },
+  {
+    "id": "TS1-007",
+    "prompt": "Food passes from the stomach into the small intestine.\nQuestion:\nWhich organ is the main site of nutrient absorption?",
+    "choices": {
+      "A": "Stomach",
+      "B": "Small intestine",
+      "C": "Large intestine",
+      "D": "Esophagus"
+    },
+    "correct": "B",
+    "explanation": "Most nutrient absorption occurs in the small intestine because of its large surface area. The main trap is A because the stomach is more involved in digestion than absorption."
+  },
+  {
+    "id": "TS1-008",
+    "prompt": "White blood cells help protect the body from disease.\nQuestion:\nWhich blood component is primarily responsible for fighting infection?",
+    "choices": {
+      "A": "Red blood cells",
+      "B": "Platelets",
+      "C": "Plasma",
+      "D": "White blood cells"
+    },
+    "correct": "D",
+    "explanation": "White blood cells defend the body against pathogens. The main trap is B because platelets are mainly involved in clotting."
+  },
+  {
+    "id": "TS1-009",
+    "prompt": "Several endocrine glands release hormones into the bloodstream.\nQuestion:\nWhich gland is often called the “master gland” because it influences other endocrine glands?",
+    "choices": {
+      "A": "Thyroid gland",
+      "B": "Pituitary gland",
+      "C": "Adrenal gland",
+      "D": "Pancreas"
+    },
+    "correct": "B",
+    "explanation": "The pituitary releases hormones that regulate several other endocrine glands. The main trap is A because the thyroid is important, but it is not the “master gland.”"
+  },
+  {
+    "id": "TS1-010",
+    "prompt": "In humans, fertilization usually occurs before the embryo reaches the uterus.\nQuestion:\nWhere does fertilization usually occur?",
+    "choices": {
+      "A": "Ovary",
+      "B": "Uterus",
+      "C": "Fallopian tube",
+      "D": "Cervix"
+    },
+    "correct": "C",
+    "explanation": "Fertilization usually occurs in the fallopian tube. The main trap is B because the uterus is where implantation usually happens later."
+  },
+  {
+    "id": "TS1-011",
+    "prompt": "The brain contains regions that control different functions.\nQuestion:\nWhich part of the brain is most directly involved in balance and coordination?",
+    "choices": {
+      "A": "Cerebellum",
+      "B": "Medulla oblongata",
+      "C": "Hypothalamus",
+      "D": "Frontal lobe"
+    },
+    "correct": "A",
+    "explanation": "The cerebellum helps control balance, posture, and coordination. The main trap is B because the medulla mainly regulates automatic functions such as breathing and heart rate."
+  },
+  {
+    "id": "TS1-012",
+    "prompt": "The skin has several layers.\nQuestion:\nWhich layer is the outermost layer of the skin?",
+    "choices": {
+      "A": "Dermis",
+      "B": "Hypodermis",
+      "C": "Epidermis",
+      "D": "Adipose layer"
+    },
+    "correct": "C",
+    "explanation": "The epidermis is the skin’s outermost protective layer. The main trap is A because the dermis lies beneath it."
+  },
+  {
+    "id": "TS1-013",
+    "prompt": "Blood vessels transport blood throughout the body.\nQuestion:\nWhich type of blood vessel carries blood away from the heart?",
+    "choices": {
+      "A": "Vein",
+      "B": "Capillary",
+      "C": "Artery",
+      "D": "Venule"
+    },
+    "correct": "C",
+    "explanation": "Arteries carry blood away from the heart. The main trap is A because veins carry blood back toward the heart."
+  },
+  {
+    "id": "TS1-014",
+    "prompt": "A person becomes dehydrated after several hours without water. The body responds by conserving water.\nQuestion:\nWhich hormone increases to help the kidneys retain water?",
+    "choices": {
+      "A": "Insulin",
+      "B": "Antidiuretic hormone",
+      "C": "Melatonin",
+      "D": "Estrogen"
+    },
+    "correct": "B",
+    "explanation": "Antidiuretic hormone helps the kidneys retain water during dehydration. The main trap is A because insulin regulates glucose, not water balance."
+  },
+  {
+    "id": "TS1-015",
+    "prompt": "The digestive system includes accessory organs that help process food.\nQuestion:\nWhat is the primary digestive function of the liver?",
+    "choices": {
+      "A": "To absorb amino acids into the bloodstream",
+      "B": "To produce bile that helps digest fats",
+      "C": "To secrete insulin into the stomach",
+      "D": "To store enzymes in the gallbladder"
+    },
+    "correct": "B",
+    "explanation": "The liver makes bile, which helps emulsify fats. The main trap is D because the gallbladder stores bile, but the liver produces it."
+  },
+  {
+    "id": "TS1-016",
+    "prompt": "The pancreas has both endocrine and exocrine functions.\nQuestion:\nWhich statement best describes an exocrine function of the pancreas?",
+    "choices": {
+      "A": "It releases insulin into the blood.",
+      "B": "It produces digestive enzymes that enter the small intestine.",
+      "C": "It stores bile for later release.",
+      "D": "It absorbs nutrients from digested food."
+    },
+    "correct": "B",
+    "explanation": "The pancreas has an exocrine role in releasing digestive enzymes through ducts into the small intestine. The main trap is A because releasing insulin is an endocrine function."
+  },
+  {
+    "id": "TS1-017",
+    "prompt": "Bone marrow is found inside many bones.\nQuestion:\nWhat is a major function of bone marrow?",
+    "choices": {
+      "A": "To produce blood cells",
+      "B": "To store calcium only",
+      "C": "To connect muscle to bone",
+      "D": "To cushion joints"
+    },
+    "correct": "A",
+    "explanation": "Bone marrow is the site of hematopoiesis, the production of blood cells. The main trap is B because marrow does more than store minerals."
+  },
+  {
+    "id": "TS1-018",
+    "prompt": "If pregnancy does not occur during the menstrual cycle, hormone levels change.\nQuestion:\nWhat happens to the uterine lining at the start of menstruation?",
+    "choices": {
+      "A": "It thickens rapidly.",
+      "B": "It becomes fertilized.",
+      "C": "It is shed.",
+      "D": "It turns into muscle tissue."
+    },
+    "correct": "C",
+    "explanation": "If pregnancy does not occur, the uterine lining breaks down and is shed during menstruation. The main trap is A because thickening happens earlier in the cycle."
+  },
+  {
+    "id": "TS1-019",
+    "prompt": "Breathing depends on the movement of the diaphragm.\nQuestion:\nWhat happens when the diaphragm contracts?",
+    "choices": {
+      "A": "The chest cavity becomes smaller, and air moves out.",
+      "B": "The chest cavity becomes larger, and air moves in.",
+      "C": "The lungs collapse, and air moves out.",
+      "D": "The rib cage stops moving."
+    },
+    "correct": "B",
+    "explanation": "When the diaphragm contracts, it flattens and increases chest volume, drawing air into the lungs. The main trap is A because that describes exhalation."
+  },
+  {
+    "id": "TS1-020",
+    "prompt": "Red blood cells contain hemoglobin.\nQuestion:\nWhat is the main function of hemoglobin?",
+    "choices": {
+      "A": "To digest nutrients",
+      "B": "To transport oxygen",
+      "C": "To fight infection",
+      "D": "To clot blood"
+    },
+    "correct": "B",
+    "explanation": "Hemoglobin binds oxygen in red blood cells and carries it through the body. The main trap is C because infection fighting is done mainly by white blood cells."
+  },
+  {
+    "id": "TS1-021",
+    "prompt": "Cells maintain an internal environment that is different from the outside environment.\nQuestion:\nWhich structure controls what enters and leaves the cell?",
+    "choices": {
+      "A": "Nucleus",
+      "B": "Cell membrane",
+      "C": "Ribosome",
+      "D": "Mitochondrion"
+    },
+    "correct": "B",
+    "explanation": "The cell membrane is selectively permeable and controls movement in and out of the cell. The main trap is A because the nucleus stores DNA but does not regulate most transport."
+  },
+  {
+    "id": "TS1-022",
+    "prompt": "Mitosis produces new body cells.\nQuestion:\nWhat is the result of mitosis?",
+    "choices": {
+      "A": "Four daughter cells with half the chromosome number",
+      "B": "Two identical daughter cells",
+      "C": "One daughter cell with extra chromosomes",
+      "D": "Two daughter cells with different genetic material"
+    },
+    "correct": "B",
+    "explanation": "Mitosis produces two genetically identical daughter cells used for growth and repair. The main trap is A because four haploid cells are produced by meiosis, not mitosis."
+  },
+  {
+    "id": "TS1-023",
+    "prompt": "DNA contains genetic information used to make proteins.\nQuestion:\nIn a eukaryotic cell, where is DNA primarily located?",
+    "choices": {
+      "A": "Nucleus",
+      "B": "Cell membrane",
+      "C": "Cytoplasm",
+      "D": "Golgi apparatus"
+    },
+    "correct": "A",
+    "explanation": "In eukaryotic cells, DNA is primarily housed in the nucleus. The main trap is C because the cytoplasm contains organelles but is not the main DNA location."
+  },
+  {
+    "id": "TS1-024",
+    "prompt": "Cells build proteins by linking amino acids together.\nQuestion:\nWhich organelle is directly responsible for protein synthesis?",
+    "choices": {
+      "A": "Lysosome",
+      "B": "Ribosome",
+      "C": "Vacuole",
+      "D": "Centriole"
+    },
+    "correct": "B",
+    "explanation": "Ribosomes assemble amino acids into proteins. The main trap is A because lysosomes digest waste rather than synthesize proteins."
+  },
+  {
+    "id": "TS1-025",
+    "prompt": "Two parents have the genotypes Bb and Bb for a trait where B is dominant and b is recessive.\nQuestion:\nWhat is the probability that their child will have the recessive genotype bb?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "3/4",
+      "D": "1"
+    },
+    "correct": "A",
+    "explanation": "A Bb × Bb cross gives BB, Bb, Bb, and bb, so 1 out of 4 offspring is bb. The main trap is B because 1/2 represents the heterozygous outcome, not the recessive genotype."
+  },
+  {
+    "id": "TS1-026",
+    "prompt": "Plants use sunlight, water, and carbon dioxide to make glucose.\nQuestion:\nIn which organelle does photosynthesis occur?",
+    "choices": {
+      "A": "Mitochondrion",
+      "B": "Nucleus",
+      "C": "Chloroplast",
+      "D": "Ribosome"
+    },
+    "correct": "C",
+    "explanation": "Photosynthesis occurs in chloroplasts, which contain chlorophyll. The main trap is A because mitochondria perform cellular respiration."
+  },
+  {
+    "id": "TS1-027",
+    "prompt": "In a grassland ecosystem, grass is eaten by rabbits, and rabbits are eaten by hawks.\nQuestion:\nWhich organism is the producer in this food chain?",
+    "choices": {
+      "A": "Grass",
+      "B": "Rabbit",
+      "C": "Hawk",
+      "D": "Fungi"
+    },
+    "correct": "A",
+    "explanation": "Producers make their own food, usually by photosynthesis, so grass is the producer. The main trap is B because rabbits are consumers."
+  },
+  {
+    "id": "TS1-028",
+    "prompt": "A population of arctic animals has thick fur that helps them survive in cold climates.\nQuestion:\nThick fur is best described as",
+    "choices": {
+      "A": "a learned behavior",
+      "B": "an adaptation",
+      "C": "a mutation caused by weather",
+      "D": "an ecosystem"
+    },
+    "correct": "B",
+    "explanation": "Thick fur is an inherited trait that helps survival in a cold environment, so it is an adaptation. The main trap is A because a structural trait is not a learned behavior."
+  },
+  {
+    "id": "TS1-029",
+    "prompt": "Enzymes speed up chemical reactions in living things.\nQuestion:\nEnzymes are a type of",
+    "choices": {
+      "A": "carbohydrate",
+      "B": "lipid",
+      "C": "nucleic acid",
+      "D": "protein"
+    },
+    "correct": "D",
+    "explanation": "Enzymes are proteins that act as biological catalysts. The main trap is A because carbohydrates are mainly used for energy storage and structure."
+  },
+  {
+    "id": "TS1-030",
+    "prompt": "A semipermeable membrane separates two solutions. Side A has a lower solute concentration than Side B.\nQuestion:\nIf water moves by osmosis, in which direction will it move?",
+    "choices": {
+      "A": "From Side A to Side B",
+      "B": "From Side B to Side A",
+      "C": "Equally in both directions with no net movement",
+      "D": "Only if both sides contain glucose"
+    },
+    "correct": "A",
+    "explanation": "Water moves by osmosis from lower solute concentration to higher solute concentration. The main trap is B because that reverses the normal net movement."
+  },
+  {
+    "id": "TS1-031",
+    "prompt": "An atom has 11 protons, 12 neutrons, and 11 electrons.\nQuestion:\nWhat determines the identity of this element?",
+    "choices": {
+      "A": "The number of neutrons",
+      "B": "The total mass number",
+      "C": "The number of protons",
+      "D": "The number of electrons only"
+    },
+    "correct": "C",
+    "explanation": "An element is defined by its atomic number, which is the number of protons. The main trap is B because mass number can vary among isotopes of the same element."
+  },
+  {
+    "id": "TS1-032",
+    "prompt": "Sodium transfers an electron to chlorine when sodium chloride forms.\nQuestion:\nWhat type of bond is formed between sodium and chlorine?",
+    "choices": {
+      "A": "Ionic bond",
+      "B": "Hydrogen bond",
+      "C": "Covalent bond",
+      "D": "Peptide bond"
+    },
+    "correct": "A",
+    "explanation": "Ionic bonds form when electrons are transferred from one atom to another. The main trap is C because covalent bonds involve sharing, not transfer."
+  },
+  {
+    "id": "TS1-033",
+    "prompt": "A solution has a pH of 3.\nQuestion:\nThis solution is best described as",
+    "choices": {
+      "A": "neutral",
+      "B": "acidic",
+      "C": "basic",
+      "D": "saturated"
+    },
+    "correct": "B",
+    "explanation": "A pH below 7 is acidic, and pH 3 is strongly acidic. The main trap is A because neutral solutions have a pH of 7."
+  },
+  {
+    "id": "TS1-034",
+    "prompt": "An endothermic reaction occurs in a beaker. During the reaction, the beaker feels cooler to the touch.\nQuestion:\nWhich statement best describes this reaction?",
+    "choices": {
+      "A": "It releases heat to the surroundings.",
+      "B": "It absorbs heat from the surroundings.",
+      "C": "It destroys all reactants immediately.",
+      "D": "It cannot occur in water."
+    },
+    "correct": "B",
+    "explanation": "Endothermic reactions take in heat, so the container feels cooler. The main trap is A because releasing heat describes an exothermic reaction."
+  },
+  {
+    "id": "TS1-035",
+    "prompt": "Salt is dissolved in water to form a solution.\nQuestion:\nIn this solution, water is the",
+    "choices": {
+      "A": "solute",
+      "B": "solvent",
+      "C": "precipitate",
+      "D": "product"
+    },
+    "correct": "B",
+    "explanation": "The solvent is the substance that dissolves the solute; here, water dissolves salt. The main trap is A because salt is the solute."
+  },
+  {
+    "id": "TS1-036",
+    "prompt": "Hydrogen gas reacts with oxygen gas to form water. The unbalanced equation is:\nH₂ + O₂ → H₂O\nQuestion:\nWhich coefficients correctly balance the equation?",
+    "choices": {
+      "A": "1, 1, 1",
+      "B": "2, 1, 2",
+      "C": "1, 2, 1",
+      "D": "2, 2, 1"
+    },
+    "correct": "B",
+    "explanation": "Using coefficients 2H₂ + O₂ → 2H₂O balances both hydrogen and oxygen atoms. The main trap is A because it leaves oxygen unbalanced."
+  },
+  {
+    "id": "TS1-037",
+    "prompt": "A catalyst is added to a chemical reaction.\nQuestion:\nWhat is the main effect of a catalyst?",
+    "choices": {
+      "A": "It increases the activation energy.",
+      "B": "It lowers the activation energy.",
+      "C": "It changes the final products into different substances.",
+      "D": "It is permanently used up by the reaction."
+    },
+    "correct": "B",
+    "explanation": "A catalyst speeds a reaction by lowering activation energy without being permanently used up. The main trap is D because catalysts are not consumed in the reaction."
+  },
+  {
+    "id": "TS1-038",
+    "prompt": "Two oxygen atoms share electrons to form O₂.\nQuestion:\nWhat type of bond holds the two oxygen atoms together?",
+    "choices": {
+      "A": "Ionic bond",
+      "B": "Metallic bond",
+      "C": "Covalent bond",
+      "D": "Hydrogen bond"
+    },
+    "correct": "C",
+    "explanation": "When atoms share electrons, they form a covalent bond. The main trap is A because ionic bonds involve electron transfer instead."
+  },
+  {
+    "id": "TS1-039",
+    "prompt": "During a lab, a student needs to smell a chemical sample.\nQuestion:\nWhat is the safest way to detect the odor?",
+    "choices": {
+      "A": "Hold the container under the nose and inhale deeply.",
+      "B": "Waft the fumes toward the nose with a hand.",
+      "C": "Taste a small amount first.",
+      "D": "Shake the container vigorously, then inhale."
+    },
+    "correct": "B",
+    "explanation": "Wafting is the safe lab method for detecting an odor. The main trap is A because directly inhaling from a container can expose a student to harmful fumes."
+  },
+  {
+    "id": "TS1-040",
+    "prompt": "A student tests whether fertilizer affects plant height. One group of plants receives fertilizer, and another group receives none. Both groups get the same amount of light and water.\nQuestion:\nWhat is the control group in this experiment?",
+    "choices": {
+      "A": "The plants that receive fertilizer",
+      "B": "The plants that receive no fertilizer",
+      "C": "The amount of sunlight",
+      "D": "The height of the plants"
+    },
+    "correct": "B",
+    "explanation": "The control group is the group that does not receive the treatment being tested. The main trap is A because that is the experimental group."
+  },
+  {
+    "id": "TS1-041",
+    "prompt": "A student wants to test how the amount of light affects plant growth. She changes the number of hours of light each day and measures plant height after 3 weeks.\nQuestion:\nWhat is the independent variable?",
+    "choices": {
+      "A": "Plant height after 3 weeks",
+      "B": "Type of soil used",
+      "C": "Number of hours of light each day",
+      "D": "Number of leaves at the end of the experiment"
+    },
+    "correct": "C",
+    "explanation": "The independent variable is what the experimenter changes on purpose. The main trap is A because plant height is the measured outcome, so it is the dependent variable."
+  },
+  {
+    "id": "TS1-042",
+    "prompt": "A student measures the effect of exercise on heart rate by recording pulse before and after running.\nQuestion:\nWhich measurement is the dependent variable?",
+    "choices": {
+      "A": "The age of the student",
+      "B": "The pulse rate",
+      "C": "The running shoes used",
+      "D": "The day of the week"
+    },
+    "correct": "B",
+    "explanation": "The dependent variable is the response being measured, which here is pulse rate. The main trap is A because age is not the measured result of the experiment."
+  },
+  {
+    "id": "TS1-043",
+    "prompt": "A teacher writes the following statement:\nIf bean plants receive more hours of sunlight each day, then they will grow taller over two weeks.\nQuestion:\nThis statement is best described as",
+    "choices": {
+      "A": "a control",
+      "B": "a conclusion",
+      "C": "a hypothesis",
+      "D": "an observation"
+    },
+    "correct": "C",
+    "explanation": "A hypothesis is a testable prediction, often written in if-then form. The main trap is B because a conclusion is made after collecting data, not before."
+  },
+  {
+    "id": "TS1-044",
+    "prompt": "A student repeats the same experiment five times and obtains similar results each time.\nQuestion:\nWhy are repeated trials useful?",
+    "choices": {
+      "A": "They guarantee the hypothesis is correct.",
+      "B": "They reduce the need for a control group.",
+      "C": "They improve the reliability of the results.",
+      "D": "They eliminate all sources of error."
+    },
+    "correct": "C",
+    "explanation": "Repeated trials help show whether results are consistent and dependable. The main trap is A because repeated trials do not prove a hypothesis is true."
+  },
+  {
+    "id": "TS1-045",
+    "prompt": "An experiment measures enzyme activity at different temperatures.\nTemperature (°C) — Enzyme activity\n10 — low\n25 — moderate\n37 — high\n60 — very low\nQuestion:\nBased on the data, at which temperature is the enzyme most active?",
+    "choices": {
+      "A": "10°C",
+      "B": "25°C",
+      "C": "37°C",
+      "D": "60°C"
+    },
+    "correct": "C",
+    "explanation": "The table shows the highest enzyme activity at 37°C. The main trap is B because moderate activity is lower than high activity."
+  },
+  {
+    "id": "TS1-046",
+    "prompt": "A student concludes that drinking more water causes higher test scores because the students who brought water bottles had higher average grades than those who did not.\nQuestion:\nWhat is the biggest problem with this conclusion?",
+    "choices": {
+      "A": "It assumes a cause-and-effect relationship from limited observational data.",
+      "B": "It uses too many experimental trials.",
+      "C": "It includes both an independent and dependent variable.",
+      "D": "It measures water use too precisely."
+    },
+    "correct": "A",
+    "explanation": "The observation shows a correlation, but it does not prove that water bottles caused higher grades. The main trap is C because having variables is not the reasoning flaw."
+  },
+  {
+    "id": "TS1-047",
+    "prompt": "A graduated cylinder contains 18 mL of water. A rock is placed into the cylinder, and the water level rises to 26 mL.\nQuestion:\nWhat is the volume of the rock?",
+    "choices": {
+      "A": "8 mL",
+      "B": "18 mL",
+      "C": "26 mL",
+      "D": "44 mL"
+    },
+    "correct": "A",
+    "explanation": "The rock’s volume equals the water displacement: 26 mL − 18 mL = 8 mL. The main trap is C because 26 mL is the final water level, not the rock’s volume."
+  },
+  {
+    "id": "TS1-048",
+    "prompt": "A student accidentally spills a small amount of dilute acid on the lab table.\nQuestion:\nWhat should the student do first?",
+    "choices": {
+      "A": "Ignore it because the amount is small.",
+      "B": "Wipe it up with a bare hand.",
+      "C": "Notify the teacher and follow lab cleanup instructions.",
+      "D": "Pour another chemical on it to cancel the spill."
+    },
+    "correct": "C",
+    "explanation": "Chemical spills should be handled using the teacher’s instructions and proper safety procedures. The main trap is D because mixing chemicals can make the situation more dangerous."
+  },
+  {
+    "id": "TS1-049",
+    "prompt": "An experiment compares four groups of identical plants grown under different light colors for 3 weeks.\nLight color — Average height\nRed — 14 cm\nBlue — 18 cm\nGreen — 11 cm\nWhite — 16 cm\nQuestion:\nWhich light color produced the tallest average plants?",
+    "choices": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Green",
+      "D": "White"
+    },
+    "correct": "B",
+    "explanation": "The tallest average height in the table is 18 cm under blue light. The main trap is D because white light produced 16 cm, which is lower."
+  },
+  {
+    "id": "TS1-050",
+    "prompt": "A student measures the pulse rates of 5 volunteers after exercise: 96, 100, 102, 104, and 108 beats per minute.\nQuestion:\nWhat is the mean pulse rate?",
+    "choices": {
+      "A": "100 beats per minute",
+      "B": "101 beats per minute",
+      "C": "102 beats per minute",
+      "D": "104 beats per minute"
+    },
+    "correct": "C",
+    "explanation": "Add the values to get 510, then divide by 5 to get 102. The main trap is D because 104 is one of the data values, not the mean."
+  }
+]

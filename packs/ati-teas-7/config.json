@@ -1,0 +1,60 @@
+{
+  "examId": "ati-teas-7",
+  "brandName": "ATI TEAS 7 Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/ati-teas-7/assets/logo.png",
+  "accessPassword": "TEAS2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "reading",
+      "label": "Reading",
+      "timeMin": 55,
+      "examQuestions": 45,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "reading_exam_01.json"
+      ]
+    },
+    {
+      "id": "math",
+      "label": "Math",
+      "timeMin": 57,
+      "examQuestions": 38,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "math_exam_01.json"
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "timeMin": 60,
+      "examQuestions": 50,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "science_exam_01.json"
+      ]
+    },
+    {
+      "id": "english",
+      "label": "English and Language Usage",
+      "timeMin": 37,
+      "examQuestions": 37,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "english_exam_01.json"
+      ]
+    }
+  ],
+  "printables": []
+}

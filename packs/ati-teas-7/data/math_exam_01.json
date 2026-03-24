@@ -1,0 +1,458 @@
+[
+  {
+    "id": "TM1-001",
+    "prompt": "What is 2/3 + 1/6?",
+    "choices": {
+      "A": "1/2",
+      "B": "5/6",
+      "C": "3/9",
+      "D": "7/6"
+    },
+    "correct": "B",
+    "explanation": "Convert 2/3 to 4/6, then add 4/6 + 1/6 = 5/6."
+  },
+  {
+    "id": "TM1-002",
+    "prompt": "What is 7.2 ÷ 0.6?",
+    "choices": {
+      "A": "1.2",
+      "B": "12",
+      "C": "72",
+      "D": "4.32"
+    },
+    "correct": "B",
+    "explanation": "Dividing by 0.6 is the same as dividing by 6/10. So 7.2 ÷ 0.6 = 12."
+  },
+  {
+    "id": "TM1-003",
+    "prompt": "What is 25% of 84?",
+    "choices": {
+      "A": "19",
+      "B": "20",
+      "C": "21",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "25% = 0.25, and 0.25 × 84 = 21."
+  },
+  {
+    "id": "TM1-004",
+    "prompt": "A clinic uses 3 boxes of gloves every 2 days. At the same rate, how many boxes of gloves will the clinic use in 10 days?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "3 boxes every 2 days means 1.5 boxes per day. Over 10 days: 1.5 × 10 = 15."
+  },
+  {
+    "id": "TM1-005",
+    "prompt": "Evaluate: 18 ÷ 3 + 4 × 2",
+    "choices": {
+      "A": "14",
+      "B": "20",
+      "C": "12",
+      "D": "10"
+    },
+    "correct": "A",
+    "explanation": "Use order of operations: 18 ÷ 3 = 6 and 4 × 2 = 8, then 6 + 8 = 14."
+  },
+  {
+    "id": "TM1-006",
+    "prompt": "What is √49 + 2³?",
+    "choices": {
+      "A": "11",
+      "B": "13",
+      "C": "15",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "√49 = 7 and 2³ = 8, so 7 + 8 = 15."
+  },
+  {
+    "id": "TM1-007",
+    "prompt": "Solve for x: 5x − 7 = 18",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Add 7 to both sides to get 5x = 25, then divide by 5."
+  },
+  {
+    "id": "TM1-008",
+    "prompt": "Solve the inequality: 3x + 4 ≤ 19",
+    "choices": {
+      "A": "x ≤ 5",
+      "B": "x ≥ 5",
+      "C": "x ≤ 15",
+      "D": "x ≥ 15"
+    },
+    "correct": "A",
+    "explanation": "Subtract 4 from both sides: 3x ≤ 15. Divide by 3 to get x ≤ 5."
+  },
+  {
+    "id": "TM1-009",
+    "prompt": "Use the formula d = rt. If r = 55 miles per hour and t = 4 hours, what is d?",
+    "choices": {
+      "A": "59 miles",
+      "B": "110 miles",
+      "C": "220 miles",
+      "D": "275 miles"
+    },
+    "correct": "C",
+    "explanation": "Use d = rt. Then d = 55 × 4 = 220."
+  },
+  {
+    "id": "TM1-010",
+    "prompt": "A rectangle has a length of 8 cm and a width of 5 cm. What is its perimeter?",
+    "choices": {
+      "A": "13 cm",
+      "B": "26 cm",
+      "C": "40 cm",
+      "D": "80 cm"
+    },
+    "correct": "B",
+    "explanation": "Perimeter of a rectangle is 2l + 2w = 2(8) + 2(5) = 26."
+  },
+  {
+    "id": "TM1-011",
+    "prompt": "A triangle has a base of 12 ft and a height of 7 ft. What is its area?",
+    "choices": {
+      "A": "19 ft²",
+      "B": "42 ft²",
+      "C": "84 ft²",
+      "D": "96 ft²"
+    },
+    "correct": "B",
+    "explanation": "Area of a triangle is (1/2)bh = (1/2)(12)(7) = 42."
+  },
+  {
+    "id": "TM1-012",
+    "prompt": "A rectangular prism has a length of 4 in, a width of 3 in, and a height of 6 in. What is its volume?",
+    "choices": {
+      "A": "13 in³",
+      "B": "24 in³",
+      "C": "72 in³",
+      "D": "96 in³"
+    },
+    "correct": "C",
+    "explanation": "Volume of a rectangular prism is lwh = 4 × 3 × 6 = 72."
+  },
+  {
+    "id": "TM1-013",
+    "prompt": "How many hours are in 150 minutes?",
+    "choices": {
+      "A": "2",
+      "B": "2.25",
+      "C": "2.5",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "Divide 150 by 60 minutes per hour: 150 ÷ 60 = 2.5."
+  },
+  {
+    "id": "TM1-014",
+    "prompt": "A pack of bottled water costs $6 for 24 bottles. What is the cost per bottle?",
+    "choices": {
+      "A": "$0.20",
+      "B": "$0.25",
+      "C": "$0.30",
+      "D": "$0.40"
+    },
+    "correct": "B",
+    "explanation": "Divide total cost by number of bottles: 6 ÷ 24 = 0.25."
+  },
+  {
+    "id": "TM1-015",
+    "prompt": "A backpack that normally costs $48 is on sale for 25% off. What is the sale price?",
+    "choices": {
+      "A": "$12",
+      "B": "$24",
+      "C": "$36",
+      "D": "$42"
+    },
+    "correct": "C",
+    "explanation": "25% of $48 is $12, and $48 − $12 = $36."
+  },
+  {
+    "id": "TM1-016",
+    "prompt": "On a map, 1 inch represents 8 miles. If two towns are 3.5 inches apart on the map, how many miles apart are they in real life?",
+    "choices": {
+      "A": "24 miles",
+      "B": "28 miles",
+      "C": "32 miles",
+      "D": "36 miles"
+    },
+    "correct": "B",
+    "explanation": "Multiply 3.5 inches by 8 miles per inch: 3.5 × 8 = 28."
+  },
+  {
+    "id": "TM1-017",
+    "prompt": "Find the mean of the numbers 72, 80, 84, 84, and 90.",
+    "choices": {
+      "A": "80",
+      "B": "82",
+      "C": "84",
+      "D": "85"
+    },
+    "correct": "B",
+    "explanation": "Add the numbers: 72 + 80 + 84 + 84 + 90 = 410. Then 410 ÷ 5 = 82."
+  },
+  {
+    "id": "TM1-018",
+    "prompt": "Find the median of the numbers 5, 7, 9, 12, 18, and 20.",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "10.5",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "With 6 numbers, the median is the average of the middle two: (9 + 12) ÷ 2 = 10.5."
+  },
+  {
+    "id": "TM1-019",
+    "prompt": "What is the mode of the data set 4, 6, 6, 8, 9, 6, 10?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "The mode is the number that appears most often. Here, 6 appears 3 times."
+  },
+  {
+    "id": "TM1-020",
+    "prompt": "A bag contains 3 red marbles, 5 blue marbles, and 2 green marbles. If 1 marble is chosen at random, what is the probability of choosing a blue marble?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/2",
+      "C": "3/5",
+      "D": "5/3"
+    },
+    "correct": "B",
+    "explanation": "There are 10 marbles total and 5 are blue, so the probability is 5/10 = 1/2."
+  },
+  {
+    "id": "TM1-021",
+    "prompt": "A table shows the number of patients checked in each hour.\n8:00-9:00 — 6\n9:00-10:00 — 9\n10:00-11:00 — 7\n11:00-12:00 — 11\nWhich hour had the greatest number of patient check-ins?",
+    "choices": {
+      "A": "8:00-9:00",
+      "B": "9:00-10:00",
+      "C": "10:00-11:00",
+      "D": "11:00-12:00"
+    },
+    "correct": "D",
+    "explanation": "Compare the values 6, 9, 7, and 11. The greatest is 11."
+  },
+  {
+    "id": "TM1-022",
+    "prompt": "A line graph of daily water intake shows:\nMonday — 6 cups\nTuesday — 8 cups\nWednesday — 7 cups\nThursday — 9 cups\nFriday — 9 cups\nOn which two days was the water intake the same?",
+    "choices": {
+      "A": "Monday and Wednesday",
+      "B": "Tuesday and Thursday",
+      "C": "Thursday and Friday",
+      "D": "Wednesday and Friday"
+    },
+    "correct": "C",
+    "explanation": "The graph values show 9 cups on Thursday and 9 cups on Friday."
+  },
+  {
+    "id": "TM1-023",
+    "prompt": "What is 3/5 written as a decimal?",
+    "choices": {
+      "A": "0.3",
+      "B": "0.5",
+      "C": "0.6",
+      "D": "0.8"
+    },
+    "correct": "C",
+    "explanation": "Divide 3 by 5 to convert the fraction to a decimal: 3 ÷ 5 = 0.6."
+  },
+  {
+    "id": "TM1-024",
+    "prompt": "A store charges 6% sales tax on a $50 purchase. What is the total cost?",
+    "choices": {
+      "A": "$53",
+      "B": "$56",
+      "C": "$50.30",
+      "D": "$47"
+    },
+    "correct": "A",
+    "explanation": "Sales tax is 0.06 × 50 = 3. Add the tax: 50 + 3 = 53."
+  },
+  {
+    "id": "TM1-025",
+    "prompt": "Evaluate 2a² − 3 when a = 4.",
+    "choices": {
+      "A": "13",
+      "B": "29",
+      "C": "32",
+      "D": "35"
+    },
+    "correct": "B",
+    "explanation": "First find 4² = 16. Then 2 × 16 = 32, and 32 − 3 = 29."
+  },
+  {
+    "id": "TM1-026",
+    "prompt": "Solve for x: 4(x − 3) = 20",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Divide both sides by 4 to get x − 3 = 5. Then add 3 to get x = 8."
+  },
+  {
+    "id": "TM1-027",
+    "prompt": "What is 0.75 written as a percent?",
+    "choices": {
+      "A": "7.5%",
+      "B": "75%",
+      "C": "750%",
+      "D": "0.75%"
+    },
+    "correct": "B",
+    "explanation": "Multiply the decimal by 100: 0.75 × 100 = 75%."
+  },
+  {
+    "id": "TM1-028",
+    "prompt": "What is √144?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Since 12 × 12 = 144, √144 = 12."
+  },
+  {
+    "id": "TM1-029",
+    "prompt": "A circle has a radius of 3 cm. What is its area?",
+    "choices": {
+      "A": "6π cm²",
+      "B": "9π cm²",
+      "C": "12π cm²",
+      "D": "18π cm²"
+    },
+    "correct": "B",
+    "explanation": "Area of a circle is A = πr². With r = 3, A = π(3²) = 9π."
+  },
+  {
+    "id": "TM1-030",
+    "prompt": "A circle has a diameter of 10 in. What is its circumference?",
+    "choices": {
+      "A": "5π in",
+      "B": "10π in",
+      "C": "20π in",
+      "D": "25π in"
+    },
+    "correct": "B",
+    "explanation": "Circumference is C = πd. With diameter 10, C = 10π."
+  },
+  {
+    "id": "TM1-031",
+    "prompt": "Use the formula I = Prt. What is the simple interest on $500 invested at 4% for 2 years?",
+    "choices": {
+      "A": "$20",
+      "B": "$40",
+      "C": "$50",
+      "D": "$100"
+    },
+    "correct": "B",
+    "explanation": "I = Prt = 500 × 0.04 × 2 = 40."
+  },
+  {
+    "id": "TM1-032",
+    "prompt": "A chart shows the number of volunteer hours completed by four students.\nAna — 6\nBen — 10\nCara — 8\nDevin — 10\nWho completed the greatest number of volunteer hours?",
+    "choices": {
+      "A": "Ana",
+      "B": "Ben and Devin",
+      "C": "Cara",
+      "D": "Ana and Cara"
+    },
+    "correct": "B",
+    "explanation": "The greatest value in the chart is 10, and both Ben and Devin have 10 hours."
+  },
+  {
+    "id": "TM1-033",
+    "prompt": "A recipe uses 3/4 cup of sugar for 1 batch of muffins. How much sugar is needed for 6 batches?",
+    "choices": {
+      "A": "3 cups",
+      "B": "4 cups",
+      "C": "4.5 cups",
+      "D": "6 cups"
+    },
+    "correct": "C",
+    "explanation": "Multiply 3/4 by 6: (3/4) × 6 = 18/4 = 4.5."
+  },
+  {
+    "id": "TM1-034",
+    "prompt": "A car traveled 180 miles in 3 hours. What was the average speed?",
+    "choices": {
+      "A": "45 miles per hour",
+      "B": "55 miles per hour",
+      "C": "60 miles per hour",
+      "D": "90 miles per hour"
+    },
+    "correct": "C",
+    "explanation": "Average speed = distance ÷ time = 180 ÷ 3 = 60."
+  },
+  {
+    "id": "TM1-035",
+    "prompt": "A spinner is divided into 8 equal sections: 3 blue, 2 red, and 3 yellow. What is the probability of landing on red?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "3/8",
+      "D": "1/2"
+    },
+    "correct": "B",
+    "explanation": "There are 2 red sections out of 8 total, so 2/8 = 1/4."
+  },
+  {
+    "id": "TM1-036",
+    "prompt": "A student earns $480 in a week. She spends $150 on rent, $85 on groceries, and $40 on gas. How much money does she have left?",
+    "choices": {
+      "A": "$195",
+      "B": "$205",
+      "C": "$215",
+      "D": "$245"
+    },
+    "correct": "B",
+    "explanation": "Total spending is 150 + 85 + 40 = 275. Then 480 − 275 = 205."
+  },
+  {
+    "id": "TM1-037",
+    "prompt": "How many milliliters are in 2.5 liters?",
+    "choices": {
+      "A": "25 mL",
+      "B": "250 mL",
+      "C": "2,500 mL",
+      "D": "25,000 mL"
+    },
+    "correct": "C",
+    "explanation": "1 liter = 1,000 mL, so 2.5 liters = 2.5 × 1,000 = 2,500 mL."
+  },
+  {
+    "id": "TM1-038",
+    "prompt": "A table shows the cost of notebooks.\n4 notebooks — $6\n10 notebooks — ?\nIf the cost stays proportional, what is the cost of 10 notebooks?",
+    "choices": {
+      "A": "$12",
+      "B": "$15",
+      "C": "$18",
+      "D": "$24"
+    },
+    "correct": "B",
+    "explanation": "If 4 notebooks cost $6, then 1 notebook costs $1.50. Multiply 1.50 × 10 = 15."
+  }
+]
