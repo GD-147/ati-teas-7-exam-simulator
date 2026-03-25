@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS6-001",
+    "prompt": "The heart muscle needs its own blood supply in order to function.\nQuestion:\nWhich blood vessels supply oxygen-rich blood directly to the heart muscle?",
+    "choices": {
+      "A": "Pulmonary veins",
+      "B": "Coronary arteries",
+      "C": "Vena cavae",
+      "D": "Pulmonary arteries"
+    },
+    "correct": "B",
+    "explanation": "Coronary arteries branch from the aorta and supply the heart muscle itself with oxygen-rich blood. The main trap is Pulmonary veins because they return oxygenated blood from the lungs to the heart, not to the heart muscle."
+  },
+  {
+    "id": "TS6-002",
+    "prompt": "Several structures in the throat help move air, produce sound, and protect the airway.\nQuestion:\nWhich structure is commonly called the voice box?",
+    "choices": {
+      "A": "Larynx",
+      "B": "Esophagus",
+      "C": "Trachea",
+      "D": "Pharynx"
+    },
+    "correct": "A",
+    "explanation": "The larynx contains the vocal cords and is commonly called the voice box. The main trap is Pharynx because the pharynx is a shared passageway for food and air, not the main sound-producing structure."
+  },
+  {
+    "id": "TS6-003",
+    "prompt": "The pituitary gland releases several hormones that affect growth and other body functions.\nQuestion:\nWhich hormone most directly stimulates body growth?",
+    "choices": {
+      "A": "Growth hormone",
+      "B": "Melatonin",
+      "C": "Glucagon",
+      "D": "Thyroxine"
+    },
+    "correct": "A",
+    "explanation": "Growth hormone from the pituitary stimulates growth of bones and other tissues. The main trap is Thyroxine because thyroid hormone affects metabolism, not direct overall body growth in the same way."
+  },
+  {
+    "id": "TS6-004",
+    "prompt": "The adrenal glands release several hormones that help maintain homeostasis.\nQuestion:\nWhich hormone helps regulate sodium and water balance by acting on the kidneys?",
+    "choices": {
+      "A": "Aldosterone",
+      "B": "Insulin",
+      "C": "Estrogen",
+      "D": "Calcitonin"
+    },
+    "correct": "A",
+    "explanation": "Aldosterone helps the kidneys retain sodium and water, supporting fluid balance. The main trap is Calcitonin because calcitonin is involved in calcium regulation, not sodium-water balance."
+  },
+  {
+    "id": "TS6-005",
+    "prompt": "The lymphatic system helps maintain fluid balance in the body.\nQuestion:\nWhat is a major function of lymphatic vessels?",
+    "choices": {
+      "A": "To carry food from the stomach to the intestines",
+      "B": "To return excess tissue fluid to the bloodstream",
+      "C": "To pump oxygen-rich blood to the body",
+      "D": "To produce digestive enzymes"
+    },
+    "correct": "B",
+    "explanation": "Lymphatic vessels collect excess interstitial fluid and return it to circulation. The main trap is To pump oxygen-rich blood to the body because that is the heart’s role."
+  },
+  {
+    "id": "TS6-006",
+    "prompt": "The lining of the uterus changes during the menstrual cycle.\nQuestion:\nWhat is the endometrium?",
+    "choices": {
+      "A": "The outer layer of the skin",
+      "B": "The muscular wall of the heart",
+      "C": "The inner lining of the uterus",
+      "D": "The opening of the cervix"
+    },
+    "correct": "C",
+    "explanation": "The endometrium lines the uterus and thickens in preparation for implantation. The main trap is The opening of the cervix because the cervix is a different anatomical structure."
+  },
+  {
+    "id": "TS6-007",
+    "prompt": "The scrotum is part of the male reproductive system.\nQuestion:\nWhat is a major function of the scrotum?",
+    "choices": {
+      "A": "To produce sperm cells",
+      "B": "To keep the testes at a temperature slightly below body temperature",
+      "C": "To carry sperm to the urethra",
+      "D": "To release testosterone into the bloodstream"
+    },
+    "correct": "B",
+    "explanation": "The scrotum helps regulate temperature for proper sperm production. The main trap is To produce sperm cells because sperm are produced in the testes, not the scrotum."
+  },
+  {
+    "id": "TS6-008",
+    "prompt": "Skin color depends partly on a pigment called melanin.\nQuestion:\nWhich cells in the skin produce melanin?",
+    "choices": {
+      "A": "Neutrophils",
+      "B": "Melanocytes",
+      "C": "Platelets",
+      "D": "Osteocytes"
+    },
+    "correct": "B",
+    "explanation": "Melanocytes produce melanin in the skin. The main trap is Neutrophils because neutrophils are white blood cells, not pigment-producing cells."
+  },
+  {
+    "id": "TS6-009",
+    "prompt": "The inner ear contains structures involved in hearing and balance.\nQuestion:\nWhich structures are most directly involved in maintaining balance?",
+    "choices": {
+      "A": "Cochlea",
+      "B": "Semicircular canals",
+      "C": "Alveoli",
+      "D": "Cornea"
+    },
+    "correct": "B",
+    "explanation": "The semicircular canals detect head movement and help maintain balance. The main trap is Cochlea because the cochlea is mainly responsible for hearing."
+  },
+  {
+    "id": "TS6-010",
+    "prompt": "Bone tissue is constantly being broken down and rebuilt.\nQuestion:\nWhich cells build new bone tissue?",
+    "choices": {
+      "A": "Osteoblasts",
+      "B": "Osteoclasts",
+      "C": "Nephrons",
+      "D": "Alveoli"
+    },
+    "correct": "A",
+    "explanation": "Osteoblasts build new bone matrix. The main trap is Osteoclasts because osteoclasts break down bone rather than build it."
+  },
+  {
+    "id": "TS6-011",
+    "prompt": "The stomach produces hydrochloric acid.\nQuestion:\nWhat is one major function of hydrochloric acid in the stomach?",
+    "choices": {
+      "A": "To absorb nutrients into the blood",
+      "B": "To neutralize basic chyme",
+      "C": "To help break down food and activate digestive enzymes",
+      "D": "To store bile for fat digestion"
+    },
+    "correct": "C",
+    "explanation": "Hydrochloric acid helps denature proteins and activates enzymes such as pepsin. The main trap is To neutralize basic chyme because the stomach is acidic, not neutralizing."
+  },
+  {
+    "id": "TS6-012",
+    "prompt": "The pancreas releases digestive substances into the small intestine.\nQuestion:\nWhat is the main function of bicarbonate released by the pancreas?",
+    "choices": {
+      "A": "To increase the acidity of chyme",
+      "B": "To neutralize acidic chyme entering the small intestine",
+      "C": "To digest proteins directly",
+      "D": "To absorb glucose into the bloodstream"
+    },
+    "correct": "B",
+    "explanation": "Pancreatic bicarbonate helps protect the intestine by neutralizing the acidic material from the stomach. The main trap is To digest proteins directly because bicarbonate is not itself a digestive enzyme."
+  },
+  {
+    "id": "TS6-013",
+    "prompt": "The human skeleton is divided into axial and appendicular portions.\nQuestion:\nWhich structure is part of the axial skeleton?",
+    "choices": {
+      "A": "Femur",
+      "B": "Humerus",
+      "C": "Skull",
+      "D": "Radius"
+    },
+    "correct": "C",
+    "explanation": "The skull is part of the axial skeleton along with the vertebral column and rib cage. The main trap is Femur because the femur belongs to the appendicular skeleton."
+  },
+  {
+    "id": "TS6-014",
+    "prompt": "The nervous system uses different kinds of neurons.\nQuestion:\nWhat is the main function of a sensory neuron?",
+    "choices": {
+      "A": "To carry impulses from receptors to the central nervous system",
+      "B": "To carry impulses from muscles to bones",
+      "C": "To release insulin into the bloodstream",
+      "D": "To break down nutrients in the stomach"
+    },
+    "correct": "A",
+    "explanation": "Sensory neurons transmit information from sense receptors to the CNS. The main trap is To carry impulses from muscles to bones because neurons do not perform that function."
+  },
+  {
+    "id": "TS6-015",
+    "prompt": "The heart contains valves that keep blood moving in one direction.\nQuestion:\nWhich valve is located between the right atrium and right ventricle?",
+    "choices": {
+      "A": "Mitral valve",
+      "B": "Aortic valve",
+      "C": "Tricuspid valve",
+      "D": "Pulmonary valve"
+    },
+    "correct": "C",
+    "explanation": "The tricuspid valve lies between the right atrium and right ventricle. The main trap is Mitral valve because that valve is between the left atrium and left ventricle."
+  },
+  {
+    "id": "TS6-016",
+    "prompt": "Several hormones help regulate reproduction and development.\nQuestion:\nWhich hormone most directly stimulates milk production after childbirth?",
+    "choices": {
+      "A": "Prolactin",
+      "B": "Aldosterone",
+      "C": "Glucagon",
+      "D": "Melatonin"
+    },
+    "correct": "A",
+    "explanation": "Prolactin stimulates milk production after childbirth. The main trap is Glucagon because glucagon is involved in blood glucose regulation."
+  },
+  {
+    "id": "TS6-017",
+    "prompt": "The wall of the heart is made of several tissue layers.\nQuestion:\nWhich layer is the thick muscular layer responsible for pumping blood?",
+    "choices": {
+      "A": "Epidermis",
+      "B": "Myocardium",
+      "C": "Endometrium",
+      "D": "Pericardium only"
+    },
+    "correct": "B",
+    "explanation": "The myocardium is the thick muscular layer that contracts to pump blood. The main trap is Pericardium only because the pericardium is the protective sac around the heart, not the main pumping layer."
+  },
+  {
+    "id": "TS6-018",
+    "prompt": "Blood calcium levels must remain within a narrow range.\nQuestion:\nWhich hormone helps lower blood calcium levels?",
+    "choices": {
+      "A": "Calcitonin",
+      "B": "Insulin",
+      "C": "Progesterone",
+      "D": "Epinephrine"
+    },
+    "correct": "A",
+    "explanation": "Calcitonin helps lower blood calcium levels. The main trap is Insulin because insulin regulates glucose, not calcium."
+  },
+  {
+    "id": "TS6-019",
+    "prompt": "Neurons communicate with one another at specialized junctions.\nQuestion:\nWhat is a synapse?",
+    "choices": {
+      "A": "A type of white blood cell",
+      "B": "The gap where one neuron communicates with another",
+      "C": "The membrane around the lungs",
+      "D": "The valve between the atrium and ventricle"
+    },
+    "correct": "B",
+    "explanation": "A synapse is the junction between cells where signals are transmitted. The main trap is A type of white blood cell because a synapse is part of the nervous system, not the immune system."
+  },
+  {
+    "id": "TS6-020",
+    "prompt": "The alveoli are lined with a substance called surfactant.\nQuestion:\nWhat is the main function of surfactant?",
+    "choices": {
+      "A": "To thicken the blood",
+      "B": "To reduce surface tension and help keep alveoli from collapsing",
+      "C": "To digest proteins in the lungs",
+      "D": "To store oxygen for later use"
+    },
+    "correct": "B",
+    "explanation": "Surfactant helps alveoli remain open for gas exchange. The main trap is To store oxygen for later use because surfactant is not an oxygen reservoir."
+  },
+  {
+    "id": "TS6-021",
+    "prompt": "Plants contain a pigment that absorbs light energy for photosynthesis.\nQuestion:\nWhat is the main function of chlorophyll?",
+    "choices": {
+      "A": "To transport sugars through the stem",
+      "B": "To absorb light energy",
+      "C": "To build ribosomes",
+      "D": "To store genetic information"
+    },
+    "correct": "B",
+    "explanation": "Chlorophyll captures light used in photosynthesis. The main trap is To transport sugars through the stem because sugar transport is mainly a phloem function."
+  },
+  {
+    "id": "TS6-022",
+    "prompt": "Plants use two main types of vascular tissue: xylem and phloem.\nQuestion:\nWhat is the main function of phloem?",
+    "choices": {
+      "A": "To transport sugars through the plant",
+      "B": "To absorb water from the air",
+      "C": "To carry oxygen to the roots",
+      "D": "To anchor the plant in the soil"
+    },
+    "correct": "A",
+    "explanation": "Phloem carries sugars and other organic products of photosynthesis. The main trap is To absorb water from the air because that is not phloem’s role."
+  },
+  {
+    "id": "TS6-023",
+    "prompt": "Enzymes speed up reactions by interacting with specific molecules.\nQuestion:\nWhy is an enzyme usually able to act on only certain substrates?",
+    "choices": {
+      "A": "Its active site has a specific shape",
+      "B": "It contains DNA",
+      "C": "It changes into a lipid during the reaction",
+      "D": "It works only in the nucleus"
+    },
+    "correct": "A",
+    "explanation": "Enzyme specificity depends on the match between substrate and active site. The main trap is It contains DNA because DNA is not what determines ordinary enzyme specificity."
+  },
+  {
+    "id": "TS6-024",
+    "prompt": "When oxygen is unavailable, some cells can still release a small amount of energy from glucose.\nQuestion:\nThis process is called",
+    "choices": {
+      "A": "photosynthesis",
+      "B": "fermentation",
+      "C": "osmosis",
+      "D": "mitosis"
+    },
+    "correct": "B",
+    "explanation": "Fermentation allows limited energy release without oxygen. The main trap is photosynthesis because photosynthesis stores energy rather than releasing it from glucose."
+  },
+  {
+    "id": "TS6-025",
+    "prompt": "In an ecosystem, there is a limit to how many individuals of a species can be supported over time.\nQuestion:\nWhat is this limit called?",
+    "choices": {
+      "A": "Mutation rate",
+      "B": "Carrying capacity",
+      "C": "Allele frequency",
+      "D": "Trophic level"
+    },
+    "correct": "B",
+    "explanation": "Carrying capacity is the maximum population size an environment can support sustainably. The main trap is Trophic level because trophic level refers to feeding position in a food web."
+  },
+  {
+    "id": "TS6-026",
+    "prompt": "Each species has a particular role in its environment.\nQuestion:\nThis role is best described as the species’",
+    "choices": {
+      "A": "nucleus",
+      "B": "niche",
+      "C": "genotype",
+      "D": "chromosome"
+    },
+    "correct": "B",
+    "explanation": "A niche is the role and way of life of a species within its ecosystem. The main trap is genotype because genotype refers to genetic makeup, not ecological role."
+  },
+  {
+    "id": "TS6-027",
+    "prompt": "Some organisms make their own food using light or chemical energy.\nQuestion:\nSuch organisms are called",
+    "choices": {
+      "A": "autotrophs",
+      "B": "consumers",
+      "C": "decomposers only",
+      "D": "parasites"
+    },
+    "correct": "A",
+    "explanation": "Autotrophs make their own food using light or chemical energy. The main trap is consumers because consumers obtain energy by eating other organisms."
+  },
+  {
+    "id": "TS6-028",
+    "prompt": "Yeast can reproduce asexually by forming a small outgrowth that enlarges and separates.\nQuestion:\nThis process is called",
+    "choices": {
+      "A": "meiosis",
+      "B": "budding",
+      "C": "fertilization",
+      "D": "transpiration"
+    },
+    "correct": "B",
+    "explanation": "Budding is an asexual reproductive process in which a new organism grows off the parent. The main trap is meiosis because meiosis produces sex cells rather than new yeast individuals by outgrowth."
+  },
+  {
+    "id": "TS6-029",
+    "prompt": "The cell membrane is made mainly of a phospholipid bilayer.\nQuestion:\nWhat is a major function of the phospholipid bilayer?",
+    "choices": {
+      "A": "To copy chromosomes before cell division",
+      "B": "To act as a selective barrier between the cell and its environment",
+      "C": "To produce ATP for the cell",
+      "D": "To form the spindle fibers in mitosis"
+    },
+    "correct": "B",
+    "explanation": "The phospholipid bilayer helps control what enters and leaves the cell. The main trap is To produce ATP for the cell because ATP is mainly produced in mitochondria."
+  },
+  {
+    "id": "TS6-030",
+    "prompt": "Two parents have genotypes Aa and aa for a trait where A is dominant over a.\nQuestion:\nWhat is the probability that their child will show the dominant phenotype?",
+    "choices": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "correct": "C",
+    "explanation": "Aa × aa gives offspring Aa and aa in equal proportions, so half show the dominant phenotype. The main trap is 100% because the recessive aa genotype is also possible."
+  },
+  {
+    "id": "TS6-031",
+    "prompt": "Human body cells usually contain 46 chromosomes.\nQuestion:\nHow many chromosomes are normally found in a human gamete?",
+    "choices": {
+      "A": "23",
+      "B": "24",
+      "C": "46",
+      "D": "92"
+    },
+    "correct": "A",
+    "explanation": "Human gametes contain half the number of chromosomes found in body cells. The main trap is 46 because that is the diploid number in typical body cells."
+  },
+  {
+    "id": "TS6-032",
+    "prompt": "Before a cell divides, it copies its DNA.\nQuestion:\nWhat is the purpose of DNA replication?",
+    "choices": {
+      "A": "To make a copy of genetic material before cell division",
+      "B": "To produce ATP for muscle movement",
+      "C": "To move water across the membrane",
+      "D": "To digest nutrients in the cytoplasm"
+    },
+    "correct": "A",
+    "explanation": "DNA replication ensures each daughter cell can receive a full set of genetic instructions. The main trap is To move water across the membrane because that is unrelated to DNA replication."
+  },
+  {
+    "id": "TS6-033",
+    "prompt": "A plant cell is placed in distilled water, which has a lower solute concentration than the inside of the cell.\nQuestion:\nWhat will most likely happen to the plant cell?",
+    "choices": {
+      "A": "It will lose water and shrink.",
+      "B": "It will take in water and become more turgid.",
+      "C": "It will immediately lose its cell wall.",
+      "D": "It will stop using ATP permanently."
+    },
+    "correct": "B",
+    "explanation": "Water moves into the plant cell by osmosis in a hypotonic solution, increasing turgor. The main trap is It will lose water and shrink because that happens in a hypertonic environment."
+  },
+  {
+    "id": "TS6-034",
+    "prompt": "An atom gains one electron.\nQuestion:\nWhat kind of ion does it become?",
+    "choices": {
+      "A": "A positive ion called a cation",
+      "B": "A negative ion called an anion",
+      "C": "A neutral isotope",
+      "D": "A proton"
+    },
+    "correct": "B",
+    "explanation": "Gaining an electron gives the atom a net negative charge. The main trap is A positive ion called a cation because cations form when electrons are lost."
+  },
+  {
+    "id": "TS6-035",
+    "prompt": "When an acid reacts with a base, a neutralization reaction can occur.\nQuestion:\nWhat are the usual products of a neutralization reaction?",
+    "choices": {
+      "A": "A salt and water",
+      "B": "Two acids",
+      "C": "Oxygen and carbon dioxide",
+      "D": "A protein and a lipid"
+    },
+    "correct": "A",
+    "explanation": "Neutralization reactions between acids and bases typically produce salt and water. The main trap is Oxygen and carbon dioxide because that is not the usual neutralization result."
+  },
+  {
+    "id": "TS6-036",
+    "prompt": "A sugar cube dissolves faster when crushed into smaller pieces before being added to water.\nQuestion:\nWhy does crushing the sugar usually increase the dissolving rate?",
+    "choices": {
+      "A": "It lowers the temperature of the solution.",
+      "B": "It increases the surface area of the sugar.",
+      "C": "It turns the sugar into a new substance.",
+      "D": "It removes the need for stirring."
+    },
+    "correct": "B",
+    "explanation": "More exposed surface allows the solvent to interact with the solute faster. The main trap is It turns the sugar into a new substance because crushing is a physical change, not a chemical one."
+  },
+  {
+    "id": "TS6-037",
+    "prompt": "Water molecules are polar.\nQuestion:\nWhy is water able to dissolve many ionic and polar substances?",
+    "choices": {
+      "A": "Because water molecules have regions of slight positive and slight negative charge",
+      "B": "Because water contains metal atoms",
+      "C": "Because water molecules are nonpolar",
+      "D": "Because water always has a pH of 0"
+    },
+    "correct": "A",
+    "explanation": "Water’s polarity helps it interact with and dissolve many ionic and polar substances. The main trap is Because water molecules are nonpolar because that is false."
+  },
+  {
+    "id": "TS6-038",
+    "prompt": "Dry ice changes directly from a solid to a gas.\nQuestion:\nThis phase change is called",
+    "choices": {
+      "A": "condensation",
+      "B": "sublimation",
+      "C": "freezing",
+      "D": "deposition"
+    },
+    "correct": "B",
+    "explanation": "Sublimation is the direct change from solid to gas. The main trap is deposition because deposition is the reverse process, gas to solid."
+  },
+  {
+    "id": "TS6-039",
+    "prompt": "O₂ consists of two oxygen atoms bonded together.\nQuestion:\nWhich statement best describes O₂?",
+    "choices": {
+      "A": "It is a compound made of two different elements.",
+      "B": "It is a molecule made of two atoms of the same element.",
+      "C": "It is a heterogeneous mixture.",
+      "D": "It is an ion with a negative charge."
+    },
+    "correct": "B",
+    "explanation": "O₂ is a diatomic molecule of oxygen, not a compound of different elements. The main trap is It is a compound made of two different elements because both atoms are oxygen."
+  },
+  {
+    "id": "TS6-040",
+    "prompt": "Elements in the same vertical column of the periodic table often behave similarly in chemical reactions.\nQuestion:\nWhy do elements in the same group often have similar chemical properties?",
+    "choices": {
+      "A": "They have the same number of neutrons.",
+      "B": "They have the same number of valence electrons.",
+      "C": "They all have the same mass number.",
+      "D": "They are always in the same physical state."
+    },
+    "correct": "B",
+    "explanation": "Similar valence electron arrangements lead to similar chemical behavior within a group. The main trap is They have the same number of neutrons because group membership is not based on neutron count."
+  },
+  {
+    "id": "TS6-041",
+    "prompt": "A solution with pH 11 is compared with a solution of pH 8.\nQuestion:\nWhich statement is correct?",
+    "choices": {
+      "A": "The pH 11 solution is more acidic.",
+      "B": "The pH 8 solution is more basic than the pH 11 solution.",
+      "C": "The pH 11 solution is more basic than the pH 8 solution.",
+      "D": "Both solutions are neutral."
+    },
+    "correct": "C",
+    "explanation": "Higher pH above 7 means a stronger basic character. The main trap is Both solutions are neutral because only pH 7 is neutral."
+  },
+  {
+    "id": "TS6-042",
+    "prompt": "A student records the following data from a plant experiment:\nPlant height — 12 cm\nNumber of leaves — 9\nLeaf color — dark green\nMass of soil — 250 g\nQuestion:\nWhich piece of data is qualitative?",
+    "choices": {
+      "A": "Plant height — 12 cm",
+      "B": "Number of leaves — 9",
+      "C": "Leaf color — dark green",
+      "D": "Mass of soil — 250 g"
+    },
+    "correct": "C",
+    "explanation": "Qualitative data are descriptive rather than numerical. The main trap is Plant height — 12 cm because that is quantitative."
+  },
+  {
+    "id": "TS6-043",
+    "prompt": "A student tests whether different amounts of fertilizer affect tomato plant height. The student keeps the type of plant, amount of sunlight, and amount of water the same.\nQuestion:\nWhat are the factors kept the same called?",
+    "choices": {
+      "A": "Constants",
+      "B": "Hypotheses",
+      "C": "Conclusions",
+      "D": "Replicates"
+    },
+    "correct": "A",
+    "explanation": "The factors kept the same are constants or controlled variables. The main trap is Replicates because replicates are repeated samples or trials, not simply the unchanged variables."
+  },
+  {
+    "id": "TS6-044",
+    "prompt": "Two groups of students throw paper airplanes. Group A’s throws land close together but far from the target. Group B’s throws land all over the room.\nQuestion:\nWhich statement best describes Group A’s results?",
+    "choices": {
+      "A": "They are precise but not accurate.",
+      "B": "They are accurate but not precise.",
+      "C": "They are both accurate and precise.",
+      "D": "They are neither accurate nor measurable."
+    },
+    "correct": "A",
+    "explanation": "Group A’s throws are clustered together, showing precision, but they are far from the target, showing poor accuracy. The main trap is They are accurate but not precise because the pattern described is the opposite."
+  },
+  {
+    "id": "TS6-045",
+    "prompt": "A researcher wants to survey student opinions about school lunches.\nQuestion:\nWhich sampling method would best reduce selection bias?",
+    "choices": {
+      "A": "Survey only students who buy lunch on Friday.",
+      "B": "Survey only the researcher’s friends.",
+      "C": "Randomly select students from the entire school.",
+      "D": "Survey only students in one science class."
+    },
+    "correct": "C",
+    "explanation": "Random selection from the whole population helps reduce selection bias. The main trap is Survey only students in one science class because that sample is limited and potentially biased."
+  },
+  {
+    "id": "TS6-046",
+    "prompt": "A study measures how often people exercise and compares that with their stress levels. The researchers do not assign exercise routines.\nQuestion:\nWhy can this study show correlation but not strong proof of causation?",
+    "choices": {
+      "A": "Because the study does not control variables by assigning treatments",
+      "B": "Because exercise can never affect stress",
+      "C": "Because stress cannot be measured",
+      "D": "Because all scientific studies prove causation automatically"
+    },
+    "correct": "A",
+    "explanation": "Observational studies can show associations, but without controlled assignment they cannot strongly establish cause and effect. The main trap is Because stress cannot be measured because stress can be measured in various ways."
+  },
+  {
+    "id": "TS6-047",
+    "prompt": "During a lab, a student drops a broken beaker on the floor.\nQuestion:\nWhat should the student do first?",
+    "choices": {
+      "A": "Pick up the glass with bare hands",
+      "B": "Sweep the glass into the regular trash can immediately",
+      "C": "Notify the teacher and use proper cleanup procedures for broken glass",
+      "D": "Kick the pieces under the lab table"
+    },
+    "correct": "C",
+    "explanation": "Broken glass should be handled using approved safety procedures, not bare hands. The main trap is Sweep the glass into the regular trash can immediately because disposal also needs to follow lab safety rules."
+  },
+  {
+    "id": "TS6-048",
+    "prompt": "A student with long hair is preparing to use a Bunsen burner.\nQuestion:\nWhat is the safest action before lighting the burner?",
+    "choices": {
+      "A": "Leave the hair loose for comfort",
+      "B": "Tie back the hair and secure loose clothing",
+      "C": "Stand as close to the flame as possible",
+      "D": "Remove the safety goggles"
+    },
+    "correct": "B",
+    "explanation": "Securing hair and clothing reduces the risk of fire or accidental contact with the flame. The main trap is Leave the hair loose for comfort because that is unsafe around an open flame."
+  },
+  {
+    "id": "TS6-049",
+    "prompt": "A student needs to transfer a small amount of liquid with a pipette.\nQuestion:\nWhat is the safest way to fill the pipette?",
+    "choices": {
+      "A": "Use the mouth to draw up the liquid",
+      "B": "Use a pipette bulb or other pipetting device",
+      "C": "Tilt the bottle and pour directly into the pipette by hand",
+      "D": "Shake the pipette until the liquid enters"
+    },
+    "correct": "B",
+    "explanation": "Laboratory liquids should never be drawn into a pipette by mouth. The main trap is Use the mouth to draw up the liquid because that creates a serious safety risk."
+  },
+  {
+    "id": "TS6-050",
+    "prompt": "A student is measuring the mass of a sample on a balance using a weighing boat.\nQuestion:\nWhat should the student do before adding the sample if the weighing boat is already on the balance?",
+    "choices": {
+      "A": "Ignore the boat’s mass",
+      "B": "Zero or tare the balance with the weighing boat on it",
+      "C": "Add the sample first and subtract an estimate later",
+      "D": "Tilt the balance slightly to improve the reading"
+    },
+    "correct": "B",
+    "explanation": "Taring removes the mass of the weighing boat so the measurement reflects only the sample. The main trap is Add the sample first and subtract an estimate later because estimation reduces accuracy."
+  }
+]

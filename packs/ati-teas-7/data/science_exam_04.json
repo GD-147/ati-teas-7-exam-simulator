@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS4-001",
+    "prompt": "Deoxygenated blood returning from the body enters the heart through the superior and inferior vena cava.\nQuestion:\nWhich chamber of the heart receives this blood first?",
+    "choices": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Left ventricle",
+      "D": "Right ventricle"
+    },
+    "correct": "B",
+    "explanation": "Blood returning from the body enters the right atrium first. The main trap is Right ventricle because blood moves there only after leaving the right atrium."
+  },
+  {
+    "id": "TS4-002",
+    "prompt": "Air travels from the trachea into smaller and smaller passages in the lungs before reaching the alveoli.\nQuestion:\nWhich structures are the small airway branches that lead directly toward the alveoli?",
+    "choices": {
+      "A": "Bronchioles",
+      "B": "Ureters",
+      "C": "Capillaries",
+      "D": "Villi"
+    },
+    "correct": "A",
+    "explanation": "Bronchioles are the smaller airway branches that lead toward the alveoli. The main trap is Capillaries because capillaries are blood vessels, not air passages."
+  },
+  {
+    "id": "TS4-003",
+    "prompt": "The ovaries are endocrine organs as well as reproductive organs.\nQuestion:\nWhich hormone is produced by the ovaries and helps regulate the menstrual cycle?",
+    "choices": {
+      "A": "Estrogen",
+      "B": "Melatonin",
+      "C": "Cortisol",
+      "D": "Aldosterone"
+    },
+    "correct": "A",
+    "explanation": "The ovaries produce estrogen, which helps regulate the menstrual cycle and female reproductive traits. The main trap is Cortisol because cortisol is associated with the adrenal glands."
+  },
+  {
+    "id": "TS4-004",
+    "prompt": "The kidneys help maintain a stable internal environment by filtering the blood.\nQuestion:\nWhich is a major function of the kidneys?",
+    "choices": {
+      "A": "To pump oxygenated blood through the body",
+      "B": "To remove wastes and help regulate fluid balance",
+      "C": "To store bile for fat digestion",
+      "D": "To produce nerve impulses for muscle movement"
+    },
+    "correct": "B",
+    "explanation": "The kidneys filter blood, remove wastes, and help control water and electrolyte balance. The main trap is To store bile for fat digestion because that is the gallbladder’s role."
+  },
+  {
+    "id": "TS4-005",
+    "prompt": "The human body contains three major types of muscle tissue.\nQuestion:\nWhich statement correctly describes cardiac muscle?",
+    "choices": {
+      "A": "It is voluntary and found attached to bones.",
+      "B": "It is involuntary and found in the heart.",
+      "C": "It is involuntary and found in the stomach only.",
+      "D": "It is voluntary and found in the skin."
+    },
+    "correct": "B",
+    "explanation": "Cardiac muscle is unique to the heart and works without conscious control. The main trap is It is involuntary and found in the stomach only because stomach walls contain smooth muscle, not cardiac muscle."
+  },
+  {
+    "id": "TS4-006",
+    "prompt": "During labor, contractions stimulate the release of oxytocin, which causes even stronger contractions.\nQuestion:\nThis is an example of",
+    "choices": {
+      "A": "negative feedback",
+      "B": "positive feedback",
+      "C": "diffusion",
+      "D": "osmosis"
+    },
+    "correct": "B",
+    "explanation": "Labor contractions strengthen through a reinforcing loop, which is positive feedback. The main trap is negative feedback because negative feedback works to reverse a change rather than amplify it."
+  },
+  {
+    "id": "TS4-007",
+    "prompt": "Digestion begins in the mouth.\nQuestion:\nWhat is the main role of teeth in digestion?",
+    "choices": {
+      "A": "To absorb nutrients into the bloodstream",
+      "B": "To move oxygen into the lungs",
+      "C": "To mechanically break food into smaller pieces",
+      "D": "To release bile into the stomach"
+    },
+    "correct": "C",
+    "explanation": "Teeth perform mechanical digestion by chewing and breaking food apart. The main trap is To absorb nutrients into the bloodstream because absorption occurs mainly in the intestines."
+  },
+  {
+    "id": "TS4-008",
+    "prompt": "The immune system uses several types of white blood cells to defend the body.\nQuestion:\nWhich cells are most directly responsible for producing antibodies?",
+    "choices": {
+      "A": "Red blood cells",
+      "B": "B lymphocytes",
+      "C": "Platelets",
+      "D": "Nephrons"
+    },
+    "correct": "B",
+    "explanation": "B cells produce antibodies that help the immune system target pathogens. The main trap is Platelets because platelets are involved in clotting, not antibody production."
+  },
+  {
+    "id": "TS4-009",
+    "prompt": "Different parts of the brain control different functions.\nQuestion:\nWhich part of the brain is most directly involved in conscious thought and voluntary movement?",
+    "choices": {
+      "A": "Cerebrum",
+      "B": "Cerebellum",
+      "C": "Medulla oblongata",
+      "D": "Spinal cord"
+    },
+    "correct": "A",
+    "explanation": "The cerebrum is responsible for higher thought, memory, and voluntary movement. The main trap is Cerebellum because the cerebellum is more involved in balance and coordination."
+  },
+  {
+    "id": "TS4-010",
+    "prompt": "Sound waves travel through the ear and stimulate sensory receptors.\nQuestion:\nWhich structure of the inner ear contains the receptors used for hearing?",
+    "choices": {
+      "A": "Cochlea",
+      "B": "Cornea",
+      "C": "Alveolus",
+      "D": "Pharynx"
+    },
+    "correct": "A",
+    "explanation": "The cochlea contains sensory receptors for hearing. The main trap is Cornea because the cornea is part of the eye."
+  },
+  {
+    "id": "TS4-011",
+    "prompt": "Hair and nails are made largely of the same structural protein.\nQuestion:\nWhich protein is most abundant in hair and nails?",
+    "choices": {
+      "A": "Keratin",
+      "B": "Hemoglobin",
+      "C": "Insulin",
+      "D": "Collagenase"
+    },
+    "correct": "A",
+    "explanation": "Keratin is the main structural protein in hair and nails. The main trap is Hemoglobin because hemoglobin is found in red blood cells."
+  },
+  {
+    "id": "TS4-012",
+    "prompt": "After picking up oxygen in the lungs, blood returns to the heart.\nQuestion:\nWhich blood vessels carry oxygenated blood from the lungs to the heart?",
+    "choices": {
+      "A": "Pulmonary veins",
+      "B": "Pulmonary arteries",
+      "C": "Coronary arteries",
+      "D": "Vena cava"
+    },
+    "correct": "A",
+    "explanation": "Pulmonary veins carry oxygen-rich blood from the lungs to the heart. The main trap is Pulmonary arteries because they carry blood from the heart to the lungs."
+  },
+  {
+    "id": "TS4-013",
+    "prompt": "The pancreas releases two major hormones that help regulate blood glucose.\nQuestion:\nWhich hormone raises blood glucose levels?",
+    "choices": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Estrogen",
+      "D": "Melatonin"
+    },
+    "correct": "B",
+    "explanation": "Glucagon raises blood glucose levels, often working opposite insulin. The main trap is Insulin because insulin lowers blood glucose."
+  },
+  {
+    "id": "TS4-014",
+    "prompt": "The throat contains a shared passageway used by both the respiratory and digestive systems.\nQuestion:\nWhich structure serves as a common passageway for both food and air?",
+    "choices": {
+      "A": "Pharynx",
+      "B": "Ureter",
+      "C": "Trachea",
+      "D": "Bronchiole"
+    },
+    "correct": "A",
+    "explanation": "The pharynx serves as a shared passageway for food and air. The main trap is Trachea because the trachea carries air only."
+  },
+  {
+    "id": "TS4-015",
+    "prompt": "Movable joints contain a lubricating fluid that helps them function smoothly.\nQuestion:\nWhat is the main function of synovial fluid?",
+    "choices": {
+      "A": "To produce red blood cells",
+      "B": "To lubricate the joint and reduce friction",
+      "C": "To connect muscle to bone",
+      "D": "To transmit electrical impulses"
+    },
+    "correct": "B",
+    "explanation": "Synovial fluid helps joints move smoothly. The main trap is To connect muscle to bone because tendons perform that function."
+  },
+  {
+    "id": "TS4-016",
+    "prompt": "The liver has many functions in the body besides making bile.\nQuestion:\nWhich is another major function of the liver?",
+    "choices": {
+      "A": "Storing glycogen and helping detoxify blood",
+      "B": "Producing urine for the bladder",
+      "C": "Carrying impulses away from neurons",
+      "D": "Pumping blood toward the lungs"
+    },
+    "correct": "A",
+    "explanation": "The liver stores glycogen and helps process toxins. The main trap is Producing urine for the bladder because urine is produced by the kidneys."
+  },
+  {
+    "id": "TS4-017",
+    "prompt": "Light enters the eye through several transparent structures before reaching the retina.\nQuestion:\nWhich structure changes shape to help focus light onto the retina?",
+    "choices": {
+      "A": "Lens",
+      "B": "Iris",
+      "C": "Cochlea",
+      "D": "Epidermis"
+    },
+    "correct": "A",
+    "explanation": "The lens changes shape to focus light on the retina. The main trap is Iris because the iris controls the amount of light entering the eye."
+  },
+  {
+    "id": "TS4-018",
+    "prompt": "Many axons in the nervous system are wrapped in myelin.\nQuestion:\nWhat is a major function of the myelin sheath?",
+    "choices": {
+      "A": "To digest wastes inside the neuron",
+      "B": "To slow the nerve impulse",
+      "C": "To insulate the axon and speed signal transmission",
+      "D": "To store genetic information"
+    },
+    "correct": "C",
+    "explanation": "Myelin helps nerve impulses travel more quickly and efficiently. The main trap is To store genetic information because DNA stores genetic information, not myelin."
+  },
+  {
+    "id": "TS4-019",
+    "prompt": "Several glands add fluid to sperm as it moves through the male reproductive system.\nQuestion:\nWhich structure contributes fluid that becomes part of semen?",
+    "choices": {
+      "A": "Seminal vesicle",
+      "B": "Retina",
+      "C": "Urethra",
+      "D": "Spleen"
+    },
+    "correct": "A",
+    "explanation": "The seminal vesicles add fluid that helps form semen. The main trap is Urethra because the urethra is a passageway, not a gland that adds fluid."
+  },
+  {
+    "id": "TS4-020",
+    "prompt": "As air enters the respiratory system, it passes through the nose.\nQuestion:\nWhat is a major function of the nasal cavity?",
+    "choices": {
+      "A": "To warm, moisten, and filter incoming air",
+      "B": "To exchange gases with the blood",
+      "C": "To move food into the esophagus",
+      "D": "To pump blood through the body"
+    },
+    "correct": "A",
+    "explanation": "The nasal cavity conditions incoming air before it reaches the lungs. The main trap is To exchange gases with the blood because gas exchange happens in the lungs."
+  },
+  {
+    "id": "TS4-021",
+    "prompt": "Bones do more than provide support and protection.\nQuestion:\nWhich is a major role of bones in the human body?",
+    "choices": {
+      "A": "Producing hormones for digestion only",
+      "B": "Storing minerals such as calcium and phosphorus",
+      "C": "Absorbing oxygen from inhaled air",
+      "D": "Breaking down fats in the small intestine"
+    },
+    "correct": "B",
+    "explanation": "Bones act as an important mineral reservoir. The main trap is Absorbing oxygen from inhaled air because that is a respiratory function."
+  },
+  {
+    "id": "TS4-022",
+    "prompt": "The brain and spinal cord are surrounded by a protective fluid.\nQuestion:\nWhat is the main function of cerebrospinal fluid?",
+    "choices": {
+      "A": "To carry oxygen in red blood cells",
+      "B": "To cushion and protect the central nervous system",
+      "C": "To digest proteins in the stomach",
+      "D": "To regulate blood glucose directly"
+    },
+    "correct": "B",
+    "explanation": "Cerebrospinal fluid surrounds the brain and spinal cord and helps protect them. The main trap is To carry oxygen in red blood cells because red blood cells carry oxygen, not cerebrospinal fluid."
+  },
+  {
+    "id": "TS4-023",
+    "prompt": "Some cell structures are covered with ribosomes and help process proteins.\nQuestion:\nWhich organelle fits this description?",
+    "choices": {
+      "A": "Rough endoplasmic reticulum",
+      "B": "Smooth endoplasmic reticulum",
+      "C": "Centriole",
+      "D": "Vacuole"
+    },
+    "correct": "A",
+    "explanation": "Rough ER has ribosomes attached and helps process proteins. The main trap is Smooth endoplasmic reticulum because smooth ER lacks ribosomes."
+  },
+  {
+    "id": "TS4-024",
+    "prompt": "Chromosomes in body cells are usually arranged in pairs.\nQuestion:\nWhat are homologous chromosomes?",
+    "choices": {
+      "A": "Chromosomes that carry the same genes for the same traits",
+      "B": "Chromosomes found only in bacteria",
+      "C": "Chromosomes that contain no DNA",
+      "D": "Chromosomes that are always identical in every way"
+    },
+    "correct": "A",
+    "explanation": "Homologous chromosomes have corresponding gene locations. The main trap is Chromosomes that are always identical in every way because homologous pairs can carry different alleles."
+  },
+  {
+    "id": "TS4-025",
+    "prompt": "A person has the genotype Tt for a trait.\nQuestion:\nHow is this genotype best described?",
+    "choices": {
+      "A": "Homozygous dominant",
+      "B": "Homozygous recessive",
+      "C": "Heterozygous",
+      "D": "Mutated"
+    },
+    "correct": "C",
+    "explanation": "Tt contains two different alleles, so it is heterozygous. The main trap is Homozygous dominant because that would be TT."
+  },
+  {
+    "id": "TS4-026",
+    "prompt": "Cells use glucose to release usable energy.\nQuestion:\nWhat is the main purpose of cellular respiration?",
+    "choices": {
+      "A": "To make proteins from amino acids",
+      "B": "To release energy from food molecules",
+      "C": "To copy DNA in the nucleus",
+      "D": "To build cell walls in animals"
+    },
+    "correct": "B",
+    "explanation": "Cellular respiration breaks down glucose to produce usable energy. The main trap is To make proteins from amino acids because that is protein synthesis, not respiration."
+  },
+  {
+    "id": "TS4-027",
+    "prompt": "ATP is often described as the cell’s immediate energy source.\nQuestion:\nWhat does ATP provide to cells?",
+    "choices": {
+      "A": "Stored genetic instructions",
+      "B": "Short-term usable energy",
+      "C": "Long-term insulation",
+      "D": "Oxygen for the bloodstream"
+    },
+    "correct": "B",
+    "explanation": "ATP provides immediately available energy for cell activities. The main trap is Stored genetic instructions because that role belongs to nucleic acids."
+  },
+  {
+    "id": "TS4-028",
+    "prompt": "A rabbit lives in a grassy field with shrubs, soil, water, and shelter.\nQuestion:\nThe place where the rabbit lives is its",
+    "choices": {
+      "A": "habitat",
+      "B": "phenotype",
+      "C": "allele",
+      "D": "mutation"
+    },
+    "correct": "A",
+    "explanation": "A habitat is the place where an organism lives. The main trap is phenotype because phenotype means observable traits."
+  },
+  {
+    "id": "TS4-029",
+    "prompt": "A forest fire destroys most plants in an area, but the soil remains.\nQuestion:\nWhich process is most likely to occur as the area gradually recovers?",
+    "choices": {
+      "A": "Primary succession",
+      "B": "Secondary succession",
+      "C": "Genetic drift",
+      "D": "Photosynthesis"
+    },
+    "correct": "B",
+    "explanation": "Secondary succession occurs when soil remains after a disturbance such as a fire. The main trap is Primary succession because primary succession begins without soil."
+  },
+  {
+    "id": "TS4-030",
+    "prompt": "Ecosystems include both living and nonliving factors.\nQuestion:\nWhich of the following is an abiotic factor?",
+    "choices": {
+      "A": "Grass",
+      "B": "Frog",
+      "C": "Sunlight",
+      "D": "Bacteria"
+    },
+    "correct": "C",
+    "explanation": "Abiotic factors are nonliving parts of an ecosystem, such as sunlight. The main trap is Grass because grass is living."
+  },
+  {
+    "id": "TS4-031",
+    "prompt": "In a pond, algae are eaten by small snails, and the snails are eaten by fish.\nQuestion:\nWhich organism is the secondary consumer in this food chain?",
+    "choices": {
+      "A": "Algae",
+      "B": "Snail",
+      "C": "Fish",
+      "D": "Water"
+    },
+    "correct": "C",
+    "explanation": "The fish eats the primary consumer, so it is the secondary consumer. The main trap is Snail because the snail eats the producer."
+  },
+  {
+    "id": "TS4-032",
+    "prompt": "Changes in DNA can introduce new traits into a population.\nQuestion:\nWhat is a mutation?",
+    "choices": {
+      "A": "A change in genetic material",
+      "B": "A type of muscle tissue",
+      "C": "A balanced chemical equation",
+      "D": "A form of osmosis"
+    },
+    "correct": "A",
+    "explanation": "A mutation is an alteration in DNA. The main trap is A balanced chemical equation because that has nothing to do with genetics."
+  },
+  {
+    "id": "TS4-033",
+    "prompt": "Bacteria reproduce asexually by dividing into two identical cells.\nQuestion:\nWhat is this process called?",
+    "choices": {
+      "A": "Meiosis",
+      "B": "Binary fission",
+      "C": "Fertilization",
+      "D": "Budding in plants"
+    },
+    "correct": "B",
+    "explanation": "Bacteria commonly reproduce by dividing into two identical cells through binary fission. The main trap is Meiosis because meiosis produces sex cells in eukaryotes."
+  },
+  {
+    "id": "TS4-034",
+    "prompt": "Some molecules move across the cell membrane from lower concentration to higher concentration.\nQuestion:\nWhich process requires energy from the cell?",
+    "choices": {
+      "A": "Diffusion",
+      "B": "Osmosis",
+      "C": "Active transport",
+      "D": "Evaporation"
+    },
+    "correct": "C",
+    "explanation": "Active transport moves substances against a concentration gradient and requires energy. The main trap is Diffusion because diffusion does not require cellular energy."
+  },
+  {
+    "id": "TS4-035",
+    "prompt": "Atoms contain subatomic particles with different charges.\nQuestion:\nWhat is the electrical charge of a proton?",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Neutral",
+      "D": "Variable"
+    },
+    "correct": "A",
+    "explanation": "Protons have a positive charge. The main trap is Neutral because neutrons are the neutral subatomic particles."
+  },
+  {
+    "id": "TS4-036",
+    "prompt": "The chemical formula CaCl₂ represents one calcium atom bonded with two chlorine atoms.\nQuestion:\nHow many chlorine atoms are present in one formula unit of CaCl₂?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "The subscript 2 after Cl shows that there are two chlorine atoms in CaCl₂. The main trap is 1 because there is only one calcium atom, not one chlorine atom."
+  },
+  {
+    "id": "TS4-037",
+    "prompt": "Two clear solutions are mixed, and a cloudy solid forms and settles at the bottom of the container.\nQuestion:\nThe solid that forms is called a",
+    "choices": {
+      "A": "solvent",
+      "B": "vapor",
+      "C": "precipitate",
+      "D": "catalyst"
+    },
+    "correct": "C",
+    "explanation": "A precipitate is a solid that forms from a chemical reaction in a solution. The main trap is solvent because the solvent is the substance doing the dissolving."
+  },
+  {
+    "id": "TS4-038",
+    "prompt": "When iron is left exposed to oxygen and moisture, rust forms.\nQuestion:\nRusting is best classified as which type of change?",
+    "choices": {
+      "A": "Physical change",
+      "B": "Chemical change",
+      "C": "Nuclear change",
+      "D": "Phase change only"
+    },
+    "correct": "B",
+    "explanation": "Rusting forms a new substance, iron oxide, so it is a chemical change. The main trap is Physical change because physical changes do not create a new substance."
+  },
+  {
+    "id": "TS4-039",
+    "prompt": "A puddle disappears on a warm day as liquid water changes into water vapor.\nQuestion:\nThis process is called",
+    "choices": {
+      "A": "freezing",
+      "B": "condensation",
+      "C": "evaporation",
+      "D": "precipitation"
+    },
+    "correct": "C",
+    "explanation": "Evaporation is the change from liquid water to water vapor. The main trap is Condensation because condensation is gas changing to liquid."
+  },
+  {
+    "id": "TS4-040",
+    "prompt": "Blue litmus paper is dipped into an unknown solution and turns red.\nQuestion:\nWhat does this result suggest about the solution?",
+    "choices": {
+      "A": "It is acidic.",
+      "B": "It is basic.",
+      "C": "It is neutral.",
+      "D": "It is radioactive."
+    },
+    "correct": "A",
+    "explanation": "Blue litmus paper turning red indicates an acid. The main trap is It is basic because bases do not cause that change."
+  },
+  {
+    "id": "TS4-041",
+    "prompt": "Table salt, sodium chloride, contains sodium and chlorine chemically bonded together.\nQuestion:\nSodium chloride is best classified as a",
+    "choices": {
+      "A": "compound",
+      "B": "mixture",
+      "C": "element",
+      "D": "suspension"
+    },
+    "correct": "A",
+    "explanation": "Sodium chloride is made of two elements chemically bonded together, so it is a compound. The main trap is mixture because compounds have fixed chemical compositions."
+  },
+  {
+    "id": "TS4-042",
+    "prompt": "A bottle of oil and vinegar dressing separates into visible layers when it sits still.\nQuestion:\nThis mixture is best described as",
+    "choices": {
+      "A": "homogeneous",
+      "B": "heterogeneous",
+      "C": "acidic",
+      "D": "saturated"
+    },
+    "correct": "B",
+    "explanation": "Visible layers mean the mixture is not uniform, so it is heterogeneous. The main trap is homogeneous because homogeneous mixtures look the same throughout."
+  },
+  {
+    "id": "TS4-043",
+    "prompt": "A student tests whether different amounts of compost affect the number of leaves on bean plants. The student counts the leaves after 3 weeks.\nQuestion:\nIn this experiment, what is the dependent variable?",
+    "choices": {
+      "A": "The amount of compost used",
+      "B": "The number of leaves after 3 weeks",
+      "C": "The type of bean plant",
+      "D": "The amount of sunlight available"
+    },
+    "correct": "B",
+    "explanation": "The dependent variable is what is measured in the experiment. The main trap is The amount of compost used because that is the independent variable."
+  },
+  {
+    "id": "TS4-044",
+    "prompt": "A student tests a stain remover on two identical shirts. One shirt is treated with the stain remover, and the other is washed with water only.\nQuestion:\nWhich shirt is the control group?",
+    "choices": {
+      "A": "The shirt treated with the stain remover",
+      "B": "The shirt washed with water only",
+      "C": "Both shirts together",
+      "D": "The stain itself"
+    },
+    "correct": "B",
+    "explanation": "The control group does not receive the treatment being tested. The main trap is The shirt treated with the stain remover because that is the experimental group."
+  },
+  {
+    "id": "TS4-045",
+    "prompt": "A student writes the following statement:\nIf tomato seedlings are grown with compost, then they will have more leaves after 2 weeks than tomato seedlings grown without compost.\nQuestion:\nThis statement is best described as",
+    "choices": {
+      "A": "an observation",
+      "B": "a conclusion",
+      "C": "a hypothesis",
+      "D": "a control"
+    },
+    "correct": "C",
+    "explanation": "The statement is a testable prediction, so it is a hypothesis. The main trap is a conclusion because conclusions are made after results are analyzed."
+  },
+  {
+    "id": "TS4-046",
+    "prompt": "A scientist incubates bacteria at different temperatures and counts the colonies that grow.\nTemperature — Number of colonies\n5°C — 1\n20°C — 11\n37°C — 25\n55°C — 4\nQuestion:\nBased on the data, at which temperature did the bacteria show the greatest growth?",
+    "choices": {
+      "A": "5°C",
+      "B": "20°C",
+      "C": "37°C",
+      "D": "55°C"
+    },
+    "correct": "C",
+    "explanation": "The greatest growth is shown by the highest colony number, 25, at 37°C. The main trap is 20°C because it shows some growth, but not the most."
+  },
+  {
+    "id": "TS4-047",
+    "prompt": "A scientist repeats an experiment using 200 volunteers instead of 8 volunteers.\nQuestion:\nWhy does a larger sample size usually improve a study?",
+    "choices": {
+      "A": "It guarantees the results are correct.",
+      "B": "It reduces the influence of random variation and unusual results.",
+      "C": "It removes the need for careful measurement.",
+      "D": "It makes control groups unnecessary."
+    },
+    "correct": "B",
+    "explanation": "Larger samples usually make findings more reliable by reducing the effect of outliers. The main trap is It guarantees the results are correct because larger samples improve confidence but do not guarantee correctness."
+  },
+  {
+    "id": "TS4-048",
+    "prompt": "A student heats a test tube over a flame during a lab.\nQuestion:\nFor safety, where should the open end of the test tube be pointed?",
+    "choices": {
+      "A": "Toward the student’s face",
+      "B": "Toward a classmate",
+      "C": "Away from all people",
+      "D": "Straight down at the lab table"
+    },
+    "correct": "C",
+    "explanation": "The open end of a heated test tube should always point away from people for safety. The main trap is Straight down at the lab table because that can still direct hot contents dangerously."
+  },
+  {
+    "id": "TS4-049",
+    "prompt": "A student needs to measure 12.5 mL of liquid as accurately as possible.\nQuestion:\nWhich tool is best for this measurement?",
+    "choices": {
+      "A": "Graduated cylinder",
+      "B": "Meter stick",
+      "C": "Triple-beam balance",
+      "D": "Thermometer"
+    },
+    "correct": "A",
+    "explanation": "A graduated cylinder is designed to measure liquid volume accurately. The main trap is Triple-beam balance because that measures mass, not volume."
+  },
+  {
+    "id": "TS4-050",
+    "prompt": "A plant-growth experiment changes both the amount of light and the amount of water at the same time.\nQuestion:\nWhy is this a problem for the experiment?",
+    "choices": {
+      "A": "It becomes impossible to know which variable caused the result.",
+      "B": "It guarantees faster plant growth.",
+      "C": "It makes the hypothesis automatically correct.",
+      "D": "It removes the need to measure plant growth."
+    },
+    "correct": "A",
+    "explanation": "Changing two variables at once prevents a clear conclusion about cause and effect. The main trap is It guarantees faster plant growth because changing multiple variables does not guarantee any outcome."
+  }
+]

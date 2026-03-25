@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS3-001",
+    "prompt": "Oxygenated blood leaves the left ventricle and enters a large artery before being distributed to the body.\nQuestion:\nWhich blood vessel carries this oxygenated blood from the left ventricle to the body?",
+    "choices": {
+      "A": "Pulmonary artery",
+      "B": "Aorta",
+      "C": "Vena cava",
+      "D": "Coronary sinus"
+    },
+    "correct": "B",
+    "explanation": "The aorta carries oxygen-rich blood from the left ventricle to the body. The main trap is Pulmonary artery because that vessel carries deoxygenated blood from the right ventricle to the lungs."
+  },
+  {
+    "id": "TS3-002",
+    "prompt": "The trachea is a tube that carries air toward the lungs. Rings of cartilage help support it.\nQuestion:\nWhat is the main function of the cartilage rings in the trachea?",
+    "choices": {
+      "A": "To increase gas exchange",
+      "B": "To prevent the airway from collapsing",
+      "C": "To absorb oxygen into the blood",
+      "D": "To move food into the stomach"
+    },
+    "correct": "B",
+    "explanation": "The cartilage rings support the trachea and keep it open for airflow. The main trap is To increase gas exchange because gas exchange occurs mainly in the alveoli, not the trachea."
+  },
+  {
+    "id": "TS3-003",
+    "prompt": "The pineal gland is a small endocrine gland in the brain.\nQuestion:\nWhich hormone is most closely associated with the pineal gland?",
+    "choices": {
+      "A": "Melatonin",
+      "B": "Glucagon",
+      "C": "Estrogen",
+      "D": "Aldosterone"
+    },
+    "correct": "A",
+    "explanation": "The pineal gland is most closely linked to melatonin production and sleep-wake regulation. The main trap is Glucagon because glucagon is produced by the pancreas."
+  },
+  {
+    "id": "TS3-004",
+    "prompt": "Urine is formed in the kidneys and then moves through the ureters.\nQuestion:\nWhich organ stores urine until it is released from the body?",
+    "choices": {
+      "A": "Urethra",
+      "B": "Urinary bladder",
+      "C": "Renal pelvis",
+      "D": "Adrenal gland"
+    },
+    "correct": "B",
+    "explanation": "The bladder stores urine until it is excreted. The main trap is Urethra because the urethra carries urine out of the body rather than storing it."
+  },
+  {
+    "id": "TS3-005",
+    "prompt": "Joints are stabilized by connective tissues that link structures together.\nQuestion:\nWhich structure connects bone to bone?",
+    "choices": {
+      "A": "Tendon",
+      "B": "Ligament",
+      "C": "Cartilage",
+      "D": "Fascia"
+    },
+    "correct": "B",
+    "explanation": "Ligaments connect bone to bone and help stabilize joints. The main trap is Tendon because tendons connect muscle to bone."
+  },
+  {
+    "id": "TS3-006",
+    "prompt": "A person walks outside on a cold day and begins shivering.\nQuestion:\nThis response is an example of",
+    "choices": {
+      "A": "positive feedback",
+      "B": "negative feedback",
+      "C": "natural selection",
+      "D": "diffusion"
+    },
+    "correct": "B",
+    "explanation": "Shivering helps raise body temperature back toward normal, which is a negative feedback response. The main trap is positive feedback because positive feedback amplifies a change instead of correcting it."
+  },
+  {
+    "id": "TS3-007",
+    "prompt": "After food is chewed and swallowed, it passes through a muscular tube before reaching the stomach.\nQuestion:\nWhich process helps move food through the esophagus?",
+    "choices": {
+      "A": "Filtration",
+      "B": "Peristalsis",
+      "C": "Osmosis",
+      "D": "Diffusion"
+    },
+    "correct": "B",
+    "explanation": "Peristalsis is the wave-like muscular movement that pushes food through the esophagus. The main trap is Diffusion because diffusion describes molecular movement, not muscular transport of food."
+  },
+  {
+    "id": "TS3-008",
+    "prompt": "The lymphatic system helps protect the body and returns excess tissue fluid to circulation.\nQuestion:\nWhich structure helps filter lymph and contains many immune cells?",
+    "choices": {
+      "A": "Alveolus",
+      "B": "Lymph node",
+      "C": "Tendon",
+      "D": "Bronchiole"
+    },
+    "correct": "B",
+    "explanation": "Lymph nodes filter lymph and contain immune cells that help fight infection. The main trap is Alveolus because alveoli are part of the respiratory system."
+  },
+  {
+    "id": "TS3-009",
+    "prompt": "A neuron has several parts, including dendrites, a cell body, and an axon.\nQuestion:\nWhat is the main function of the axon?",
+    "choices": {
+      "A": "To carry impulses away from the cell body",
+      "B": "To digest materials inside the neuron",
+      "C": "To produce red blood cells",
+      "D": "To store calcium for muscle movement"
+    },
+    "correct": "A",
+    "explanation": "The axon transmits nerve impulses away from the neuron’s cell body. The main trap is To digest materials inside the neuron because digestion is not the axon’s primary role."
+  },
+  {
+    "id": "TS3-010",
+    "prompt": "The male reproductive system includes structures that produce, store, and transport sperm.\nQuestion:\nWhich structure carries sperm away from the epididymis?",
+    "choices": {
+      "A": "Prostate gland",
+      "B": "Vas deferens",
+      "C": "Seminiferous tubule",
+      "D": "Scrotum"
+    },
+    "correct": "B",
+    "explanation": "The vas deferens transports sperm away from the epididymis. The main trap is Scrotum because the scrotum is an external sac, not a transport tube."
+  },
+  {
+    "id": "TS3-011",
+    "prompt": "Hormones regulate many functions in the female reproductive system.\nQuestion:\nWhich hormone helps prepare and maintain the uterine lining for possible pregnancy?",
+    "choices": {
+      "A": "Progesterone",
+      "B": "Insulin",
+      "C": "Thyroxine",
+      "D": "Epinephrine"
+    },
+    "correct": "A",
+    "explanation": "Progesterone helps prepare and maintain the uterine lining. The main trap is Insulin because insulin regulates blood glucose, not the uterine lining."
+  },
+  {
+    "id": "TS3-012",
+    "prompt": "The eye contains specialized structures that detect light and help form images.\nQuestion:\nWhich structure contains the photoreceptor cells that detect light?",
+    "choices": {
+      "A": "Retina",
+      "B": "Cornea",
+      "C": "Lens",
+      "D": "Iris"
+    },
+    "correct": "A",
+    "explanation": "The retina contains rods and cones, the photoreceptor cells that detect light. The main trap is Lens because the lens focuses light but does not detect it."
+  },
+  {
+    "id": "TS3-013",
+    "prompt": "The skin helps protect the body and contains several types of glands.\nQuestion:\nWhat do sebaceous glands primarily secrete?",
+    "choices": {
+      "A": "Sweat",
+      "B": "Oil",
+      "C": "Blood",
+      "D": "Mucus"
+    },
+    "correct": "B",
+    "explanation": "Sebaceous glands secrete oil that helps protect and lubricate the skin and hair. The main trap is Sweat because sweat is produced mainly by sweat glands."
+  },
+  {
+    "id": "TS3-014",
+    "prompt": "The circulatory system includes arteries, veins, and capillaries.\nQuestion:\nIn which blood vessels does most exchange of gases, nutrients, and wastes with body tissues occur?",
+    "choices": {
+      "A": "Arteries",
+      "B": "Veins",
+      "C": "Capillaries",
+      "D": "Atria"
+    },
+    "correct": "C",
+    "explanation": "Capillaries are the tiny blood vessels where most exchange with tissues occurs. The main trap is Arteries because arteries mainly transport blood away from the heart."
+  },
+  {
+    "id": "TS3-015",
+    "prompt": "Breathing involves more than the diaphragm alone. Muscles between the ribs also help change chest size.\nQuestion:\nWhich muscles help raise and lower the rib cage during breathing?",
+    "choices": {
+      "A": "Cardiac muscles",
+      "B": "Intercostal muscles",
+      "C": "Smooth muscles",
+      "D": "Deltoid muscles"
+    },
+    "correct": "B",
+    "explanation": "Intercostal muscles move the rib cage during breathing. The main trap is Smooth muscles because the muscles between the ribs are skeletal, not smooth."
+  },
+  {
+    "id": "TS3-016",
+    "prompt": "Joints allow movement where bones meet and contain structures that reduce friction.\nQuestion:\nWhat is a major function of cartilage at the ends of bones in a joint?",
+    "choices": {
+      "A": "To produce red blood cells",
+      "B": "To cushion bones and reduce friction",
+      "C": "To transmit nerve impulses",
+      "D": "To store digestive enzymes"
+    },
+    "correct": "B",
+    "explanation": "Cartilage at joints protects bone ends and helps movement occur smoothly. The main trap is To produce red blood cells because blood cell production occurs in bone marrow."
+  },
+  {
+    "id": "TS3-017",
+    "prompt": "The stomach performs both mechanical and chemical digestion.\nQuestion:\nWhich nutrient begins significant chemical digestion in the stomach?",
+    "choices": {
+      "A": "Protein",
+      "B": "Water",
+      "C": "Mineral",
+      "D": "Vitamin"
+    },
+    "correct": "A",
+    "explanation": "Chemical digestion of proteins begins significantly in the stomach, mainly through pepsin and acid. The main trap is Vitamin because vitamins are not chemically digested for energy in the same way."
+  },
+  {
+    "id": "TS3-018",
+    "prompt": "Urine leaves the body through a tube that extends from the bladder to the outside.\nQuestion:\nWhat is the name of this tube?",
+    "choices": {
+      "A": "Ureter",
+      "B": "Nephron",
+      "C": "Urethra",
+      "D": "Collecting duct"
+    },
+    "correct": "C",
+    "explanation": "The urethra carries urine from the bladder to the outside of the body. The main trap is Ureter because ureters carry urine from the kidneys to the bladder."
+  },
+  {
+    "id": "TS3-019",
+    "prompt": "The spleen is an organ located near the stomach and is part of the lymphatic and circulatory systems.\nQuestion:\nWhich is a major function of the spleen?",
+    "choices": {
+      "A": "To pump blood to the lungs",
+      "B": "To filter blood and help remove old red blood cells",
+      "C": "To produce bile for fat digestion",
+      "D": "To store urine before excretion"
+    },
+    "correct": "B",
+    "explanation": "The spleen filters blood and helps remove worn-out red blood cells while also supporting immune function. The main trap is To produce bile for fat digestion because that is a liver function."
+  },
+  {
+    "id": "TS3-020",
+    "prompt": "The testes are part of the male reproductive system.\nQuestion:\nWhich statement best describes a major function of the testes?",
+    "choices": {
+      "A": "They store bile for later release.",
+      "B": "They produce sperm and testosterone.",
+      "C": "They filter wastes from the blood.",
+      "D": "They regulate blood sugar directly."
+    },
+    "correct": "B",
+    "explanation": "The testes produce male gametes and the hormone testosterone. The main trap is They regulate blood sugar directly because that is mainly a pancreatic function."
+  },
+  {
+    "id": "TS3-021",
+    "prompt": "Plant cells contain structures not found in animal cells.\nQuestion:\nWhich structure helps provide support and protection outside the plant cell membrane?",
+    "choices": {
+      "A": "Cell wall",
+      "B": "Lysosome",
+      "C": "Centriole",
+      "D": "Ribosome"
+    },
+    "correct": "A",
+    "explanation": "The cell wall provides support and protection outside the membrane in plant cells. The main trap is Ribosome because ribosomes make proteins rather than support the cell externally."
+  },
+  {
+    "id": "TS3-022",
+    "prompt": "Some cells lack a nucleus and other membrane-bound organelles.\nQuestion:\nWhich type of cell has this simpler structure?",
+    "choices": {
+      "A": "Prokaryotic cell",
+      "B": "Eukaryotic cell",
+      "C": "Muscle cell",
+      "D": "Plant cell only"
+    },
+    "correct": "A",
+    "explanation": "Prokaryotic cells lack a nucleus and membrane-bound organelles. The main trap is Eukaryotic cell because eukaryotes do have a nucleus."
+  },
+  {
+    "id": "TS3-023",
+    "prompt": "Molecules naturally move in and out of cells.\nQuestion:\nWhich process describes the movement of molecules from an area of higher concentration to an area of lower concentration?",
+    "choices": {
+      "A": "Diffusion",
+      "B": "Mitosis",
+      "C": "Meiosis",
+      "D": "Respiration"
+    },
+    "correct": "A",
+    "explanation": "Diffusion is movement from higher concentration to lower concentration. The main trap is Mitosis because mitosis is cell division, not particle movement."
+  },
+  {
+    "id": "TS3-024",
+    "prompt": "DNA contains many genes arranged along chromosomes.\nQuestion:\nWhat is a gene?",
+    "choices": {
+      "A": "A complete organelle inside the cell",
+      "B": "A segment of DNA that carries information for a trait",
+      "C": "A protein that speeds a reaction",
+      "D": "A membrane surrounding the nucleus"
+    },
+    "correct": "B",
+    "explanation": "A gene is a section of DNA associated with a trait or protein product. The main trap is A protein that speeds a reaction because that describes an enzyme."
+  },
+  {
+    "id": "TS3-025",
+    "prompt": "Two parents have genotypes BB and bb for a trait where B is dominant.\nQuestion:\nWhat is the probability that their child will have the genotype Bb?",
+    "choices": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "correct": "D",
+    "explanation": "A BB × bb cross produces all Bb offspring. The main trap is 50% because that would apply to some different genetic crosses, not this one."
+  },
+  {
+    "id": "TS3-026",
+    "prompt": "Proteins are important biological macromolecules built from smaller subunits.\nQuestion:\nWhich type of molecule is the basic building block of proteins?",
+    "choices": {
+      "A": "Fatty acid",
+      "B": "Monosaccharide",
+      "C": "Amino acid",
+      "D": "Nucleotide"
+    },
+    "correct": "C",
+    "explanation": "Amino acids are the monomers that build proteins. The main trap is Monosaccharide because monosaccharides build carbohydrates."
+  },
+  {
+    "id": "TS3-027",
+    "prompt": "DNA and RNA are examples of nucleic acids.\nQuestion:\nWhat is a major function of nucleic acids?",
+    "choices": {
+      "A": "Long-term energy storage",
+      "B": "Storing and transmitting genetic information",
+      "C": "Forming waterproof cell coatings",
+      "D": "Providing insulation under the skin"
+    },
+    "correct": "B",
+    "explanation": "DNA and RNA carry genetic information used by cells. The main trap is Long-term energy storage because that is mainly a lipid function."
+  },
+  {
+    "id": "TS3-028",
+    "prompt": "A tick feeds on the blood of a dog and benefits while the dog is harmed.\nQuestion:\nWhich ecological relationship does this example describe?",
+    "choices": {
+      "A": "Mutualism",
+      "B": "Commensalism",
+      "C": "Parasitism",
+      "D": "Competition"
+    },
+    "correct": "C",
+    "explanation": "In parasitism, one organism benefits while the other is harmed. The main trap is Mutualism because mutualism benefits both organisms."
+  },
+  {
+    "id": "TS3-029",
+    "prompt": "A pond contains fish, frogs, insects, algae, and bacteria living together.\nQuestion:\nAll of these different populations living in the same area make up a",
+    "choices": {
+      "A": "population",
+      "B": "community",
+      "C": "species",
+      "D": "chromosome"
+    },
+    "correct": "B",
+    "explanation": "A community includes multiple populations of different species living in one area. The main trap is population because a population includes only one species."
+  },
+  {
+    "id": "TS3-030",
+    "prompt": "A forest includes trees, birds, insects, soil, water, sunlight, and air.\nQuestion:\nThis forest is best described as an",
+    "choices": {
+      "A": "adaptation",
+      "B": "ecosystem",
+      "C": "population",
+      "D": "organ system"
+    },
+    "correct": "B",
+    "explanation": "An ecosystem includes living and nonliving components interacting in an area. The main trap is population because that would not include all species and abiotic factors."
+  },
+  {
+    "id": "TS3-031",
+    "prompt": "Plant leaves contain tiny openings that allow gases to move in and out.\nQuestion:\nWhat are these openings called?",
+    "choices": {
+      "A": "Chloroplasts",
+      "B": "Stomata",
+      "C": "Roots",
+      "D": "Xylem"
+    },
+    "correct": "B",
+    "explanation": "Stomata are the small openings that allow gas exchange in leaves. The main trap is Xylem because xylem transports water rather than serving as surface openings."
+  },
+  {
+    "id": "TS3-032",
+    "prompt": "In a food chain, grass is eaten by grasshoppers, and grasshoppers are eaten by frogs.\nQuestion:\nWhich organism is the primary consumer?",
+    "choices": {
+      "A": "Grass",
+      "B": "Grasshopper",
+      "C": "Frog",
+      "D": "Soil bacteria"
+    },
+    "correct": "B",
+    "explanation": "A primary consumer eats producers, so the grasshopper is the primary consumer here. The main trap is Frog because the frog is a higher-level consumer."
+  },
+  {
+    "id": "TS3-033",
+    "prompt": "Farmers breed only corn plants with the largest ears so that future plants are more likely to have that trait.\nQuestion:\nThis process is best described as",
+    "choices": {
+      "A": "natural selection",
+      "B": "artificial selection",
+      "C": "spontaneous generation",
+      "D": "cellular respiration"
+    },
+    "correct": "B",
+    "explanation": "Humans are intentionally choosing which organisms reproduce, so this is artificial selection. The main trap is natural selection because the selection is being directed by people."
+  },
+  {
+    "id": "TS3-034",
+    "prompt": "A student has brown eyes and curly hair.\nQuestion:\nThese observable traits are the student’s",
+    "choices": {
+      "A": "genotype",
+      "B": "phenotype",
+      "C": "chromosome number",
+      "D": "mutation rate"
+    },
+    "correct": "B",
+    "explanation": "Phenotype refers to observable traits such as eye color and hair texture. The main trap is genotype because genotype refers to genetic makeup, not directly visible traits."
+  },
+  {
+    "id": "TS3-035",
+    "prompt": "An atom has 8 protons and 9 neutrons.\nQuestion:\nWhat is the mass number of this atom?",
+    "choices": {
+      "A": "1",
+      "B": "8",
+      "C": "9",
+      "D": "17"
+    },
+    "correct": "D",
+    "explanation": "Mass number equals protons plus neutrons, so 8 + 9 = 17. The main trap is 8 because 8 is the atomic number, not the mass number."
+  },
+  {
+    "id": "TS3-036",
+    "prompt": "The atoms in the outermost energy level of an atom affect how that atom reacts chemically.\nQuestion:\nWhat are these outermost electrons called?",
+    "choices": {
+      "A": "Core electrons",
+      "B": "Valence electrons",
+      "C": "Neutral electrons",
+      "D": "Isotope electrons"
+    },
+    "correct": "B",
+    "explanation": "Valence electrons are the outermost electrons and strongly affect chemical reactivity. The main trap is Core electrons because core electrons are closer to the nucleus."
+  },
+  {
+    "id": "TS3-037",
+    "prompt": "A solution has a pH of 7.\nQuestion:\nThis solution is best described as",
+    "choices": {
+      "A": "acidic",
+      "B": "basic",
+      "C": "neutral",
+      "D": "saturated"
+    },
+    "correct": "C",
+    "explanation": "A pH of 7 is neutral. The main trap is basic because basic solutions have a pH above 7."
+  },
+  {
+    "id": "TS3-038",
+    "prompt": "A chemical hand warmer produces heat while it reacts.\nQuestion:\nThis reaction is best classified as",
+    "choices": {
+      "A": "endothermic",
+      "B": "exothermic",
+      "C": "neutral",
+      "D": "radioactive"
+    },
+    "correct": "B",
+    "explanation": "Exothermic reactions release heat to the surroundings. The main trap is endothermic because endothermic reactions absorb heat."
+  },
+  {
+    "id": "TS3-039",
+    "prompt": "Sugar is stirred into warm tea until the sugar is no longer visible and the liquid looks uniform throughout.\nQuestion:\nThis mixture is best described as a",
+    "choices": {
+      "A": "heterogeneous mixture",
+      "B": "homogeneous solution",
+      "C": "pure element",
+      "D": "suspension with visible particles"
+    },
+    "correct": "B",
+    "explanation": "When the sugar dissolves evenly and the mixture looks uniform, it is a homogeneous solution. The main trap is heterogeneous mixture because that would have visibly different parts."
+  },
+  {
+    "id": "TS3-040",
+    "prompt": "In a chemical equation, the substances present before the reaction starts are called reactants, and the substances formed are called products.\nQuestion:\nWhich term names the starting substances in a chemical reaction?",
+    "choices": {
+      "A": "Catalysts",
+      "B": "Reactants",
+      "C": "Products",
+      "D": "Solvents"
+    },
+    "correct": "B",
+    "explanation": "Reactants are the substances present before a chemical reaction begins. The main trap is Products because products are formed after the reaction."
+  },
+  {
+    "id": "TS3-041",
+    "prompt": "A student adds spoonfuls of salt to water and stirs after each addition. Eventually, more salt remains undissolved at the bottom.\nQuestion:\nAt this point, the solution is best described as",
+    "choices": {
+      "A": "acidic",
+      "B": "neutral",
+      "C": "saturated",
+      "D": "diluted"
+    },
+    "correct": "C",
+    "explanation": "A saturated solution cannot dissolve more solute under those conditions, so extra salt remains undissolved. The main trap is diluted because dilution means lowering concentration, not reaching the maximum dissolved amount."
+  },
+  {
+    "id": "TS3-042",
+    "prompt": "A powdered tablet dissolves in water more quickly when the water is heated.\nQuestion:\nWhich statement best explains this result?",
+    "choices": {
+      "A": "Higher temperature can increase the rate of particle collisions.",
+      "B": "Higher temperature changes the tablet into a different element.",
+      "C": "Heating prevents all motion of particles.",
+      "D": "Heating removes the need for a solvent."
+    },
+    "correct": "A",
+    "explanation": "Warmer water speeds dissolving because particles move faster and collide more often. The main trap is Heating changes the tablet into a different element because heating does not change elements in this context."
+  },
+  {
+    "id": "TS3-043",
+    "prompt": "A substance takes the shape of its container but still keeps a definite volume.\nQuestion:\nWhich state of matter has these properties?",
+    "choices": {
+      "A": "Solid",
+      "B": "Liquid",
+      "C": "Gas",
+      "D": "Plasma membrane"
+    },
+    "correct": "B",
+    "explanation": "Liquids have definite volume but take the shape of their container. The main trap is Gas because gases do not have definite volume."
+  },
+  {
+    "id": "TS3-044",
+    "prompt": "The balanced equation 2H₂O → 2H₂ + O₂ contains a coefficient of 2 before H₂O.\nQuestion:\nWhat does this coefficient indicate?",
+    "choices": {
+      "A": "Two atoms of water",
+      "B": "Two molecules of water",
+      "C": "Two protons in water",
+      "D": "Two chemical reactions happened"
+    },
+    "correct": "B",
+    "explanation": "A coefficient in a chemical equation tells how many molecules or formula units are involved, so 2H₂O means two molecules of water. The main trap is Two atoms of water because one water molecule contains three atoms total."
+  },
+  {
+    "id": "TS3-045",
+    "prompt": "A researcher tests whether a new cough syrup works better than no medicine. One group receives the cough syrup, and another group receives a liquid that looks the same but contains no active drug.\nQuestion:\nThe inactive liquid given to the comparison group is called a",
+    "choices": {
+      "A": "variable",
+      "B": "placebo",
+      "C": "solvent",
+      "D": "hypothesis"
+    },
+    "correct": "B",
+    "explanation": "A placebo looks like the treatment but lacks the active ingredient, making it useful as a comparison in experiments. The main trap is variable because a variable is a factor that can change, not the inactive treatment itself."
+  },
+  {
+    "id": "TS3-046",
+    "prompt": "A study assigns volunteers to treatment groups by chance rather than by personal choice.\nQuestion:\nWhy is random assignment useful in an experiment?",
+    "choices": {
+      "A": "It guarantees the hypothesis is true.",
+      "B": "It helps reduce bias between groups.",
+      "C": "It removes the need for a control group.",
+      "D": "It ensures every group gets the same result."
+    },
+    "correct": "B",
+    "explanation": "Random assignment helps make groups more comparable and reduces selection bias. The main trap is It guarantees the hypothesis is true because random assignment does not guarantee any result."
+  },
+  {
+    "id": "TS3-047",
+    "prompt": "A student tests four brands of fertilizer on identical tomato plants for 4 weeks.\nBrand A — average height gain 6 cm\nBrand B — average height gain 9 cm\nBrand C — average height gain 5 cm\nBrand D — average height gain 8 cm\nQuestion:\nBased on the data, which fertilizer brand was associated with the greatest average height gain?",
+    "choices": {
+      "A": "Brand A",
+      "B": "Brand B",
+      "C": "Brand C",
+      "D": "Brand D"
+    },
+    "correct": "B",
+    "explanation": "Brand B has the highest average height gain at 9 cm. The main trap is Brand D because 8 cm is high but not the highest."
+  },
+  {
+    "id": "TS3-048",
+    "prompt": "A student wants to know whether listening to music affects quiz scores. The student tests only two classmates once each and reaches a final conclusion.\nQuestion:\nWhich change would most improve the reliability of the investigation?",
+    "choices": {
+      "A": "Use more participants and repeat the test multiple times.",
+      "B": "Remove all measurements from the investigation.",
+      "C": "Ask the classmates which music they prefer and stop there.",
+      "D": "Change several variables at the same time."
+    },
+    "correct": "A",
+    "explanation": "Larger sample size and repeated trials improve reliability. The main trap is Change several variables at the same time because that would make the results harder to interpret."
+  },
+  {
+    "id": "TS3-049",
+    "prompt": "During a lab, a chemical solution accidentally splashes into a student’s eye.\nQuestion:\nWhat should the student do first?",
+    "choices": {
+      "A": "Rub the eye and continue working",
+      "B": "Go to the eyewash station and flush the eye immediately",
+      "C": "Wait until the end of class to report it",
+      "D": "Cover the eye with a paper towel"
+    },
+    "correct": "B",
+    "explanation": "Immediate flushing at the eyewash station is the safest first response to a chemical eye splash. The main trap is Rub the eye and continue working because rubbing can worsen irritation or injury."
+  },
+  {
+    "id": "TS3-050",
+    "prompt": "Before a research paper is published in a scientific journal, other scientists in the same field often examine the work for quality, logic, and evidence.\nQuestion:\nThis process is called",
+    "choices": {
+      "A": "peer review",
+      "B": "natural selection",
+      "C": "random sampling",
+      "D": "genetic drift"
+    },
+    "correct": "A",
+    "explanation": "Peer review is the evaluation of research by other experts in the same field before publication. The main trap is random sampling because random sampling is a data collection method, not a publication review process."
+  }
+]

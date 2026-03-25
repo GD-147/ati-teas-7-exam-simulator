@@ -1,0 +1,458 @@
+[
+  {
+    "id": "TM3-001",
+    "prompt": "What is 3/4 × 2/3?",
+    "choices": {
+      "A": "1/2",
+      "B": "5/12",
+      "C": "6/12",
+      "D": "2/7"
+    },
+    "correct": "A",
+    "explanation": "Multiply the numerators and denominators: (3 × 2)/(4 × 3) = 6/12 = 1/2. The main trap is C because 6/12 is equivalent, but the exact correct option text is 1/2."
+  },
+  {
+    "id": "TM3-002",
+    "prompt": "What is 8.4 − 2.75?",
+    "choices": {
+      "A": "5.25",
+      "B": "5.65",
+      "C": "6.15",
+      "D": "10.15"
+    },
+    "correct": "B",
+    "explanation": "Line up the decimals and subtract: 8.40 − 2.75 = 5.65. The main trap is A because it subtracts incorrectly in the hundredths place."
+  },
+  {
+    "id": "TM3-003",
+    "prompt": "A clinic ordered 120 bandages last month and 150 bandages this month. What is the percent increase?",
+    "choices": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%"
+    },
+    "correct": "B",
+    "explanation": "The increase is 150 − 120 = 30, and 30/120 = 0.25 = 25%. The main trap is C because it uses the increase as a percent of the new amount instead of the original."
+  },
+  {
+    "id": "TM3-004",
+    "prompt": "A procedure room uses 5 sterile masks for every 2 patients. At the same rate, how many masks are needed for 12 patients?",
+    "choices": {
+      "A": "24",
+      "B": "25",
+      "C": "30",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "The ratio is 5 masks for 2 patients, so for 12 patients multiply by 6: 5 × 6 = 30. The main trap is A because it does not scale the ratio far enough."
+  },
+  {
+    "id": "TM3-005",
+    "prompt": "Evaluate: (16 − 4) ÷ 3 + 5",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "First calculate inside parentheses: 16 − 4 = 12. Then 12 ÷ 3 = 4, and 4 + 5 = 9. The main trap is D because it ignores the division before addition."
+  },
+  {
+    "id": "TM3-006",
+    "prompt": "What is 3² + √49?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "3² = 9 and √49 = 7, so 9 + 7 = 16. The main trap is D because it adds incorrectly."
+  },
+  {
+    "id": "TM3-007",
+    "prompt": "Solve for x: 6x − 11 = 31",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Add 11 to both sides to get 6x = 42, then divide by 6. The main trap is D because it comes from an arithmetic error after isolating x."
+  },
+  {
+    "id": "TM3-008",
+    "prompt": "Solve the inequality: 5 + x/3 ≤ 9",
+    "choices": {
+      "A": "x ≤ 4",
+      "B": "x ≤ 12",
+      "C": "x ≥ 4",
+      "D": "x ≥ 12"
+    },
+    "correct": "B",
+    "explanation": "Subtract 5 to get x/3 ≤ 4, then multiply by 3 to get x ≤ 12. The main trap is A because it stops before the final multiplication step."
+  },
+  {
+    "id": "TM3-009",
+    "prompt": "Use the formula A = bh for a parallelogram. If b = 8 cm and h = 7 cm, what is the area?",
+    "choices": {
+      "A": "15 cm²",
+      "B": "28 cm²",
+      "C": "56 cm²",
+      "D": "64 cm²"
+    },
+    "correct": "C",
+    "explanation": "Use A = bh = 8 × 7 = 56. The main trap is D because it adds the values instead of multiplying them."
+  },
+  {
+    "id": "TM3-010",
+    "prompt": "A circle has a radius of 5 ft. What is its area?",
+    "choices": {
+      "A": "10π ft²",
+      "B": "20π ft²",
+      "C": "25π ft²",
+      "D": "50π ft²"
+    },
+    "correct": "C",
+    "explanation": "Area of a circle is A = πr². With r = 5, A = π(25) = 25π. The main trap is D because that would be double the correct area."
+  },
+  {
+    "id": "TM3-011",
+    "prompt": "A rectangular storage bin has a length of 6 in, a width of 3 in, and a height of 2 in. What is its volume?",
+    "choices": {
+      "A": "11 in³",
+      "B": "18 in³",
+      "C": "36 in³",
+      "D": "72 in³"
+    },
+    "correct": "C",
+    "explanation": "Volume of a rectangular prism is lwh = 6 × 3 × 2 = 36. The main trap is B because it multiplies only two dimensions."
+  },
+  {
+    "id": "TM3-012",
+    "prompt": "A triangular sign has side lengths of 5 cm, 11 cm, and 13 cm. What is its perimeter?",
+    "choices": {
+      "A": "24 cm",
+      "B": "27 cm",
+      "C": "29 cm",
+      "D": "31 cm"
+    },
+    "correct": "C",
+    "explanation": "Perimeter is the sum of the sides: 5 + 11 + 13 = 29. The main trap is B because it omits part of the total."
+  },
+  {
+    "id": "TM3-013",
+    "prompt": "How many minutes are in 2.5 hours?",
+    "choices": {
+      "A": "120",
+      "B": "150",
+      "C": "180",
+      "D": "210"
+    },
+    "correct": "B",
+    "explanation": "Multiply 2.5 hours by 60 minutes per hour: 2.5 × 60 = 150. The main trap is C because 180 minutes would be 3 hours."
+  },
+  {
+    "id": "TM3-014",
+    "prompt": "A 3-pound bag of oranges costs $4.50. What is the cost per pound?",
+    "choices": {
+      "A": "$1.25",
+      "B": "$1.50",
+      "C": "$1.75",
+      "D": "$2.00"
+    },
+    "correct": "B",
+    "explanation": "Divide the total cost by the number of pounds: 4.50 ÷ 3 = 1.50. The main trap is C because it overestimates the unit rate."
+  },
+  {
+    "id": "TM3-015",
+    "prompt": "A sweater originally costs $60 and is on sale for 35% off. What is the sale price?",
+    "choices": {
+      "A": "$21",
+      "B": "$35",
+      "C": "$39",
+      "D": "$42"
+    },
+    "correct": "C",
+    "explanation": "35% of $60 is $21, and $60 − $21 = $39. The main trap is D because it subtracts the wrong discount amount."
+  },
+  {
+    "id": "TM3-016",
+    "prompt": "On a floor plan, 1 cm represents 3 m. If a hallway measures 8 cm on the plan, what is its actual length?",
+    "choices": {
+      "A": "11 m",
+      "B": "21 m",
+      "C": "24 m",
+      "D": "32 m"
+    },
+    "correct": "C",
+    "explanation": "Multiply 8 cm by 3 m per cm: 8 × 3 = 24. The main trap is B because it uses 7 instead of 8."
+  },
+  {
+    "id": "TM3-017",
+    "prompt": "Find the mean of the numbers 12, 14, 18, 20, and 26.",
+    "choices": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "B",
+    "explanation": "Add the numbers to get 90, then divide by 5: 90 ÷ 5 = 18. The main trap is C because it is close but not the actual mean."
+  },
+  {
+    "id": "TM3-018",
+    "prompt": "Find the median of the numbers 4, 6, 9, 12, 15, 19, and 22.",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "With 7 ordered numbers, the median is the middle value, which is the 4th number: 12. The main trap is D because it chooses a value above the center."
+  },
+  {
+    "id": "TM3-019",
+    "prompt": "What is the range of the data set 27, 29, 33, 35, 41?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "D",
+    "explanation": "Range = largest − smallest = 41 − 27 = 14. The main trap is C because it subtracts the wrong pair of values."
+  },
+  {
+    "id": "TM3-020",
+    "prompt": "A bag contains 2 red marbles, 6 white marbles, and 4 black marbles. If 1 marble is chosen at random, what is the probability of choosing a red marble?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/6",
+      "C": "2/3",
+      "D": "5/6"
+    },
+    "correct": "B",
+    "explanation": "There are 12 marbles total and 2 are red, so 2/12 simplifies to 1/6. The main trap is A because it incorrectly reduces the fraction."
+  },
+  {
+    "id": "TM3-021",
+    "prompt": "A table shows the number of volunteers at a clinic by month.\nJanuary — 11\nFebruary — 15\nMarch — 19\nApril — 14\nWhich month had the greatest number of volunteers?",
+    "choices": {
+      "A": "January",
+      "B": "February",
+      "C": "March",
+      "D": "April"
+    },
+    "correct": "C",
+    "explanation": "March has the highest value, 19. The main trap is B because 15 is not the greatest."
+  },
+  {
+    "id": "TM3-022",
+    "prompt": "A line graph shows the number of pages read:\nMonday — 18\nTuesday — 22\nWednesday — 20\nThursday — 19\nFriday — 22\nOn which two days was the number of pages read the same?",
+    "choices": {
+      "A": "Monday and Thursday",
+      "B": "Tuesday and Friday",
+      "C": "Wednesday and Thursday",
+      "D": "Monday and Wednesday"
+    },
+    "correct": "B",
+    "explanation": "Both Tuesday and Friday show 22 pages. The main trap is A because 18 and 19 are different."
+  },
+  {
+    "id": "TM3-023",
+    "prompt": "What is 9/20 written as a decimal?",
+    "choices": {
+      "A": "0.09",
+      "B": "0.20",
+      "C": "0.45",
+      "D": "0.90"
+    },
+    "correct": "C",
+    "explanation": "Divide 9 by 20 to get 0.45. The main trap is D because 0.90 would equal 9/10, not 9/20."
+  },
+  {
+    "id": "TM3-024",
+    "prompt": "A restaurant bill is $35 before tip. If the tip is 20%, what is the total cost?",
+    "choices": {
+      "A": "$40",
+      "B": "$41",
+      "C": "$42",
+      "D": "$43"
+    },
+    "correct": "C",
+    "explanation": "A 20% tip on $35 is $7, so the total is $35 + $7 = $42. The main trap is B because it adds only a partial tip."
+  },
+  {
+    "id": "TM3-025",
+    "prompt": "Evaluate 2x² + 1 when x = 3.",
+    "choices": {
+      "A": "13",
+      "B": "17",
+      "C": "19",
+      "D": "25"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 3: 2(3²) + 1 = 2(9) + 1 = 19. The main trap is D because it squares after multiplying incorrectly."
+  },
+  {
+    "id": "TM3-026",
+    "prompt": "Solve for x: 3(x + 2) = 27",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Divide both sides by 3 to get x + 2 = 9, then subtract 2. The main trap is D because it stops one step too early."
+  },
+  {
+    "id": "TM3-027",
+    "prompt": "What is 1.25 written as a percent?",
+    "choices": {
+      "A": "12.5%",
+      "B": "125%",
+      "C": "250%",
+      "D": "1,250%"
+    },
+    "correct": "B",
+    "explanation": "Multiply 1.25 by 100 to convert to a percent: 125%. The main trap is C because it doubles the correct value."
+  },
+  {
+    "id": "TM3-028",
+    "prompt": "What is √324?",
+    "choices": {
+      "A": "16",
+      "B": "17",
+      "C": "18",
+      "D": "19"
+    },
+    "correct": "C",
+    "explanation": "Since 18 × 18 = 324, √324 = 18. The main trap is D because 19 × 19 = 361."
+  },
+  {
+    "id": "TM3-029",
+    "prompt": "Use the formula A = (1/2)h(b₁ + b₂) for a trapezoid. If h = 5 cm, b₁ = 8 cm, and b₂ = 12 cm, what is the area?",
+    "choices": {
+      "A": "25 cm²",
+      "B": "40 cm²",
+      "C": "50 cm²",
+      "D": "100 cm²"
+    },
+    "correct": "C",
+    "explanation": "A = (1/2)h(b₁ + b₂) = (1/2)(5)(8 + 12) = (1/2)(5)(20) = 50. The main trap is D because it forgets to multiply by 1/2."
+  },
+  {
+    "id": "TM3-030",
+    "prompt": "A cylinder has radius 3 cm and height 2 cm. Use V = πr²h. What is the volume?",
+    "choices": {
+      "A": "6π cm³",
+      "B": "12π cm³",
+      "C": "18π cm³",
+      "D": "36π cm³"
+    },
+    "correct": "C",
+    "explanation": "V = πr²h = π(3²)(2) = π(9)(2) = 18π. The main trap is D because it doubles the correct result."
+  },
+  {
+    "id": "TM3-031",
+    "prompt": "What is |−7| × 2?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "D",
+    "explanation": "|−7| = 7, and 7 × 2 = 14. The main trap is A because it ignores the multiplication by 2."
+  },
+  {
+    "id": "TM3-032",
+    "prompt": "How many ounces are in 2.5 pounds?",
+    "choices": {
+      "A": "30 oz",
+      "B": "35 oz",
+      "C": "40 oz",
+      "D": "45 oz"
+    },
+    "correct": "C",
+    "explanation": "There are 16 ounces in 1 pound, so 2.5 × 16 = 40. The main trap is D because it multiplies incorrectly."
+  },
+  {
+    "id": "TM3-033",
+    "prompt": "A recipe uses 2 cups of broth for every 3 servings of soup. How many cups of broth are needed for 12 servings?",
+    "choices": {
+      "A": "6 cups",
+      "B": "8 cups",
+      "C": "9 cups",
+      "D": "12 cups"
+    },
+    "correct": "B",
+    "explanation": "Going from 3 servings to 12 servings multiplies by 4, so 2 cups × 4 = 8 cups. The main trap is A because it does not scale the recipe enough."
+  },
+  {
+    "id": "TM3-034",
+    "prompt": "A car travels 198 miles on 6 gallons of gasoline. What is the average number of miles per gallon?",
+    "choices": {
+      "A": "27",
+      "B": "30",
+      "C": "33",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "Average miles per gallon = 198 ÷ 6 = 33. The main trap is B because it underestimates the quotient."
+  },
+  {
+    "id": "TM3-035",
+    "prompt": "A bag contains 3 star stickers and 5 circle stickers. If 1 sticker is chosen at random, what is the probability of choosing a star sticker?",
+    "choices": {
+      "A": "1/8",
+      "B": "3/8",
+      "C": "5/8",
+      "D": "3/5"
+    },
+    "correct": "B",
+    "explanation": "There are 8 stickers total and 3 are stars, so the probability is 3/8. The main trap is D because it uses the number of star stickers over the number of circle stickers instead of total stickers."
+  },
+  {
+    "id": "TM3-036",
+    "prompt": "A student earns $640 in a week. She spends $215 on rent, $88 on groceries, and $47 on transportation. How much money does she have left?",
+    "choices": {
+      "A": "$280",
+      "B": "$290",
+      "C": "$300",
+      "D": "$310"
+    },
+    "correct": "B",
+    "explanation": "Total spending is $215 + $88 + $47 = $350, and $640 − $350 = $290. The main trap is C because it subtracts incorrectly."
+  },
+  {
+    "id": "TM3-037",
+    "prompt": "How many grams are in 3.2 kilograms?",
+    "choices": {
+      "A": "320 g",
+      "B": "3,200 g",
+      "C": "32,000 g",
+      "D": "320,000 g"
+    },
+    "correct": "B",
+    "explanation": "1 kilogram = 1,000 grams, so 3.2 kilograms = 3.2 × 1,000 = 3,200 grams. The main trap is A because it moves the decimal the wrong way."
+  },
+  {
+    "id": "TM3-038",
+    "prompt": "A table shows the cost of pens.\n5 pens — $7.50\n14 pens — ?\nIf the cost stays proportional, what is the cost of 14 pens?",
+    "choices": {
+      "A": "$18.00",
+      "B": "$19.50",
+      "C": "$21.00",
+      "D": "$24.50"
+    },
+    "correct": "C",
+    "explanation": "The unit price is $7.50 ÷ 5 = $1.50 per pen. Then 14 × $1.50 = $21.00. The main trap is B because it multiplies by the wrong unit price."
+  }
+]

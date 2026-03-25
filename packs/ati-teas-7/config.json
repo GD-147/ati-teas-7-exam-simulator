@@ -19,7 +19,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "reading_exam_01.json"
+        "reading_exam_01.json",
+        "reading_exam_02.json",
+        "reading_exam_03.json",
+        "reading_exam_04.json",
+        "reading_exam_05.json",
+        "reading_exam_06.json"
       ]
     },
     {
@@ -30,7 +35,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "math_exam_01.json"
+        "math_exam_01.json",
+        "math_exam_02.json",
+        "math_exam_03.json",
+        "math_exam_04.json",
+        "math_exam_05.json",
+        "math_exam_06.json"
       ]
     },
     {
@@ -41,7 +51,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "science_exam_01.json"
+        "science_exam_01.json",
+        "science_exam_02.json",
+        "science_exam_03.json",
+        "science_exam_04.json",
+        "science_exam_05.json",
+        "science_exam_06.json"
       ]
     },
     {
@@ -52,7 +67,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "english_exam_01.json"
+        "english_exam_01.json",
+        "english_exam_02.json",
+        "english_exam_03.json",
+        "english_exam_04.json",
+        "english_exam_05.json",
+        "english_exam_06.json"
       ]
     }
   ],

@@ -1,0 +1,446 @@
+[
+  {
+    "id": "TE4-001",
+    "prompt": "Choose the sentence with correct subject-verb agreement.",
+    "choices": {
+      "A": "Each of the lockers near the gym have a numbered tag.",
+      "B": "Each of the lockers near the gym has a numbered tag.",
+      "C": "Each of the lockers near the gym were given a numbered tag.",
+      "D": "Each of the lockers near the gym be given a numbered tag."
+    },
+    "correct": "B",
+    "explanation": "The subject is Each, which is singular, so has is correct. The main trap is A because lockers appears plural but is part of the prepositional phrase."
+  },
+  {
+    "id": "TE4-002",
+    "prompt": "Choose the sentence that uses pronouns correctly.",
+    "choices": {
+      "A": "Many volunteers brought his own water bottle to the cleanup.",
+      "B": "Many volunteers brought her own water bottle to the cleanup.",
+      "C": "Many volunteers brought their own water bottles to the cleanup.",
+      "D": "Many volunteers brought your own water bottle to the cleanup."
+    },
+    "correct": "C",
+    "explanation": "Volunteers is plural, so their and water bottles agree correctly. The main trap is A because his does not match the plural subject."
+  },
+  {
+    "id": "TE4-003",
+    "prompt": "Choose the sentence with the correct verb tense.",
+    "choices": {
+      "A": "Before the concert began, the crew tests the microphones.",
+      "B": "Before the concert began, the crew had tested the microphones.",
+      "C": "Before the concert began, the crew test the microphones.",
+      "D": "Before the concert began, the crew will test the microphones."
+    },
+    "correct": "B",
+    "explanation": "Had tested correctly shows the action completed before another past action. The main trap is A because tests is present tense."
+  },
+  {
+    "id": "TE4-004",
+    "prompt": "Choose the sentence with correct punctuation.",
+    "choices": {
+      "A": "After reviewing the chart the nurse called the physician.",
+      "B": "After reviewing the chart, the nurse called the physician.",
+      "C": "After reviewing, the chart the nurse called the physician.",
+      "D": "After reviewing the chart the nurse, called the physician."
+    },
+    "correct": "B",
+    "explanation": "The introductory phrase should be followed by a comma. The main trap is A because it omits that comma."
+  },
+  {
+    "id": "TE4-005",
+    "prompt": "Choose the sentence with the correct word.",
+    "choices": {
+      "A": "The office ordered new stationary with the clinic logo.",
+      "B": "The office ordered new stationery with the clinic logo.",
+      "C": "The office ordered new stationairy with the clinic logo.",
+      "D": "The office ordered new stationerie with the clinic logo."
+    },
+    "correct": "B",
+    "explanation": "Stationery means writing materials, while stationary means not moving. The main trap is A because it uses the wrong homophone."
+  },
+  {
+    "id": "TE4-006",
+    "prompt": "Choose the sentence with correct capitalization.",
+    "choices": {
+      "A": "Senator Rivera spoke to the civics class on Monday.",
+      "B": "senator Rivera spoke to the civics class on Monday.",
+      "C": "Senator Rivera spoke to the Civics class on monday.",
+      "D": "Senator rivera spoke to the civics Class on Monday."
+    },
+    "correct": "A",
+    "explanation": "Senator is capitalized before a name, Monday is a proper noun, and civics remains lowercase as a general subject. The main trap is C because monday should be capitalized."
+  },
+  {
+    "id": "TE4-007",
+    "prompt": "Which choice best corrects the fragment below?\n<u>Because the road was icy.</u>",
+    "choices": {
+      "A": "Because the road was icy, the bus arrived later than usual.",
+      "B": "Because the road and icy.",
+      "C": "The road because was icy.",
+      "D": "Because icy was the road."
+    },
+    "correct": "A",
+    "explanation": "This revision turns the fragment into a complete sentence with an independent clause. The main trap is D because it is still incomplete and unclear."
+  },
+  {
+    "id": "TE4-008",
+    "prompt": "Choose the best revision to correct the run-on sentence.\n<u>The auditorium doors opened late the audience waited quietly in the lobby.</u>",
+    "choices": {
+      "A": "The auditorium doors opened late, the audience waited quietly in the lobby.",
+      "B": "The auditorium doors opened late; the audience waited quietly in the lobby.",
+      "C": "The auditorium doors opened late the audience, waited quietly in the lobby.",
+      "D": "The auditorium doors opened late because the audience waited quietly in the lobby."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins two related independent clauses. The main trap is A because a comma alone creates a comma splice."
+  },
+  {
+    "id": "TE4-009",
+    "prompt": "Choose the sentence with the correct word.",
+    "choices": {
+      "A": "Your expected to arrive 15 minutes before the exam begins.",
+      "B": "You’re expected to arrive 15 minutes before the exam begins.",
+      "C": "Youre expected to arrive 15 minutes before the exam begins.",
+      "D": "Yore expected to arrive 15 minutes before the exam begins."
+    },
+    "correct": "B",
+    "explanation": "You’re means you are, which fits the sentence. The main trap is A because your is a possessive pronoun."
+  },
+  {
+    "id": "TE4-010",
+    "prompt": "Choose the sentence with correct punctuation.",
+    "choices": {
+      "A": "The guide said, “Please remain with your group.”",
+      "B": "The guide said “Please remain with your group.”",
+      "C": "The guide said, “Please remain with your group”.",
+      "D": "The guide said “Please remain with your group”."
+    },
+    "correct": "A",
+    "explanation": "The comma and quotation marks are used correctly, and the period belongs inside the quotation marks. The main trap is C because the period is placed outside."
+  },
+  {
+    "id": "TE4-011",
+    "prompt": "Choose the sentence with the clearest pronoun reference.",
+    "choices": {
+      "A": "When Elena handed the tablet to Priya, she smiled.",
+      "B": "When Elena handed the tablet to Priya, Elena smiled.",
+      "C": "Elena handed Priya the tablet after she unlocked it.",
+      "D": "Elena handed the tablet to Priya because she had asked for it."
+    },
+    "correct": "B",
+    "explanation": "Repeating Elena removes the unclear pronoun reference. The main trap is A because she could refer to either Elena or Priya."
+  },
+  {
+    "id": "TE4-012",
+    "prompt": "Choose the sentence with the correct possessive form.",
+    "choices": {
+      "A": "The editors meeting room is on the third floor.",
+      "B": "The editor’s meeting room is on the third floor.",
+      "C": "The editors’ meeting room is on the third floor.",
+      "D": "The editor meeting’s room is on the third floor."
+    },
+    "correct": "C",
+    "explanation": "The room belongs to multiple editors, so the plural possessive editors’ is correct. The main trap is B because editor’s would refer to one editor."
+  },
+  {
+    "id": "TE4-013",
+    "prompt": "Choose the most concise revision.\n<u>In the event that the alarm sounds, leave the building immediately.</u>",
+    "choices": {
+      "A": "In the event that the alarm sounds, leave the building immediately.",
+      "B": "If the alarm sounds, leave the building immediately.",
+      "C": "Leave the building immediately in the event that the alarm sounds.",
+      "D": "The event of the alarm sounding means leave the building immediately."
+    },
+    "correct": "B",
+    "explanation": "This version is the clearest and most concise. The main trap is A because in the event that is unnecessarily wordy."
+  },
+  {
+    "id": "TE4-014",
+    "prompt": "Which sentence is most appropriate for a formal email to a program coordinator?",
+    "choices": {
+      "A": "I need the schedule ASAP, so please send it.",
+      "B": "Could you please send the updated schedule when it is available?",
+      "C": "Hey, I still do not have the schedule.",
+      "D": "Just checking again because I really need that schedule."
+    },
+    "correct": "B",
+    "explanation": "This sentence is polite, specific, and appropriate for a formal email. The main trap is A because ASAP makes the tone too abrupt."
+  },
+  {
+    "id": "TE4-015",
+    "prompt": "Choose the best transition to complete the sentence.\nThe handbook was short; <u>_______</u>, it still covered the essential safety rules.",
+    "choices": {
+      "A": "however",
+      "B": "therefore",
+      "C": "similarly",
+      "D": "for example"
+    },
+    "correct": "A",
+    "explanation": "The sentence shows contrast: the handbook was short, yet it still covered the essential rules. The main trap is therefore because the second idea is not a result of the first."
+  },
+  {
+    "id": "TE4-016",
+    "prompt": "Choose the best order for the sentences below.\n1. Finally, seal the envelope.\n2. First, fold the completed form.\n3. Next, write the mailing address on the front.",
+    "choices": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 1",
+      "C": "2, 1, 3",
+      "D": "3, 2, 1"
+    },
+    "correct": "B",
+    "explanation": "First fold the form, next address the envelope, and finally seal it. The main trap is C because sealing should happen after the address is written."
+  },
+  {
+    "id": "TE4-017",
+    "prompt": "Choose the sentence that removes redundancy.",
+    "choices": {
+      "A": "The speaker gave an unexpected surprise to the audience.",
+      "B": "The speaker gave a surprise to the audience.",
+      "C": "The speaker gave an unexpected surprise surprise to the audience.",
+      "D": "The speaker gave a surprising surprise to the audience."
+    },
+    "correct": "B",
+    "explanation": "Surprise already implies something unexpected, so unexpected surprise is redundant. The main trap is A because it keeps unnecessary repetition."
+  },
+  {
+    "id": "TE4-018",
+    "prompt": "A paragraph explains how students can reduce distractions while studying. Which sentence would be the best supporting detail?",
+    "choices": {
+      "A": "Turning off phone notifications can help students stay focused.",
+      "B": "Many phones come in several colors.",
+      "C": "Some students study in the afternoon.",
+      "D": "Desks are often placed near windows."
+    },
+    "correct": "A",
+    "explanation": "This detail directly supports a paragraph about reducing distractions while studying. The main trap is C because it is related to studying but does not address distraction reduction."
+  },
+  {
+    "id": "TE4-019",
+    "prompt": "Choose the best topic sentence for a paragraph about revising drafts.",
+    "choices": {
+      "A": "Revising a draft can improve both clarity and organization.",
+      "B": "Some writers use blue pens and others use black pens.",
+      "C": "Drafts are usually written before final copies.",
+      "D": "Many documents include titles and page numbers."
+    },
+    "correct": "A",
+    "explanation": "This sentence introduces the main idea clearly and broadly enough for a paragraph. The main trap is C because it states a general fact without giving a controlling idea."
+  },
+  {
+    "id": "TE4-020",
+    "prompt": "Choose the best concluding sentence for a paragraph about healthy sleep habits.",
+    "choices": {
+      "A": "Some people drink tea in the evening.",
+      "B": "A consistent bedtime routine can improve rest and make mornings easier.",
+      "C": "Alarm clocks are sold in many stores.",
+      "D": "Bedtime can be different on weekends."
+    },
+    "correct": "B",
+    "explanation": "This works as a concluding sentence because it sums up the benefit of healthy sleep habits. The main trap is A because it adds a detail instead of drawing a conclusion."
+  },
+  {
+    "id": "TE4-021",
+    "prompt": "Choose the most precise word to complete the sentence.\nPlease <u>_______</u> the contents of the package before signing the delivery form.",
+    "choices": {
+      "A": "inspect",
+      "B": "imagine",
+      "C": "ignore",
+      "D": "postpone"
+    },
+    "correct": "A",
+    "explanation": "Inspect means examine carefully, which fits checking package contents before signing. The main trap is postpone because delaying does not address verification."
+  },
+  {
+    "id": "TE4-022",
+    "prompt": "Which revision best matches a polite, professional tone?\n<u>You sent the wrong file.</u>",
+    "choices": {
+      "A": "You sent the wrong one again.",
+      "B": "Could you please resend the correct file?",
+      "C": "This mistake should not have happened.",
+      "D": "The file you sent was careless."
+    },
+    "correct": "B",
+    "explanation": "This revision is clear, polite, and professional. The main trap is A because it sounds accusatory and less formal."
+  },
+  {
+    "id": "TE4-023",
+    "prompt": "Choose the best way to combine the sentences.\nThe bus arrived late. The passengers remained calm.",
+    "choices": {
+      "A": "The bus arrived late, the passengers remained calm.",
+      "B": "The bus arrived late, and the passengers remained calm.",
+      "C": "Arrived late the bus and the passengers remained calm.",
+      "D": "The bus arrived late because the passengers remained calm it."
+    },
+    "correct": "B",
+    "explanation": "And correctly joins two independent clauses. The main trap is A because it creates a comma splice."
+  },
+  {
+    "id": "TE4-024",
+    "prompt": "Choose the clearest revision.\n<u>After reviewing the schedule, the delay seemed avoidable.</u>",
+    "choices": {
+      "A": "After reviewing the schedule, the manager realized the delay was avoidable.",
+      "B": "After reviewing the schedule, the delay avoided itself.",
+      "C": "The delay seemed avoidable after the schedule reviewed it.",
+      "D": "Reviewing the schedule, the delay was avoidable by it."
+    },
+    "correct": "A",
+    "explanation": "This revision clearly identifies who reviewed the schedule and who made the judgment. The main trap is B because it gives the delay an illogical action."
+  },
+  {
+    "id": "TE4-025",
+    "prompt": "In the sentence below, what does the word <u>fragile</u> most nearly mean?\nThe museum asked visitors to stand back from the fragile display.",
+    "choices": {
+      "A": "valuable",
+      "B": "easily broken",
+      "C": "brightly colored",
+      "D": "recently cleaned"
+    },
+    "correct": "B",
+    "explanation": "Fragile means delicate or easily broken. The main trap is A because something can be valuable without being fragile."
+  },
+  {
+    "id": "TE4-026",
+    "prompt": "Choose the correct word to complete the sentence.\nThe counselor will <u>_______</u> students about course selection next week.",
+    "choices": {
+      "A": "advice",
+      "B": "advise",
+      "C": "advised",
+      "D": "advising"
+    },
+    "correct": "B",
+    "explanation": "Advise is the verb meaning to give guidance. The main trap is advice because advice is a noun, not a verb."
+  },
+  {
+    "id": "TE4-027",
+    "prompt": "Choose the correctly spelled word.",
+    "choices": {
+      "A": "seperate",
+      "B": "separate",
+      "C": "sepperate",
+      "D": "seprate"
+    },
+    "correct": "B",
+    "explanation": "Separate is the correct spelling. The main trap is A because seperate is a common misspelling."
+  },
+  {
+    "id": "TE4-028",
+    "prompt": "Choose the sentence that correctly uses <u>lose</u> or <u>loose</u>.",
+    "choices": {
+      "A": "Be careful not to loose your ID badge.",
+      "B": "Be careful not to lose your ID badge.",
+      "C": "Be careful not to losing your ID badge.",
+      "D": "Be careful not to loses your ID badge."
+    },
+    "correct": "B",
+    "explanation": "Lose means misplace or fail to keep, while loose means not tight. The main trap is A because it uses the wrong word form."
+  },
+  {
+    "id": "TE4-029",
+    "prompt": "A receptionist is sending a reminder to a patient. Which sentence is most appropriate?",
+    "choices": {
+      "A": "Your lab visit is tomorrow, so do not forget.",
+      "B": "This is a reminder that your lab appointment is scheduled for Tuesday at 8:15 a.m.",
+      "C": "You need to be here Tuesday morning.",
+      "D": "Just making sure you show up for your lab appointment."
+    },
+    "correct": "B",
+    "explanation": "This sentence is courteous, precise, and professional. The main trap is A because it is understandable but too conversational for a formal reminder."
+  },
+  {
+    "id": "TE4-030",
+    "prompt": "Choose the best transition to complete the sentence.\nThe first workshop filled quickly; <u>_______</u>, the center opened a second session.",
+    "choices": {
+      "A": "meanwhile",
+      "B": "however",
+      "C": "therefore",
+      "D": "similarly"
+    },
+    "correct": "C",
+    "explanation": "The second session was opened as a result of the first one filling quickly. The main trap is however because the relationship is cause and effect, not contrast."
+  },
+  {
+    "id": "TE4-031",
+    "prompt": "Choose the sentence that presents the information most clearly.\nThe survey results were 18 residents preferred email alerts, 10 preferred phone calls, and 7 had no preference.",
+    "choices": {
+      "A": "The survey showed that 18 residents preferred email alerts, 10 preferred phone calls, and 7 had no preference.",
+      "B": "The survey results, 18 residents preferred email alerts, 10 preferred phone calls, and 7 had no preference.",
+      "C": "There was a survey and 18 residents preferred email alerts and 10 preferred phone calls and 7 had no preference.",
+      "D": "Email alerts were preferred by 18 residents, 10 preferred phone calls, and 7 no preference."
+    },
+    "correct": "A",
+    "explanation": "This version is grammatically complete and presents the data clearly. The main trap is B because it leaves the sentence incomplete after The survey results."
+  },
+  {
+    "id": "TE4-032",
+    "prompt": "Choose the best paraphrase of the sentence below.\nOriginal: Organizing notes by topic can make review sessions more efficient.",
+    "choices": {
+      "A": "Grouping notes by subject can make studying more efficient.",
+      "B": "Organizing notes by topic can make review sessions more efficient.",
+      "C": "Notes, topics, and sessions are all parts of studying.",
+      "D": "Review sessions organize topics for notes."
+    },
+    "correct": "A",
+    "explanation": "This paraphrase keeps the original meaning while changing the wording. The main trap is B because it repeats the original sentence almost exactly."
+  },
+  {
+    "id": "TE4-033",
+    "prompt": "Choose the word that best completes the sentence.\nThe supervisor gave such a <u>_______</u> explanation that the team understood the new rule right away.",
+    "choices": {
+      "A": "scattered",
+      "B": "concise",
+      "C": "accidental",
+      "D": "distant"
+    },
+    "correct": "B",
+    "explanation": "A concise explanation can still be clear enough for quick understanding. The main trap is scattered because a scattered explanation would make the rule harder to understand."
+  },
+  {
+    "id": "TE4-034",
+    "prompt": "Which revision creates the most effective sentence variety?\n<u>The speaker greeted the audience. The speaker introduced the panel. The speaker began the discussion.</u>",
+    "choices": {
+      "A": "The speaker greeted the audience. The speaker introduced the panel. The speaker began the discussion.",
+      "B": "Greeted the audience. Introduced the panel. Began the discussion.",
+      "C": "The speaker greeted the audience, introduced the panel, and began the discussion.",
+      "D": "The audience was greeted, the panel was introduced, and the discussion was begun by the speaker."
+    },
+    "correct": "C",
+    "explanation": "This revision combines the related actions smoothly and improves sentence variety. The main trap is D because it is passive and unnecessarily wordy."
+  },
+  {
+    "id": "TE4-035",
+    "prompt": "Choose the sentence in active voice.",
+    "choices": {
+      "A": "The final report was reviewed by the committee.",
+      "B": "The committee reviewed the final report.",
+      "C": "The final report had been reviewed by the committee.",
+      "D": "The review of the final report was completed by the committee."
+    },
+    "correct": "B",
+    "explanation": "This sentence is active because the subject performs the action directly. The main trap is A because it is passive voice."
+  },
+  {
+    "id": "TE4-036",
+    "prompt": "Choose the sentence with the clearest wording.",
+    "choices": {
+      "A": "The coordinator told the parent that they should arrive 10 minutes early.",
+      "B": "The coordinator told the parent, “Please arrive 10 minutes early.”",
+      "C": "They told the parent that the coordinator should arrive 10 minutes early.",
+      "D": "The parent was told by the coordinator that they should arrive 10 minutes early by them."
+    },
+    "correct": "B",
+    "explanation": "This version is direct and removes the unclear pronoun they. The main trap is A because they could refer to either the coordinator or the parent."
+  },
+  {
+    "id": "TE4-037",
+    "prompt": "A student is drafting a paragraph about staying organized in online courses. Which sentence best fits the paragraph’s purpose?",
+    "choices": {
+      "A": "Writing assignment due dates in one calendar can help students avoid missing deadlines.",
+      "B": "Many laptops are lightweight and easy to carry.",
+      "C": "Online classes may be offered in the evening.",
+      "D": "Students often wear headphones during video calls."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly supports a paragraph about staying organized in online courses. The main trap is C because it is related to online classes but not to organization."
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS5-001",
+    "prompt": "The heart sends deoxygenated blood to the lungs so that gas exchange can occur.\nQuestion:\nWhich chamber of the heart pumps deoxygenated blood directly to the lungs?",
+    "choices": {
+      "A": "Left atrium",
+      "B": "Left ventricle",
+      "C": "Right atrium",
+      "D": "Right ventricle"
+    },
+    "correct": "D",
+    "explanation": "The right ventricle pumps deoxygenated blood to the lungs through the pulmonary artery. The main trap is Right atrium because the right atrium receives returning blood but does not pump it to the lungs."
+  },
+  {
+    "id": "TS5-002",
+    "prompt": "Air moves through the respiratory tract in a specific order before reaching the alveoli.\nQuestion:\nWhat is the main function of the bronchi?",
+    "choices": {
+      "A": "To exchange oxygen and carbon dioxide with the blood",
+      "B": "To carry air from the trachea into the lungs",
+      "C": "To pump air out of the lungs",
+      "D": "To filter wastes from the blood"
+    },
+    "correct": "B",
+    "explanation": "The bronchi are conducting airways that branch from the trachea into the lungs. The main trap is To exchange oxygen and carbon dioxide with the blood because gas exchange occurs mainly in the alveoli."
+  },
+  {
+    "id": "TS5-003",
+    "prompt": "The human heart has a thick muscular wall between its right and left sides.\nQuestion:\nWhat is the main function of the septum in the heart?",
+    "choices": {
+      "A": "To increase body temperature",
+      "B": "To prevent oxygenated and deoxygenated blood from mixing",
+      "C": "To store oxygen for the heart muscle",
+      "D": "To regulate blood sugar levels"
+    },
+    "correct": "B",
+    "explanation": "The septum separates the right and left sides of the heart. The main trap is To store oxygen for the heart muscle because the septum is a dividing wall, not a storage structure."
+  },
+  {
+    "id": "TS5-004",
+    "prompt": "The lining of parts of the respiratory tract contains mucus and tiny hairlike structures called cilia.\nQuestion:\nWhat is a major function of mucus and cilia in the airways?",
+    "choices": {
+      "A": "To absorb nutrients into the blood",
+      "B": "To trap particles and help remove them from the airway",
+      "C": "To produce red blood cells",
+      "D": "To control the heartbeat"
+    },
+    "correct": "B",
+    "explanation": "Mucus catches dust and microbes, and cilia help move them out of the respiratory tract. The main trap is To absorb nutrients into the blood because that is not a respiratory-lining function."
+  },
+  {
+    "id": "TS5-005",
+    "prompt": "The small intestine has many fingerlike projections called villi.\nQuestion:\nWhat is the main function of villi?",
+    "choices": {
+      "A": "To increase surface area for absorption",
+      "B": "To produce bile for fat digestion",
+      "C": "To move oxygen into the lungs",
+      "D": "To store urine before excretion"
+    },
+    "correct": "A",
+    "explanation": "Villi greatly increase the small intestine’s absorptive surface. The main trap is To produce bile for fat digestion because bile is produced by the liver."
+  },
+  {
+    "id": "TS5-006",
+    "prompt": "The endocrine system is made of glands that release hormones.\nQuestion:\nHow do endocrine glands release their hormones?",
+    "choices": {
+      "A": "Through ducts into body cavities",
+      "B": "Directly into the bloodstream",
+      "C": "Only through the digestive tract",
+      "D": "Only into the lymph nodes"
+    },
+    "correct": "B",
+    "explanation": "Endocrine glands are ductless and release hormones into the blood. The main trap is Through ducts into body cavities because that describes exocrine secretion, not endocrine secretion."
+  },
+  {
+    "id": "TS5-007",
+    "prompt": "The colored part of the eye surrounds the pupil.\nQuestion:\nWhich structure controls how much light enters the eye?",
+    "choices": {
+      "A": "Retina",
+      "B": "Iris",
+      "C": "Lens",
+      "D": "Cochlea"
+    },
+    "correct": "B",
+    "explanation": "The iris changes pupil size to regulate the amount of light entering the eye. The main trap is Lens because the lens focuses light but does not control how much enters."
+  },
+  {
+    "id": "TS5-008",
+    "prompt": "The retina contains two main types of photoreceptor cells: rods and cones.\nQuestion:\nWhich cells are most responsible for detecting color?",
+    "choices": {
+      "A": "Platelets",
+      "B": "Rods",
+      "C": "Cones",
+      "D": "Axons"
+    },
+    "correct": "C",
+    "explanation": "Cones are specialized for color vision. The main trap is Rods because rods are more associated with dim-light vision than color detection."
+  },
+  {
+    "id": "TS5-009",
+    "prompt": "A person touches a hot stove and pulls a hand away before fully thinking about it.\nQuestion:\nWhich structure is most directly involved in this quick reflex response?",
+    "choices": {
+      "A": "Liver",
+      "B": "Spinal cord",
+      "C": "Pancreas",
+      "D": "Gallbladder"
+    },
+    "correct": "B",
+    "explanation": "Many rapid reflexes are coordinated through the spinal cord before the brain fully processes the event. The main trap is Pancreas because it is unrelated to reflex actions."
+  },
+  {
+    "id": "TS5-010",
+    "prompt": "A neuron has dendrites, a cell body, and an axon.\nQuestion:\nWhat is the main function of dendrites?",
+    "choices": {
+      "A": "To carry signals toward the cell body",
+      "B": "To store bile for digestion",
+      "C": "To remove wastes from the blood",
+      "D": "To produce hormones for growth"
+    },
+    "correct": "A",
+    "explanation": "Dendrites receive incoming signals from other neurons or receptors. The main trap is To produce hormones for growth because neurons are not endocrine glands."
+  },
+  {
+    "id": "TS5-011",
+    "prompt": "The male reproductive system includes several glands that add fluid to sperm.\nQuestion:\nWhich gland adds fluid that helps protect and nourish sperm?",
+    "choices": {
+      "A": "Thyroid gland",
+      "B": "Prostate gland",
+      "C": "Pituitary gland",
+      "D": "Adrenal gland"
+    },
+    "correct": "B",
+    "explanation": "The prostate contributes fluid that becomes part of semen. The main trap is Pituitary gland because the pituitary is endocrine, not a semen-producing gland."
+  },
+  {
+    "id": "TS5-012",
+    "prompt": "The female reproductive system includes the ovaries, fallopian tubes, uterus, and cervix.\nQuestion:\nWhat is the cervix?",
+    "choices": {
+      "A": "The site where fertilization usually occurs",
+      "B": "The muscular layer of the stomach",
+      "C": "The lower opening of the uterus",
+      "D": "The gland that produces progesterone"
+    },
+    "correct": "C",
+    "explanation": "The cervix is the lower narrow part of the uterus that opens into the vagina. The main trap is The site where fertilization usually occurs because fertilization usually occurs in a fallopian tube."
+  },
+  {
+    "id": "TS5-013",
+    "prompt": "During pregnancy, a temporary organ forms that connects the developing fetus to the mother.\nQuestion:\nWhat is the main function of the placenta?",
+    "choices": {
+      "A": "To store bile for the fetus",
+      "B": "To exchange nutrients, gases, and wastes between mother and fetus",
+      "C": "To produce red blood cells in the fetus",
+      "D": "To digest proteins for the fetus"
+    },
+    "correct": "B",
+    "explanation": "The placenta is the main exchange organ between maternal and fetal blood supplies. The main trap is To digest proteins for the fetus because the placenta is an exchange structure, not a digestive organ."
+  },
+  {
+    "id": "TS5-014",
+    "prompt": "Sperm cells are produced in the testes and then move into another structure to mature.\nQuestion:\nIn which structure do sperm mature and become stored before ejaculation?",
+    "choices": {
+      "A": "Epididymis",
+      "B": "Urethra",
+      "C": "Bladder",
+      "D": "Scrotum"
+    },
+    "correct": "A",
+    "explanation": "Sperm mature and are stored in the epididymis. The main trap is Scrotum because the scrotum is a protective sac, not the site of sperm maturation."
+  },
+  {
+    "id": "TS5-015",
+    "prompt": "The thymus is an organ involved in immune system development.\nQuestion:\nWhat is a major function of the thymus?",
+    "choices": {
+      "A": "To mature certain white blood cells important for immunity",
+      "B": "To filter urine before it enters the bladder",
+      "C": "To produce insulin for blood sugar regulation",
+      "D": "To store calcium for bone growth"
+    },
+    "correct": "A",
+    "explanation": "The thymus is important in T-cell maturation. The main trap is To produce insulin for blood sugar regulation because insulin is produced by the pancreas."
+  },
+  {
+    "id": "TS5-016",
+    "prompt": "Different immune cells have different roles in defending the body.\nQuestion:\nWhich cells are most directly involved in attacking infected body cells?",
+    "choices": {
+      "A": "Red blood cells",
+      "B": "T lymphocytes",
+      "C": "Platelets",
+      "D": "Osteocytes"
+    },
+    "correct": "B",
+    "explanation": "T cells are central to attacking infected cells and coordinating immune responses. The main trap is Red blood cells because red blood cells do not perform immune defense."
+  },
+  {
+    "id": "TS5-017",
+    "prompt": "On a hot day, blood vessels near the surface of the skin widen.\nQuestion:\nWhat is the main purpose of this response?",
+    "choices": {
+      "A": "To reduce heat loss",
+      "B": "To increase heat release from the body",
+      "C": "To store more oxygen in the skin",
+      "D": "To slow circulation permanently"
+    },
+    "correct": "B",
+    "explanation": "Vasodilation near the skin surface helps more heat leave the body. The main trap is To reduce heat loss because that would be the opposite response."
+  },
+  {
+    "id": "TS5-018",
+    "prompt": "The shoulder joint allows the arm to move in many directions.\nQuestion:\nWhat type of joint is the shoulder?",
+    "choices": {
+      "A": "Hinge joint",
+      "B": "Ball-and-socket joint",
+      "C": "Fixed joint",
+      "D": "Pivot-only joint"
+    },
+    "correct": "B",
+    "explanation": "The shoulder is a ball-and-socket joint, allowing wide movement in many directions. The main trap is Hinge joint because hinge joints move mainly in one plane."
+  },
+  {
+    "id": "TS5-019",
+    "prompt": "The bones of the spine form a column along the back.\nQuestion:\nWhat is a major function of the vertebrae?",
+    "choices": {
+      "A": "To produce bile for fat digestion",
+      "B": "To protect the spinal cord",
+      "C": "To pump blood to the lungs",
+      "D": "To store urine before excretion"
+    },
+    "correct": "B",
+    "explanation": "The vertebrae form a protective bony column around the spinal cord. The main trap is To pump blood to the lungs because that is a heart function."
+  },
+  {
+    "id": "TS5-020",
+    "prompt": "The lungs are surrounded by thin membranes called pleurae.\nQuestion:\nWhat is a major function of the pleurae?",
+    "choices": {
+      "A": "To reduce friction as the lungs expand and contract",
+      "B": "To produce digestive enzymes",
+      "C": "To store oxygen for later use",
+      "D": "To connect muscle to bone"
+    },
+    "correct": "A",
+    "explanation": "The pleurae and pleural fluid help the lungs move smoothly during breathing. The main trap is To store oxygen for later use because the pleurae are membranes, not storage structures."
+  },
+  {
+    "id": "TS5-021",
+    "prompt": "After blood is filtered in the kidneys, many useful substances are taken back into the blood from the nephron tubules.\nQuestion:\nWhat is this process called?",
+    "choices": {
+      "A": "Reabsorption",
+      "B": "Fertilization",
+      "C": "Evaporation",
+      "D": "Coagulation"
+    },
+    "correct": "A",
+    "explanation": "Reabsorption returns useful water and solutes from the nephron back to the bloodstream. The main trap is Coagulation because coagulation refers to blood clotting."
+  },
+  {
+    "id": "TS5-022",
+    "prompt": "Salivary glands release saliva into the mouth.\nQuestion:\nWhat is one major function of saliva?",
+    "choices": {
+      "A": "To moisten food and help swallowing",
+      "B": "To pump blood through the lungs",
+      "C": "To store glucose for the liver",
+      "D": "To remove wastes from the bloodstream"
+    },
+    "correct": "A",
+    "explanation": "Saliva wets food and helps form a bolus for swallowing. The main trap is To store glucose for the liver because saliva does not perform storage."
+  },
+  {
+    "id": "TS5-023",
+    "prompt": "The nucleus contains a dense region that helps make parts of ribosomes.\nQuestion:\nWhich structure performs this function?",
+    "choices": {
+      "A": "Nucleolus",
+      "B": "Axon",
+      "C": "Cell wall",
+      "D": "Golgi vesicle"
+    },
+    "correct": "A",
+    "explanation": "The nucleolus helps produce ribosomal components. The main trap is Golgi vesicle because the Golgi apparatus processes and packages materials rather than assembling ribosome parts."
+  },
+  {
+    "id": "TS5-024",
+    "prompt": "The endoplasmic reticulum comes in two forms: rough and smooth.\nQuestion:\nWhich is a major function of the smooth endoplasmic reticulum?",
+    "choices": {
+      "A": "Synthesizing lipids",
+      "B": "Copying chromosomes",
+      "C": "Forming the cell membrane around the nucleus",
+      "D": "Carrying oxygen in the blood"
+    },
+    "correct": "A",
+    "explanation": "Smooth endoplasmic reticulum is involved in lipid synthesis and other functions such as detoxification. The main trap is Copying chromosomes because chromosome replication is not a smooth ER function."
+  },
+  {
+    "id": "TS5-025",
+    "prompt": "Cells contain a gel-like material that surrounds organelles.\nQuestion:\nWhat is this material called?",
+    "choices": {
+      "A": "Cytoplasm",
+      "B": "Myelin",
+      "C": "Plasma",
+      "D": "Collagen"
+    },
+    "correct": "A",
+    "explanation": "Cytoplasm is the gel-like material that fills the cell around organelles. The main trap is Plasma because plasma is the liquid portion of blood."
+  },
+  {
+    "id": "TS5-026",
+    "prompt": "Genes can exist in different versions.\nQuestion:\nWhat is an allele?",
+    "choices": {
+      "A": "A type of muscle fiber",
+      "B": "An alternative form of a gene",
+      "C": "A membrane-bound organelle",
+      "D": "A product of cellular respiration"
+    },
+    "correct": "B",
+    "explanation": "Alleles are different versions of the same gene. The main trap is A type of muscle fiber because alleles are genetic, not muscular."
+  },
+  {
+    "id": "TS5-027",
+    "prompt": "A plant has the genotype GG for a trait.\nQuestion:\nHow is this genotype best described?",
+    "choices": {
+      "A": "Heterozygous",
+      "B": "Homozygous",
+      "C": "Incomplete",
+      "D": "Recessive only"
+    },
+    "correct": "B",
+    "explanation": "GG contains two identical alleles, so it is homozygous. The main trap is Heterozygous because heterozygous means two different alleles."
+  },
+  {
+    "id": "TS5-028",
+    "prompt": "In a trait where B is dominant over b, an organism has the genotype Bb.\nQuestion:\nWhich trait will this organism show?",
+    "choices": {
+      "A": "Only the recessive trait",
+      "B": "Neither trait",
+      "C": "The dominant trait",
+      "D": "A trait unrelated to B or b"
+    },
+    "correct": "C",
+    "explanation": "A heterozygous genotype with one dominant allele expresses the dominant trait. The main trap is Only the recessive trait because the recessive phenotype appears only when both alleles are recessive."
+  },
+  {
+    "id": "TS5-029",
+    "prompt": "The body uses several macromolecules for energy and structure.\nQuestion:\nWhich macromolecule is the body’s main quick source of energy?",
+    "choices": {
+      "A": "Carbohydrate",
+      "B": "Lipid",
+      "C": "Nucleic acid",
+      "D": "Mineral"
+    },
+    "correct": "A",
+    "explanation": "Carbohydrates are the body’s main quick energy source. The main trap is Lipid because lipids are more associated with long-term energy storage."
+  },
+  {
+    "id": "TS5-030",
+    "prompt": "DNA and RNA are built from repeating subunits.\nQuestion:\nWhat is the basic building block of nucleic acids?",
+    "choices": {
+      "A": "Amino acid",
+      "B": "Nucleotide",
+      "C": "Fatty acid",
+      "D": "Monosaccharide"
+    },
+    "correct": "B",
+    "explanation": "Nucleotides are the monomers that make up DNA and RNA. The main trap is Monosaccharide because monosaccharides build carbohydrates."
+  },
+  {
+    "id": "TS5-031",
+    "prompt": "A bird builds its nest in a tree, and the tree is not helped or harmed.\nQuestion:\nWhich ecological relationship does this example describe?",
+    "choices": {
+      "A": "Parasitism",
+      "B": "Mutualism",
+      "C": "Commensalism",
+      "D": "Predation"
+    },
+    "correct": "C",
+    "explanation": "In commensalism, one organism benefits while the other is neither helped nor harmed. The main trap is Mutualism because mutualism benefits both organisms."
+  },
+  {
+    "id": "TS5-032",
+    "prompt": "Deserts, tundras, and tropical rain forests are large regions with characteristic climates and living things.\nQuestion:\nThese large regions are called",
+    "choices": {
+      "A": "biomes",
+      "B": "alleles",
+      "C": "organ systems",
+      "D": "tissues"
+    },
+    "correct": "A",
+    "explanation": "Biomes are large regions defined by climate and characteristic life forms. The main trap is tissues because tissues are groups of similar cells in organisms, not ecological regions."
+  },
+  {
+    "id": "TS5-033",
+    "prompt": "An ecosystem with many different species is often better able to continue functioning when conditions change.\nQuestion:\nWhich statement best explains why biodiversity is important?",
+    "choices": {
+      "A": "It always eliminates competition between organisms.",
+      "B": "It can make ecosystems more stable and resilient.",
+      "C": "It prevents all extinctions from happening.",
+      "D": "It removes the need for producers in food webs."
+    },
+    "correct": "B",
+    "explanation": "Greater biodiversity often helps ecosystems respond better to change. The main trap is It prevents all extinctions from happening because biodiversity improves resilience but cannot guarantee that no species will be lost."
+  },
+  {
+    "id": "TS5-034",
+    "prompt": "During gene expression, a molecule of RNA is made using DNA as a template.\nQuestion:\nWhat is this process called?",
+    "choices": {
+      "A": "Translation",
+      "B": "Transcription",
+      "C": "Diffusion",
+      "D": "Osmosis"
+    },
+    "correct": "B",
+    "explanation": "Transcription is the process of making RNA from a DNA template. The main trap is Translation because translation is the process of building a protein from mRNA."
+  },
+  {
+    "id": "TS5-035",
+    "prompt": "An atom is electrically neutral.\nQuestion:\nIn a neutral atom, the number of electrons is equal to the number of",
+    "choices": {
+      "A": "neutrons",
+      "B": "protons",
+      "C": "isotopes",
+      "D": "compounds"
+    },
+    "correct": "B",
+    "explanation": "In a neutral atom, positive protons equal negative electrons. The main trap is neutrons because neutrons do not affect electrical neutrality directly."
+  },
+  {
+    "id": "TS5-036",
+    "prompt": "Atoms contain protons, neutrons, and electrons.\nQuestion:\nWhat is the electrical charge of a neutron?",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Neutral",
+      "D": "Variable"
+    },
+    "correct": "C",
+    "explanation": "Neutrons carry no electrical charge. The main trap is Positive because protons, not neutrons, are positively charged."
+  },
+  {
+    "id": "TS5-037",
+    "prompt": "Sugar is stirred into water until it dissolves completely.\nQuestion:\nIn this mixture, sugar is the",
+    "choices": {
+      "A": "solvent",
+      "B": "solute",
+      "C": "catalyst",
+      "D": "precipitate"
+    },
+    "correct": "B",
+    "explanation": "The solute is the substance dissolved in the solvent. The main trap is solvent because water is the solvent in this mixture."
+  },
+  {
+    "id": "TS5-038",
+    "prompt": "A sample has a mass of 24 g and a volume of 8 mL.\nQuestion:\nWhat is its density?",
+    "choices": {
+      "A": "2 g/mL",
+      "B": "3 g/mL",
+      "C": "8 g/mL",
+      "D": "32 g/mL"
+    },
+    "correct": "B",
+    "explanation": "Density = mass ÷ volume = 24 ÷ 8 = 3 g/mL. The main trap is 8 g/mL because that reverses the correct calculation."
+  },
+  {
+    "id": "TS5-039",
+    "prompt": "Water vapor cools and changes into liquid water on the outside of a cold glass.\nQuestion:\nThis process is called",
+    "choices": {
+      "A": "condensation",
+      "B": "evaporation",
+      "C": "sublimation",
+      "D": "combustion"
+    },
+    "correct": "A",
+    "explanation": "Condensation is the change from gas to liquid. The main trap is evaporation because evaporation is liquid changing to gas."
+  },
+  {
+    "id": "TS5-040",
+    "prompt": "A pot of water is heated until it boils and turns to steam.\nQuestion:\nBoiling water is best classified as which type of change?",
+    "choices": {
+      "A": "Chemical change",
+      "B": "Physical change",
+      "C": "Nuclear change",
+      "D": "Genetic change"
+    },
+    "correct": "B",
+    "explanation": "Boiling changes only the state of water, not its chemical identity. The main trap is Chemical change because no new substance forms."
+  },
+  {
+    "id": "TS5-041",
+    "prompt": "A mixture of salt water is heated, and the water vapor is collected and cooled back into liquid water.\nQuestion:\nWhich separation method is being used?",
+    "choices": {
+      "A": "Filtration",
+      "B": "Distillation",
+      "C": "Freezing only",
+      "D": "Magnetic separation"
+    },
+    "correct": "B",
+    "explanation": "Distillation separates components based on differences in boiling point and then condenses the vapor. The main trap is Filtration because dissolved salt cannot be removed by simple filtration."
+  },
+  {
+    "id": "TS5-042",
+    "prompt": "A mixture contains iron filings and sand.\nQuestion:\nWhich method would best separate the iron filings from the sand?",
+    "choices": {
+      "A": "Using a magnet",
+      "B": "Adding sugar",
+      "C": "Measuring pH",
+      "D": "Cooling the mixture"
+    },
+    "correct": "A",
+    "explanation": "Iron filings are magnetic, while sand is not. The main trap is Cooling the mixture because temperature change alone will not separate the iron from the sand."
+  },
+  {
+    "id": "TS5-043",
+    "prompt": "A student looks at a beaker and says, “The liquid is blue.”\nQuestion:\nThis statement is best described as",
+    "choices": {
+      "A": "a hypothesis",
+      "B": "an observation",
+      "C": "a conclusion",
+      "D": "a theory"
+    },
+    "correct": "B",
+    "explanation": "“The liquid is blue” is directly based on what is seen, so it is an observation. The main trap is a hypothesis because a hypothesis is a testable prediction, not a description of what is observed."
+  },
+  {
+    "id": "TS5-044",
+    "prompt": "In an experiment, participants do not know whether they received the real treatment or an inactive pill.\nQuestion:\nWhy is this kind of study design useful?",
+    "choices": {
+      "A": "It reduces the effect of expectations on the results.",
+      "B": "It guarantees the treatment works.",
+      "C": "It removes the need for a control group.",
+      "D": "It proves the hypothesis is true."
+    },
+    "correct": "A",
+    "explanation": "Blinding helps prevent participants’ expectations from influencing outcomes. The main trap is It guarantees the treatment works because study design can reduce bias but cannot guarantee a result."
+  },
+  {
+    "id": "TS5-045",
+    "prompt": "A student measures liquid in a graduated cylinder.\nQuestion:\nFor the most accurate reading, how should the student view the liquid level?",
+    "choices": {
+      "A": "From above the cylinder",
+      "B": "From below the cylinder",
+      "C": "At eye level with the meniscus",
+      "D": "At any angle, since angle does not matter"
+    },
+    "correct": "C",
+    "explanation": "Reading at eye level reduces parallax error and gives the most accurate volume. The main trap is From above the cylinder because that can distort the reading."
+  },
+  {
+    "id": "TS5-046",
+    "prompt": "A student heats a beaker of liquid during a lab.\nQuestion:\nWhy should the student wear safety goggles?",
+    "choices": {
+      "A": "To protect the eyes from splashes and debris",
+      "B": "To improve vision permanently",
+      "C": "To keep the liquid warmer",
+      "D": "To measure the temperature more accurately"
+    },
+    "correct": "A",
+    "explanation": "Goggles are a basic safety measure to protect the eyes during lab work. The main trap is To improve vision permanently because goggles are protective equipment, not vision treatment."
+  },
+  {
+    "id": "TS5-047",
+    "prompt": "A student tests how long hands are washed before swabbing them for bacteria.\nWashing time — Average number of bacterial colonies\n5 seconds — 42\n10 seconds — 29\n20 seconds — 11\n30 seconds — 8\nQuestion:\nBased on the data, which washing time was associated with the fewest bacterial colonies?",
+    "choices": {
+      "A": "5 seconds",
+      "B": "10 seconds",
+      "C": "20 seconds",
+      "D": "30 seconds"
+    },
+    "correct": "D",
+    "explanation": "The smallest number of colonies, 8, occurs at 30 seconds. The main trap is 20 seconds because it is low, but not the lowest."
+  },
+  {
+    "id": "TS5-048",
+    "prompt": "A student tests how long hands are washed before swabbing them for bacteria.\nWashing time — Average number of bacterial colonies\n5 seconds — 42\n10 seconds — 29\n20 seconds — 11\n30 seconds — 8\nQuestion:\nWhich conclusion is best supported by the data?",
+    "choices": {
+      "A": "Longer handwashing was associated with fewer bacterial colonies in this test.",
+      "B": "Handwashing has no relationship to bacterial colonies.",
+      "C": "Washing for 5 seconds removes more bacteria than washing for 30 seconds.",
+      "D": "Thirty seconds of handwashing guarantees sterile hands."
+    },
+    "correct": "A",
+    "explanation": "The table shows colony counts decreasing as washing time increases. The main trap is Thirty seconds of handwashing guarantees sterile hands because the data show reduced colonies, not guaranteed sterility."
+  },
+  {
+    "id": "TS5-049",
+    "prompt": "After one scientist publishes results, several other scientists repeat the same procedures and compare outcomes.\nQuestion:\nWhy is this repetition by other scientists important?",
+    "choices": {
+      "A": "It helps check whether the results are reproducible.",
+      "B": "It guarantees that all scientists will get identical numbers.",
+      "C": "It replaces the need for careful data collection.",
+      "D": "It proves the first scientist never made a mistake."
+    },
+    "correct": "A",
+    "explanation": "Independent repetition helps show whether results can be reproduced consistently. The main trap is It guarantees that all scientists will get identical numbers because some variation is still possible."
+  },
+  {
+    "id": "TS5-050",
+    "prompt": "A student pours two clear liquids into unlabeled beakers and then cannot remember which is which.\nQuestion:\nWhich lab practice would have best prevented this problem?",
+    "choices": {
+      "A": "Labeling each container as soon as it was prepared",
+      "B": "Tasting each liquid to identify it later",
+      "C": "Storing both beakers under the same name",
+      "D": "Waiting until the end of class to write labels"
+    },
+    "correct": "A",
+    "explanation": "Immediate labeling prevents dangerous mix-ups and confusion. The main trap is Waiting until the end of class to write labels because delaying labels increases the chance of error."
+  }
+]

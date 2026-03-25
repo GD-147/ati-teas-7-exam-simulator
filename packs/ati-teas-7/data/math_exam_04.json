@@ -1,0 +1,458 @@
+[
+  {
+    "id": "TM4-001",
+    "prompt": "What is 3/4 ÷ 1/2?",
+    "choices": {
+      "A": "1/4",
+      "B": "1",
+      "C": "3/2",
+      "D": "2"
+    },
+    "correct": "C",
+    "explanation": "Dividing by 1/2 is the same as multiplying by 2: 3/4 × 2 = 3/2. The main trap is D because 2 is too large."
+  },
+  {
+    "id": "TM4-002",
+    "prompt": "What is 4.8 + 7.35?",
+    "choices": {
+      "A": "11.15",
+      "B": "12.15",
+      "C": "12.85",
+      "D": "13.15"
+    },
+    "correct": "B",
+    "explanation": "Add the decimals carefully: 4.80 + 7.35 = 12.15. The main trap is C because it adds the hundredths incorrectly."
+  },
+  {
+    "id": "TM4-003",
+    "prompt": "What is 18% of 250?",
+    "choices": {
+      "A": "36",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "correct": "C",
+    "explanation": "18% = 0.18, and 0.18 × 250 = 45. The main trap is B because it underestimates the percent."
+  },
+  {
+    "id": "TM4-004",
+    "prompt": "A clinic uses 4 pairs of sterile gloves for every 3 patients. At the same rate, how many pairs of gloves are needed for 18 patients?",
+    "choices": {
+      "A": "20",
+      "B": "22",
+      "C": "24",
+      "D": "27"
+    },
+    "correct": "C",
+    "explanation": "The ratio is 4 pairs for 3 patients. For 18 patients, multiply by 6: 4 × 6 = 24. The main trap is D because it multiplies the number of patients by 1.5 incorrectly."
+  },
+  {
+    "id": "TM4-005",
+    "prompt": "Evaluate: 14 − 2 × 3 + 9",
+    "choices": {
+      "A": "11",
+      "B": "17",
+      "C": "21",
+      "D": "57"
+    },
+    "correct": "B",
+    "explanation": "Multiply first: 2 × 3 = 6. Then 14 − 6 + 9 = 17. The main trap is C because it ignores order of operations."
+  },
+  {
+    "id": "TM4-006",
+    "prompt": "What is √196 ÷ 2?",
+    "choices": {
+      "A": "7",
+      "B": "14",
+      "C": "28",
+      "D": "98"
+    },
+    "correct": "A",
+    "explanation": "√196 = 14, and 14 ÷ 2 = 7. The main trap is B because it stops after finding the square root."
+  },
+  {
+    "id": "TM4-007",
+    "prompt": "Solve for x: 7x + 6 = 34",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Subtract 6 to get 7x = 28, then divide by 7. The main trap is C because it does not solve completely."
+  },
+  {
+    "id": "TM4-008",
+    "prompt": "Solve the inequality: 4x − 1 ≥ 19",
+    "choices": {
+      "A": "x ≥ 4",
+      "B": "x ≥ 5",
+      "C": "x ≤ 4",
+      "D": "x ≤ 5"
+    },
+    "correct": "B",
+    "explanation": "Add 1 to both sides: 4x ≥ 20. Divide by 4 to get x ≥ 5. The main trap is A because it forgets the final division."
+  },
+  {
+    "id": "TM4-009",
+    "prompt": "Use the formula P = 2l + 2w. If l = 9 cm and w = 6 cm, what is P?",
+    "choices": {
+      "A": "15 cm",
+      "B": "24 cm",
+      "C": "30 cm",
+      "D": "54 cm"
+    },
+    "correct": "C",
+    "explanation": "P = 2(9) + 2(6) = 18 + 12 = 30. The main trap is B because it adds length and width once instead of doubling both."
+  },
+  {
+    "id": "TM4-010",
+    "prompt": "A triangle has a base of 15 ft and a height of 4 ft. What is its area?",
+    "choices": {
+      "A": "19 ft²",
+      "B": "30 ft²",
+      "C": "60 ft²",
+      "D": "120 ft²"
+    },
+    "correct": "B",
+    "explanation": "Area of a triangle is (1/2)bh = (1/2)(15)(4) = 30. The main trap is C because it forgets the 1/2."
+  },
+  {
+    "id": "TM4-011",
+    "prompt": "A cube has side length 4 in. What is its volume?",
+    "choices": {
+      "A": "16 in³",
+      "B": "48 in³",
+      "C": "64 in³",
+      "D": "96 in³"
+    },
+    "correct": "C",
+    "explanation": "Volume of a cube is side × side × side = 4 × 4 × 4 = 64. The main trap is A because 16 is only the area of one face."
+  },
+  {
+    "id": "TM4-012",
+    "prompt": "A circle has a diameter of 12 cm. What is its circumference?",
+    "choices": {
+      "A": "6π cm",
+      "B": "12π cm",
+      "C": "24π cm",
+      "D": "36π cm"
+    },
+    "correct": "B",
+    "explanation": "Circumference is πd, so π × 12 = 12π. The main trap is A because that uses the radius instead of the diameter."
+  },
+  {
+    "id": "TM4-013",
+    "prompt": "What time is 14:45 in 12-hour time?",
+    "choices": {
+      "A": "12:45 p.m.",
+      "B": "2:45 p.m.",
+      "C": "4:45 p.m.",
+      "D": "2:45 a.m."
+    },
+    "correct": "B",
+    "explanation": "14:45 is 2:45 p.m. in 12-hour time. The main trap is D because 14:45 is afternoon, not morning."
+  },
+  {
+    "id": "TM4-014",
+    "prompt": "A package of 15 notebooks costs $18. What is the cost per notebook?",
+    "choices": {
+      "A": "$1.20",
+      "B": "$1.50",
+      "C": "$1.80",
+      "D": "$2.20"
+    },
+    "correct": "A",
+    "explanation": "Divide total cost by total notebooks: 18 ÷ 15 = 1.20. The main trap is B because it uses an inflated unit rate."
+  },
+  {
+    "id": "TM4-015",
+    "prompt": "A backpack originally costs $80 and is on sale for 15% off. What is the sale price?",
+    "choices": {
+      "A": "$12",
+      "B": "$65",
+      "C": "$68",
+      "D": "$72"
+    },
+    "correct": "C",
+    "explanation": "15% of $80 is $12, and $80 − $12 = $68. The main trap is D because it subtracts only 10%."
+  },
+  {
+    "id": "TM4-016",
+    "prompt": "On a road map, 1 inch represents 20 miles. If two towns are 2.25 inches apart on the map, how many miles apart are they in real life?",
+    "choices": {
+      "A": "40 miles",
+      "B": "42 miles",
+      "C": "45 miles",
+      "D": "50 miles"
+    },
+    "correct": "C",
+    "explanation": "Multiply 2.25 by 20 to get 45. The main trap is B because it comes from incomplete multiplication."
+  },
+  {
+    "id": "TM4-017",
+    "prompt": "Find the mean of the numbers 26, 30, 34, and 38.",
+    "choices": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36"
+    },
+    "correct": "B",
+    "explanation": "Add the values: 26 + 30 + 34 + 38 = 128. Then 128 ÷ 4 = 32. The main trap is C because it chooses one of the middle numbers instead of the average."
+  },
+  {
+    "id": "TM4-018",
+    "prompt": "Find the median of the numbers 2, 5, 9, 11, 14, and 18.",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12.5"
+    },
+    "correct": "B",
+    "explanation": "With 6 numbers, the median is the average of the 3rd and 4th values: (9 + 11) ÷ 2 = 10. The main trap is C because it picks one middle value instead of averaging both."
+  },
+  {
+    "id": "TM4-019",
+    "prompt": "What is the mode of the data set 7, 9, 9, 12, 14, 14, 14, 16?",
+    "choices": {
+      "A": "9",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "The mode is the value that appears most often, and 14 appears 3 times. The main trap is A because 9 appears only twice."
+  },
+  {
+    "id": "TM4-020",
+    "prompt": "A box contains 5 green markers, 3 yellow markers, and 2 black markers. If 1 marker is chosen at random, what is the probability of choosing a green marker?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/2",
+      "C": "3/5",
+      "D": "5/3"
+    },
+    "correct": "B",
+    "explanation": "There are 10 markers total and 5 are green, so 5/10 = 1/2. The main trap is C because it puts green over nongreen."
+  },
+  {
+    "id": "TM4-021",
+    "prompt": "A table shows the number of volunteers at a health fair.\nMorning shift — 12\nMidday shift — 17\nAfternoon shift — 15\nEvening shift — 19\nWhich shift had the greatest number of volunteers?",
+    "choices": {
+      "A": "Morning shift",
+      "B": "Midday shift",
+      "C": "Afternoon shift",
+      "D": "Evening shift"
+    },
+    "correct": "D",
+    "explanation": "Evening shift has the greatest value, 19. The main trap is B because 17 is high but not the highest."
+  },
+  {
+    "id": "TM4-022",
+    "prompt": "A line graph shows the number of miles biked:\nMonday — 6\nTuesday — 8\nWednesday — 7\nThursday — 8\nFriday — 9\nOn which two days was the number of miles biked the same?",
+    "choices": {
+      "A": "Monday and Wednesday",
+      "B": "Tuesday and Thursday",
+      "C": "Wednesday and Friday",
+      "D": "Monday and Friday"
+    },
+    "correct": "B",
+    "explanation": "Both Tuesday and Thursday show 8 miles. The main trap is A because 6 and 7 are different."
+  },
+  {
+    "id": "TM4-023",
+    "prompt": "What is 11/20 written as a decimal?",
+    "choices": {
+      "A": "0.11",
+      "B": "0.20",
+      "C": "0.55",
+      "D": "5.5"
+    },
+    "correct": "C",
+    "explanation": "Divide 11 by 20 to get 0.55. The main trap is D because 5.5 is ten times too large."
+  },
+  {
+    "id": "TM4-024",
+    "prompt": "A purchase costs $40 before tax. If the sales tax rate is 7%, what is the total cost?",
+    "choices": {
+      "A": "$42.07",
+      "B": "$42.80",
+      "C": "$43.00",
+      "D": "$47.00"
+    },
+    "correct": "B",
+    "explanation": "Sales tax is 0.07 × 40 = 2.80, and 40 + 2.80 = 42.80. The main trap is A because it adds the tax incorrectly."
+  },
+  {
+    "id": "TM4-025",
+    "prompt": "Evaluate 5a − 2 when a = 9.",
+    "choices": {
+      "A": "35",
+      "B": "41",
+      "C": "43",
+      "D": "47"
+    },
+    "correct": "C",
+    "explanation": "Substitute a = 9: 5(9) − 2 = 45 − 2 = 43. The main trap is B because it subtracts before multiplying."
+  },
+  {
+    "id": "TM4-026",
+    "prompt": "Solve for x: x/4 + 3 = 8",
+    "choices": {
+      "A": "5",
+      "B": "16",
+      "C": "20",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "Subtract 3 to get x/4 = 5. Multiply both sides by 4 to get x = 20. The main trap is B because it stops after subtracting."
+  },
+  {
+    "id": "TM4-027",
+    "prompt": "What is 65% written as a decimal?",
+    "choices": {
+      "A": "0.065",
+      "B": "0.65",
+      "C": "6.5",
+      "D": "65"
+    },
+    "correct": "B",
+    "explanation": "Convert percent to decimal by dividing by 100: 65% = 0.65. The main trap is A because it moves the decimal too far."
+  },
+  {
+    "id": "TM4-028",
+    "prompt": "What is |−9| + 4?",
+    "choices": {
+      "A": "5",
+      "B": "9",
+      "C": "13",
+      "D": "−13"
+    },
+    "correct": "C",
+    "explanation": "|−9| = 9, and 9 + 4 = 13. The main trap is B because it forgets to add 4."
+  },
+  {
+    "id": "TM4-029",
+    "prompt": "A rectangle has a length of 12 yd and a width of 9 yd. What is its perimeter?",
+    "choices": {
+      "A": "21 yd",
+      "B": "42 yd",
+      "C": "54 yd",
+      "D": "108 yd"
+    },
+    "correct": "B",
+    "explanation": "Perimeter of a rectangle is 2l + 2w = 2(12) + 2(9) = 24 + 18 = 42. The main trap is C because it multiplies length and width instead."
+  },
+  {
+    "id": "TM4-030",
+    "prompt": "A cylinder has radius 2 cm and height 8 cm. Use V = πr²h. What is the volume?",
+    "choices": {
+      "A": "16π cm³",
+      "B": "24π cm³",
+      "C": "32π cm³",
+      "D": "64π cm³"
+    },
+    "correct": "C",
+    "explanation": "V = πr²h = π(2²)(8) = π(4)(8) = 32π. The main trap is D because it squares and multiplies incorrectly."
+  },
+  {
+    "id": "TM4-031",
+    "prompt": "Use the formula I = Prt. What is the simple interest on $300 at 6% for 2 years?",
+    "choices": {
+      "A": "$18",
+      "B": "$24",
+      "C": "$36",
+      "D": "$60"
+    },
+    "correct": "C",
+    "explanation": "I = Prt = 300 × 0.06 × 2 = 36. The main trap is B because it uses only one year of interest."
+  },
+  {
+    "id": "TM4-032",
+    "prompt": "A chart shows the number of service hours completed by four students.\nJada — 10\nLuis — 12\nMina — 9\nNoah — 12\nWho completed the greatest number of service hours?",
+    "choices": {
+      "A": "Jada",
+      "B": "Luis and Noah",
+      "C": "Mina",
+      "D": "Noah only"
+    },
+    "correct": "B",
+    "explanation": "Both Luis and Noah completed 12 hours, which is the greatest number shown. The main trap is D because Noah ties with Luis."
+  },
+  {
+    "id": "TM4-033",
+    "prompt": "A recipe uses 1.5 cups of flour for 1 batch of muffins. How many cups of flour are needed for 4 batches?",
+    "choices": {
+      "A": "4.5 cups",
+      "B": "5 cups",
+      "C": "6 cups",
+      "D": "7.5 cups"
+    },
+    "correct": "C",
+    "explanation": "Multiply 1.5 cups by 4 batches: 1.5 × 4 = 6. The main trap is A because it multiplies by 3 instead of 4."
+  },
+  {
+    "id": "TM4-034",
+    "prompt": "A car travels 245 miles in 5 hours. What is its average speed?",
+    "choices": {
+      "A": "45 miles per hour",
+      "B": "49 miles per hour",
+      "C": "50 miles per hour",
+      "D": "55 miles per hour"
+    },
+    "correct": "B",
+    "explanation": "Average speed = distance ÷ time = 245 ÷ 5 = 49. The main trap is C because it rounds too high."
+  },
+  {
+    "id": "TM4-035",
+    "prompt": "A spinner is divided into 10 equal sections: 4 blue, 3 red, and 3 yellow. What is the probability of landing on blue?",
+    "choices": {
+      "A": "1/5",
+      "B": "2/5",
+      "C": "3/5",
+      "D": "4/5"
+    },
+    "correct": "B",
+    "explanation": "There are 4 blue sections out of 10 total, so 4/10 = 2/5. The main trap is D because it uses 4 over an incorrect total."
+  },
+  {
+    "id": "TM4-036",
+    "prompt": "A student earns $720 in a week. She spends $240 on rent, $95 on groceries, and $65 on transportation. How much money does she have left?",
+    "choices": {
+      "A": "$300",
+      "B": "$310",
+      "C": "$320",
+      "D": "$330"
+    },
+    "correct": "C",
+    "explanation": "Total spending is 240 + 95 + 65 = 400. Then 720 − 400 = 320. The main trap is B because it subtracts incorrectly."
+  },
+  {
+    "id": "TM4-037",
+    "prompt": "How many grams are in 1.8 kilograms?",
+    "choices": {
+      "A": "180 g",
+      "B": "1,080 g",
+      "C": "1,800 g",
+      "D": "18,000 g"
+    },
+    "correct": "C",
+    "explanation": "1 kilogram = 1,000 grams, so 1.8 kilograms = 1,800 grams. The main trap is B because it treats 1.8 as 1.08."
+  },
+  {
+    "id": "TM4-038",
+    "prompt": "A table shows the cost of concert tickets.\n6 tickets — $42\n9 tickets — ?\nIf the cost stays proportional, what is the cost of 9 tickets?",
+    "choices": {
+      "A": "$56",
+      "B": "$63",
+      "C": "$68",
+      "D": "$72"
+    },
+    "correct": "B",
+    "explanation": "The unit cost is 42 ÷ 6 = 7 dollars per ticket. Then 9 × 7 = 63. The main trap is A because it uses the wrong unit rate."
+  }
+]

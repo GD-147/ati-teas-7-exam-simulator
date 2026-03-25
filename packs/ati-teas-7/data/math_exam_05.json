@@ -1,0 +1,458 @@
+[
+  {
+    "id": "TM5-001",
+    "prompt": "What is 2/5 + 3/10?",
+    "choices": {
+      "A": "1/2",
+      "B": "7/10",
+      "C": "4/15",
+      "D": "5/10"
+    },
+    "correct": "B",
+    "explanation": "Convert 2/5 to 4/10, then add 4/10 + 3/10 = 7/10. The main trap is A because 1/2 is not the correct sum."
+  },
+  {
+    "id": "TM5-002",
+    "prompt": "What is 12.8 ÷ 0.4?",
+    "choices": {
+      "A": "3.2",
+      "B": "8.2",
+      "C": "32",
+      "D": "128"
+    },
+    "correct": "C",
+    "explanation": "Dividing by 0.4 is the same as dividing by 4/10, which gives 12.8 ÷ 0.4 = 32. The main trap is A because it places the decimal incorrectly."
+  },
+  {
+    "id": "TM5-003",
+    "prompt": "A jacket price decreased from $90 to $72. What is the percent decrease?",
+    "choices": {
+      "A": "15%",
+      "B": "18%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "correct": "C",
+    "explanation": "The decrease is 90 − 72 = 18, and 18/90 = 0.20 = 20%. The main trap is D because it compares incorrectly."
+  },
+  {
+    "id": "TM5-004",
+    "prompt": "A supply cart uses 7 bottles of sanitizer for every 4 rooms. At the same rate, how many bottles are needed for 20 rooms?",
+    "choices": {
+      "A": "28",
+      "B": "30",
+      "C": "35",
+      "D": "40"
+    },
+    "correct": "C",
+    "explanation": "Going from 4 rooms to 20 rooms multiplies by 5, so 7 × 5 = 35 bottles. The main trap is C because it does not scale the ratio correctly."
+  },
+  {
+    "id": "TM5-005",
+    "prompt": "Evaluate: (18 − 6) ÷ 2 + 7",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "D",
+    "explanation": "First compute inside parentheses: 18 − 6 = 12. Then 12 ÷ 2 = 6, and 6 + 7 = 13. The main trap is C because it ignores the correct order of operations."
+  },
+  {
+    "id": "TM5-006",
+    "prompt": "What is 5² − √64?",
+    "choices": {
+      "A": "13",
+      "B": "17",
+      "C": "21",
+      "D": "33"
+    },
+    "correct": "B",
+    "explanation": "5² = 25 and √64 = 8, so 25 − 8 = 17. The main trap is C because it adds instead of subtracting."
+  },
+  {
+    "id": "TM5-007",
+    "prompt": "Solve for x: 9x − 8 = 46",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Add 8 to both sides to get 9x = 54, then divide by 9. The main trap is D because it overestimates the solution."
+  },
+  {
+    "id": "TM5-008",
+    "prompt": "Solve the inequality: x/2 + 7 < 13",
+    "choices": {
+      "A": "x < 6",
+      "B": "x < 12",
+      "C": "x > 6",
+      "D": "x > 12"
+    },
+    "correct": "B",
+    "explanation": "Subtract 7 to get x/2 < 6, then multiply both sides by 2. The main trap is A because it stops too early."
+  },
+  {
+    "id": "TM5-009",
+    "prompt": "Use the formula V = lwh. If l = 5 cm, w = 2 cm, and h = 7 cm, what is V?",
+    "choices": {
+      "A": "14 cm³",
+      "B": "35 cm³",
+      "C": "70 cm³",
+      "D": "140 cm³"
+    },
+    "correct": "C",
+    "explanation": "V = lwh = 5 × 2 × 7 = 70. The main trap is B because it multiplies only two dimensions."
+  },
+  {
+    "id": "TM5-010",
+    "prompt": "A regular hexagon has side length 7 cm. What is its perimeter?",
+    "choices": {
+      "A": "35 cm",
+      "B": "42 cm",
+      "C": "49 cm",
+      "D": "56 cm"
+    },
+    "correct": "B",
+    "explanation": "A regular hexagon has 6 equal sides, so 6 × 7 = 42. The main trap is C because it uses 7 sides instead of 6."
+  },
+  {
+    "id": "TM5-011",
+    "prompt": "A circle has a diameter of 14 in. What is its area?",
+    "choices": {
+      "A": "14π in²",
+      "B": "28π in²",
+      "C": "49π in²",
+      "D": "98π in²"
+    },
+    "correct": "C",
+    "explanation": "The radius is half the diameter, so r = 7. Area = πr² = π(7²) = 49π. The main trap is B because it uses the diameter incorrectly."
+  },
+  {
+    "id": "TM5-012",
+    "prompt": "A triangle has a base of 9 m and a height of 8 m. What is its area?",
+    "choices": {
+      "A": "17 m²",
+      "B": "36 m²",
+      "C": "72 m²",
+      "D": "81 m²"
+    },
+    "correct": "B",
+    "explanation": "Area of a triangle is (1/2)bh = (1/2)(9)(8) = 36. The main trap is C because it forgets the 1/2."
+  },
+  {
+    "id": "TM5-013",
+    "prompt": "How many minutes are in 3.25 hours?",
+    "choices": {
+      "A": "180",
+      "B": "185",
+      "C": "195",
+      "D": "205"
+    },
+    "correct": "C",
+    "explanation": "Multiply 3.25 by 60 minutes per hour: 3.25 × 60 = 195. The main trap is B because it undercounts the quarter hour."
+  },
+  {
+    "id": "TM5-014",
+    "prompt": "An 8-ounce bottle of lotion costs $6.00. What is the cost per ounce?",
+    "choices": {
+      "A": "$0.60",
+      "B": "$0.75",
+      "C": "$0.80",
+      "D": "$1.25"
+    },
+    "correct": "B",
+    "explanation": "Divide the total cost by the ounces: 6 ÷ 8 = 0.75. The main trap is C because it overestimates the unit price."
+  },
+  {
+    "id": "TM5-015",
+    "prompt": "A pair of shoes originally costs $55 and is on sale for 40% off. What is the sale price?",
+    "choices": {
+      "A": "$22",
+      "B": "$33",
+      "C": "$35",
+      "D": "$44"
+    },
+    "correct": "B",
+    "explanation": "40% of $55 is $22, and $55 − $22 = $33. The main trap is D because it subtracts only 20%."
+  },
+  {
+    "id": "TM5-016",
+    "prompt": "On a map, 1 cm represents 4 km. If two locations are 6.5 cm apart on the map, how far apart are they in real life?",
+    "choices": {
+      "A": "22 km",
+      "B": "24 km",
+      "C": "26 km",
+      "D": "28 km"
+    },
+    "correct": "C",
+    "explanation": "Multiply 6.5 by 4 to get 26 km. The main trap is D because it multiplies incorrectly."
+  },
+  {
+    "id": "TM5-017",
+    "prompt": "Find the mean of the numbers 16, 18, 20, 26, and 30.",
+    "choices": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "correct": "C",
+    "explanation": "Add the numbers: 16 + 18 + 20 + 26 + 30 = 110, then divide by 5 to get 22. The main trap is B because it picks a nearby value, not the actual mean."
+  },
+  {
+    "id": "TM5-018",
+    "prompt": "Find the median of the numbers 1, 4, 7, 9, 10, 13, 15, and 18.",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "9.5",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "With 8 values, the median is the average of the 4th and 5th numbers: (9 + 10) ÷ 2 = 9.5. The main trap is B because it chooses one middle value instead of averaging the two."
+  },
+  {
+    "id": "TM5-019",
+    "prompt": "What is the range of the data set 58, 61, 67, 70?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Range = largest − smallest = 70 − 58 = 12. The main trap is D because it subtracts the wrong values."
+  },
+  {
+    "id": "TM5-020",
+    "prompt": "A box contains 4 black pens, 5 blue pens, and 1 red pen. If 1 pen is chosen at random, what is the probability of choosing a black pen?",
+    "choices": {
+      "A": "1/10",
+      "B": "2/5",
+      "C": "1/2",
+      "D": "4/5"
+    },
+    "correct": "B",
+    "explanation": "There are 10 pens total and 4 are black, so 4/10 = 2/5. The main trap is C because 1/2 would mean 5 out of 10."
+  },
+  {
+    "id": "TM5-021",
+    "prompt": "A table shows the number of patients seen in a clinic.\nMonday — 21\nTuesday — 24\nWednesday — 19\nThursday — 27\nWhich day had the greatest number of patients seen?",
+    "choices": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday"
+    },
+    "correct": "D",
+    "explanation": "Thursday has the highest value, 27. The main trap is B because 24 is not the greatest."
+  },
+  {
+    "id": "TM5-022",
+    "prompt": "A line graph shows the number of chapters read:\nSunday — 3\nMonday — 5\nTuesday — 4\nWednesday — 5\nThursday — 6\nOn which two days was the number of chapters read the same?",
+    "choices": {
+      "A": "Sunday and Tuesday",
+      "B": "Monday and Wednesday",
+      "C": "Tuesday and Thursday",
+      "D": "Sunday and Thursday"
+    },
+    "correct": "B",
+    "explanation": "Both Monday and Wednesday show 5 chapters. The main trap is A because 3 and 4 are different."
+  },
+  {
+    "id": "TM5-023",
+    "prompt": "What is 0.375 written as a fraction in simplest form?",
+    "choices": {
+      "A": "3/5",
+      "B": "3/8",
+      "C": "5/8",
+      "D": "375/100"
+    },
+    "correct": "B",
+    "explanation": "0.375 = 375/1000, which simplifies to 3/8. The main trap is D because it is not in simplest form."
+  },
+  {
+    "id": "TM5-024",
+    "prompt": "A restaurant bill is $28 before tip. If the tip is 15%, what is the total cost?",
+    "choices": {
+      "A": "$30.80",
+      "B": "$31.20",
+      "C": "$32.20",
+      "D": "$33.80"
+    },
+    "correct": "C",
+    "explanation": "15% of $28 is 4.20, and $28 + $4.20 = $32.20. The main trap is B because it adds the tip incorrectly."
+  },
+  {
+    "id": "TM5-025",
+    "prompt": "Evaluate 4y + 3 when y = 8.",
+    "choices": {
+      "A": "29",
+      "B": "32",
+      "C": "35",
+      "D": "43"
+    },
+    "correct": "C",
+    "explanation": "Substitute y = 8: 4(8) + 3 = 32 + 3 = 35. The main trap is D because it multiplies after adding incorrectly."
+  },
+  {
+    "id": "TM5-026",
+    "prompt": "Solve for x: 2(x − 4) = 18",
+    "choices": {
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Divide both sides by 2 to get x − 4 = 9, then add 4. The main trap is B because it stops before the last step."
+  },
+  {
+    "id": "TM5-027",
+    "prompt": "What is 0.425 written as a percent?",
+    "choices": {
+      "A": "4.25%",
+      "B": "42.5%",
+      "C": "425%",
+      "D": "0.425%"
+    },
+    "correct": "B",
+    "explanation": "Multiply the decimal by 100 to convert to a percent. The main trap is C because it moves the decimal too far."
+  },
+  {
+    "id": "TM5-028",
+    "prompt": "What is |−6| + 2³?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "|−6| = 6 and 2³ = 8, so 6 + 8 = 14. The main trap is B because it ignores the exponent."
+  },
+  {
+    "id": "TM5-029",
+    "prompt": "A circle has a radius of 6 cm. What is its circumference?",
+    "choices": {
+      "A": "6π cm",
+      "B": "12π cm",
+      "C": "18π cm",
+      "D": "36π cm"
+    },
+    "correct": "B",
+    "explanation": "Circumference = 2πr = 2π(6) = 12π. The main trap is D because it incorrectly uses πr²."
+  },
+  {
+    "id": "TM5-030",
+    "prompt": "How many cups are in 3.5 quarts?",
+    "choices": {
+      "A": "7 cups",
+      "B": "10 cups",
+      "C": "12 cups",
+      "D": "14 cups"
+    },
+    "correct": "D",
+    "explanation": "1 quart = 4 cups, so 3.5 × 4 = 14 cups. The main trap is C because it uses 3 cups per quart instead of 4."
+  },
+  {
+    "id": "TM5-031",
+    "prompt": "Use the formula I = Prt. What is the simple interest on $400 at 3% for 5 years?",
+    "choices": {
+      "A": "$40",
+      "B": "$50",
+      "C": "$60",
+      "D": "$75"
+    },
+    "correct": "C",
+    "explanation": "I = Prt = 400 × 0.03 × 5 = 60. The main trap is B because it undercounts the total interest."
+  },
+  {
+    "id": "TM5-032",
+    "prompt": "A chart shows the number of hours volunteered by four students.\nAri — 7\nBella — 9\nCorey — 11\nDana — 8\nWho completed the greatest number of volunteer hours?",
+    "choices": {
+      "A": "Ari",
+      "B": "Bella",
+      "C": "Corey",
+      "D": "Dana"
+    },
+    "correct": "C",
+    "explanation": "Corey has the greatest number of hours, 11. The main trap is B because Bella has fewer hours."
+  },
+  {
+    "id": "TM5-033",
+    "prompt": "A recipe uses 2.5 cups of rice for 5 servings. How many cups of rice are needed for 8 servings?",
+    "choices": {
+      "A": "3 cups",
+      "B": "3.5 cups",
+      "C": "4 cups",
+      "D": "4.5 cups"
+    },
+    "correct": "C",
+    "explanation": "2.5 cups for 5 servings is 0.5 cup per serving, and 0.5 × 8 = 4 cups. The main trap is B because it scales the recipe incorrectly."
+  },
+  {
+    "id": "TM5-034",
+    "prompt": "A van travels 156 miles in 4 hours. What is its average speed?",
+    "choices": {
+      "A": "36 miles per hour",
+      "B": "39 miles per hour",
+      "C": "42 miles per hour",
+      "D": "48 miles per hour"
+    },
+    "correct": "B",
+    "explanation": "Average speed = distance ÷ time = 156 ÷ 4 = 39. The main trap is C because it rounds up incorrectly."
+  },
+  {
+    "id": "TM5-035",
+    "prompt": "A spinner is divided into 12 equal sections: 5 orange, 4 blue, and 3 green. What is the probability of landing on orange?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "5/12",
+      "D": "7/12"
+    },
+    "correct": "C",
+    "explanation": "There are 5 orange sections out of 12 total, so the probability is 5/12. The main trap is D because it uses orange over non-orange."
+  },
+  {
+    "id": "TM5-036",
+    "prompt": "A student earns $850 in a week. She spends $275 on rent, $120 on groceries, and $90 on transportation. How much money does she have left?",
+    "choices": {
+      "A": "$355",
+      "B": "$365",
+      "C": "$375",
+      "D": "$385"
+    },
+    "correct": "B",
+    "explanation": "Total spending is 275 + 120 + 90 = 485, and 850 − 485 = 365. The main trap is C because it subtracts incorrectly."
+  },
+  {
+    "id": "TM5-037",
+    "prompt": "How many milliliters are in 0.75 liters?",
+    "choices": {
+      "A": "75 mL",
+      "B": "750 mL",
+      "C": "7,500 mL",
+      "D": "75,000 mL"
+    },
+    "correct": "B",
+    "explanation": "1 liter = 1,000 mL, so 0.75 liter = 750 mL. The main trap is A because it moves the decimal the wrong way."
+  },
+  {
+    "id": "TM5-038",
+    "prompt": "A table shows the cost of theater tickets.\n7 tickets — $49\n10 tickets — ?\nIf the cost stays proportional, what is the cost of 10 tickets?",
+    "choices": {
+      "A": "$63",
+      "B": "$67",
+      "C": "$70",
+      "D": "$74"
+    },
+    "correct": "C",
+    "explanation": "The unit cost is $49 ÷ 7 = $7 per ticket, and 10 × $7 = $70. The main trap is A because it uses the wrong unit rate."
+  }
+]

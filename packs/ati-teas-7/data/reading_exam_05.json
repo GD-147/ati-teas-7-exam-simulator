@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TR5-001",
+    "prompt": "When the town reopened its long-empty train depot as a public study hall, most residents expected a quiet room with a few tables and lamps. Instead, the building now includes evening tutoring, charging stations, a small reading corner for children, and a staffed desk where visitors can borrow calculators and headphones. Attendance has risen so quickly that the town recently added Sunday afternoon hours.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The train depot should have remained closed to the public.",
+      "B": "A former depot became a study hall that now offers more services and draws more visitors than expected.",
+      "C": "Children use the reading corner more than adults use the study tables.",
+      "D": "Charging stations are the most important feature in any public building."
+    },
+    "correct": "B",
+    "explanation": "The passage emphasizes that the building became a broader and busier resource than residents first imagined. The main trap is C because the children’s reading corner is only one detail."
+  },
+  {
+    "id": "TR5-002",
+    "prompt": "Free Skin Screening Day\nFriday, October 13\n11 a.m.-3 p.m.\nHarbor Health Center\nOpen to adults 18 and older\nBring a list of current medications\nAppointments not required\nQuestion:\nAccording to the notice, what should participants bring?",
+    "choices": {
+      "A": "A list of current medications",
+      "B": "A signed referral form",
+      "C": "A copy of recent lab results",
+      "D": "A meal for the waiting period"
+    },
+    "correct": "A",
+    "explanation": "The notice directly states that participants should bring a list of current medications. The main trap is B because no referral form is mentioned."
+  },
+  {
+    "id": "TR5-003",
+    "prompt": "During her first week at the campus mailroom, Tessa kept a note near the sorting shelf listing three route labels: A for administration, H for housing, and S for student services. By the end of the week, she checked the note only a few times and sorted envelopes more confidently.\nQuestion:\nWhat can the reader reasonably infer from the passage?",
+    "choices": {
+      "A": "Tessa’s note helped her learn the sorting routes.",
+      "B": "Student services mail was removed from the system.",
+      "C": "The mailroom no longer used labeled shelves after training.",
+      "D": "Tessa memorized every office number on her first day."
+    },
+    "correct": "A",
+    "explanation": "She checked the note less often and worked more confidently, showing that it helped her learn. The main trap is D because the passage never claims she memorized everything immediately."
+  },
+  {
+    "id": "TR5-004",
+    "prompt": "To operate the badge scanner: 1) wake the screen, 2) hold the badge in front of the sensor, 3) wait for the green light, 4) push the door handle, and 5) enter the room.\nQuestion:\nWhich step comes immediately before pushing the door handle?",
+    "choices": {
+      "A": "Wake the screen",
+      "B": "Hold the badge in front of the sensor",
+      "C": "Wait for the green light",
+      "D": "Enter the room"
+    },
+    "correct": "C",
+    "explanation": "The instructions state that the green light comes immediately before pushing the handle. The main trap is B because holding the badge happens earlier."
+  },
+  {
+    "id": "TR5-005",
+    "prompt": "A youth center replaced its handwritten sign-in notebook with a tablet check-in station. Since the change, fewer names have been entered twice, and staff can see attendance totals instantly instead of counting them by hand at closing time. The new system also timestamps each arrival, which has made parent pick-up questions easier to answer.\nQuestion:\nWhich choice is the best summary of the passage?",
+    "choices": {
+      "A": "Tablet check-in reduced errors and made attendance records easier for staff to manage.",
+      "B": "Handwritten sign-in notebooks were faster than digital stations.",
+      "C": "Parents objected to the new check-in station.",
+      "D": "The youth center stopped tracking attendance after installing the tablet."
+    },
+    "correct": "A",
+    "explanation": "The passage highlights fewer duplicate entries, instant totals, and clearer arrival records. The main trap is B because the passage presents the digital system as an improvement."
+  },
+  {
+    "id": "TR5-006",
+    "prompt": "The supervisor described the hallway as congested during shift change.\nQuestion:\nAs used in the sentence, congested most nearly means",
+    "choices": {
+      "A": "crowded",
+      "B": "decorated",
+      "C": "silent",
+      "D": "damaged"
+    },
+    "correct": "A",
+    "explanation": "In context, congested means crowded or blocked by too many people. The main trap is D because the sentence does not suggest physical damage."
+  },
+  {
+    "id": "TR5-007",
+    "prompt": "Effective immediately, all borrowed radios must be returned to the charging rack before employees leave the building. Radios left in lockers or desk drawers may not be available for the next shift and can delay emergency communication. Please return them fully powered at the end of each work period.\nQuestion:\nWhat is the author’s purpose in this memo?",
+    "choices": {
+      "A": "To describe how radios were used in the past",
+      "B": "To announce a return procedure and explain why it matters",
+      "C": "To compare several brands of radios",
+      "D": "To entertain employees with a story about shift changes"
+    },
+    "correct": "B",
+    "explanation": "The memo introduces a rule and explains its effect on shift readiness and emergency communication. The main trap is C because the memo does not compare radio models."
+  },
+  {
+    "id": "TR5-008",
+    "prompt": "Every afternoon, the crossing guard arrived ten minutes early and checked the corners as if the intersection were a stage that had to be ready before anyone else appeared. She straightened the orange flags, watched the turning lane, and greeted each child with the same calm nod. By dismissal, even the busiest drivers seemed to slow down a little sooner when they saw her.\nQuestion:\nWhich word best describes the tone of the passage?",
+    "choices": {
+      "A": "admiring",
+      "B": "bitter",
+      "C": "suspicious",
+      "D": "impatient"
+    },
+    "correct": "A",
+    "explanation": "The crossing guard is described with respect and appreciation. The main trap is B because there is no bitterness in the description."
+  },
+  {
+    "id": "TR5-009",
+    "prompt": "A printed menu board is useful because customers can scan all the options at once when they approach the counter. A digital menu, however, can be updated quickly when items sell out or prices change. Both formats can work well, but they offer different advantages.\nQuestion:\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "Problem and solution",
+      "B": "Comparison and contrast",
+      "C": "Chronological order",
+      "D": "Cause and effect"
+    },
+    "correct": "B",
+    "explanation": "The passage presents two menu formats and explains how they differ. The main trap is A because it is not mainly describing one problem and one solution."
+  },
+  {
+    "id": "TR5-010",
+    "prompt": "Ramps are sometimes discussed only as features for wheelchair users, but that view is too narrow. Parents pushing strollers, travelers with rolling luggage, delivery workers, and people recovering from temporary injuries may all depend on the same design choice. Accessibility features often serve a wider public than planners first imagine.\nQuestion:\nWhich statement best expresses the author’s point of view?",
+    "choices": {
+      "A": "Ramps should be reserved only for people with permanent disabilities.",
+      "B": "Accessibility features can benefit many more people than their planners may expect.",
+      "C": "Stairs are more efficient than ramps in every public setting.",
+      "D": "Temporary injuries should not influence building design."
+    },
+    "correct": "B",
+    "explanation": "The author argues that ramps help a wider range of users than some people assume. The main trap is A because it wrongly limits who benefits."
+  },
+  {
+    "id": "TR5-011",
+    "prompt": "The coach asked the team to conserve its energy during the first half of the race.\nQuestion:\nAs used in the sentence, conserve most nearly means",
+    "choices": {
+      "A": "save",
+      "B": "divide",
+      "C": "measure",
+      "D": "hide"
+    },
+    "correct": "A",
+    "explanation": "Conserve energy means save it for later use. The main trap is B because divide does not capture the idea of preservation."
+  },
+  {
+    "id": "TR5-012",
+    "prompt": "A shopping guide warns buyers not to rely only on labels such as “premium sound” when comparing headphones. Those words may sound impressive, but they do not explain battery life, charging time, or compatibility with specific devices. The guide advises readers to compare product specifications before buying.\nQuestion:\nWhy does the author mention the label “premium sound”?",
+    "choices": {
+      "A": "To show that appealing wording may not provide the most useful details",
+      "B": "To explain how audio devices are manufactured",
+      "C": "To prove that all headphones have poor battery life",
+      "D": "To suggest that compatibility does not matter"
+    },
+    "correct": "A",
+    "explanation": "The passage contrasts attractive labels with specific performance information. The main trap is C because the passage does not claim all headphones have poor battery life."
+  },
+  {
+    "id": "TR5-013",
+    "prompt": "Notice 1:\nVolunteer Badge Pickup\nTuesday and Wednesday\n1 p.m.-4 p.m.\nReception Desk\nRequired before serving at Saturday events\nNotice 2:\nCommunity Meal Service\nSaturday\n11 a.m.-1 p.m.\nMain Hall\nAll volunteers must wear badges while serving\nQuestion:\nWhich statement is best supported by the two notices?",
+    "choices": {
+      "A": "Volunteers serving on Saturday may need to pick up badges earlier in the week.",
+      "B": "Badge pickup begins after the meal service ends.",
+      "C": "Badges are optional for volunteers in the main hall.",
+      "D": "Saturday volunteers must report to the reception desk during the meal."
+    },
+    "correct": "A",
+    "explanation": "Saturday volunteers must wear badges, and pickup is only available Tuesday and Wednesday. The main trap is B because the meal service happens after pickup days have ended."
+  },
+  {
+    "id": "TR5-014",
+    "prompt": "A table titled “Average Calls Answered Per Hour” shows:\n9 a.m. — 26\n10 a.m. — 31\n11 a.m. — 29\n12 p.m. — 18\n1 p.m. — 22\nQuestion:\nWhich conclusion is best supported by the table?",
+    "choices": {
+      "A": "12 p.m. had the highest average number of calls answered.",
+      "B": "10 a.m. had more average calls answered than 11 a.m.",
+      "C": "Call volume increased every hour from 9 a.m. to 1 p.m.",
+      "D": "9 a.m. and 1 p.m. had the same average number of calls answered."
+    },
+    "correct": "B",
+    "explanation": "The table shows 31 calls at 10 a.m. and 29 at 11 a.m. The main trap is C because the numbers do not rise steadily across the whole day."
+  },
+  {
+    "id": "TR5-015",
+    "prompt": "A park manager argues that adding more shaded benches along the trail would encourage visitors to stay longer during summer afternoons.\nQuestion:\nWhich piece of evidence would best support that claim?",
+    "choices": {
+      "A": "Visitors have said they leave early because there are few places to sit out of the sun.",
+      "B": "The park’s entrance sign was replaced last year.",
+      "C": "Some visitors prefer paved paths to dirt paths.",
+      "D": "The trail map includes a drawing of the lake."
+    },
+    "correct": "A",
+    "explanation": "This directly supports the claim that shaded benches would help visitors stay longer. The main trap is C because path preference does not address shade or length of stay."
+  },
+  {
+    "id": "TR5-016",
+    "prompt": "Passage 1:\nI like printed checklists because I can highlight steps as I finish them.\nPassage 2:\nI like phone reminders because alarms keep me from forgetting tasks on busy days.\nQuestion:\nHow would the authors of both passages most likely agree?",
+    "choices": {
+      "A": "One type of planning tool works best for every person.",
+      "B": "Different tools can help different people stay organized.",
+      "C": "Phone reminders are always better than paper lists.",
+      "D": "Checklists should not be used for daily tasks."
+    },
+    "correct": "B",
+    "explanation": "One author prefers paper checklists and the other prefers phone reminders, so both suggest that different systems can work. The main trap is C because the passages do not rank one tool above all others."
+  },
+  {
+    "id": "TR5-017",
+    "prompt": "A table in a training report lists daily review time and quiz scores:\nGroup A — 10 minutes — 68%\nGroup B — 20 minutes — 79%\nGroup C — 30 minutes — 86%\nQuestion:\nWhich inference is best supported by the table?",
+    "choices": {
+      "A": "More daily review time may be associated with higher quiz scores in this group.",
+      "B": "Group A studied the longest each day.",
+      "C": "Thirty minutes of review guarantees a perfect score.",
+      "D": "Quiz scores depend only on classroom lighting."
+    },
+    "correct": "A",
+    "explanation": "The table shows scores increasing as review time increases. The main trap is C because the data show association, not a guarantee."
+  },
+  {
+    "id": "TR5-018",
+    "prompt": "After one office introduced a color-coded folder system, the manager concluded that every workplace in the state would now file documents faster.\nQuestion:\nWhy is this conclusion weak?",
+    "choices": {
+      "A": "It makes a broad claim based on limited evidence from one office",
+      "B": "It proves that colored folders are too expensive",
+      "C": "It ignores that offices use paper",
+      "D": "It shows that filing systems cannot be improved"
+    },
+    "correct": "A",
+    "explanation": "One office does not represent every workplace in the state. The main trap is B because the passage says nothing about cost."
+  },
+  {
+    "id": "TR5-019",
+    "prompt": "Article excerpt:\nLocal farmers markets often see fewer customers in early spring, when rain and colder mornings keep some shoppers at home.\nFlyer excerpt:\nSpring Market Kickoff\nSaturday, April 6\nIndoor Pavilion\nFresh produce, baked goods, and live music\nQuestion:\nHow does the flyer relate to the article?",
+    "choices": {
+      "A": "It offers a specific response to a seasonal challenge described in the article.",
+      "B": "It argues that early spring is always the busiest market season.",
+      "C": "It explains how vendors set prices for baked goods.",
+      "D": "It criticizes indoor markets as less useful than outdoor ones."
+    },
+    "correct": "A",
+    "explanation": "The article describes early-spring attendance problems, and the flyer promotes an indoor event that could address them. The main trap is B because it contradicts the article."
+  },
+  {
+    "id": "TR5-020",
+    "prompt": "A chart titled “How 150 Students Commute to Evening Classes” lists:\ncar — 47\ncity bus — 39\nwalking — 28\ntrain — 36\nQuestion:\nBased on the chart, which statement is accurate?",
+    "choices": {
+      "A": "Walking is the most common commuting method.",
+      "B": "More students commute by car than by city bus.",
+      "C": "Train and walking are used equally often.",
+      "D": "City bus is used more often than car."
+    },
+    "correct": "B",
+    "explanation": "Car has 47 students, while city bus has 39. The main trap is A because walking has only 28 students."
+  },
+  {
+    "id": "TR5-021",
+    "prompt": "Older emergency manuals often placed long policy explanations before step-by-step directions. Newer manuals are more likely to open with short action lists, bold warnings, and diagrams so readers can find instructions quickly under pressure. Over time, these manuals became less focused on lengthy explanation and more focused on rapid use during urgent situations.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Emergency manuals changed from longer explanations to quicker, easier-to-use instructions.",
+      "B": "Older emergency manuals never included any directions.",
+      "C": "Diagrams are the least useful part of emergency manuals.",
+      "D": "Newer manuals are written only for experts."
+    },
+    "correct": "A",
+    "explanation": "The passage contrasts older text-heavy manuals with newer action-focused ones. The main trap is D because the passage does not limit new manuals to experts."
+  },
+  {
+    "id": "TR5-022",
+    "prompt": "Borrowers using study-room keys should return them to Slot 2 inside the circulation desk drawer before leaving the library. Spare key tags are stored in the same drawer.\nQuestion:\nAccording to the memo, where should study-room keys be returned?",
+    "choices": {
+      "A": "Slot 2 inside the circulation desk drawer",
+      "B": "The security office at the front entrance",
+      "C": "A hook beside the study rooms",
+      "D": "The spare key tray on the counter"
+    },
+    "correct": "A",
+    "explanation": "The memo states this location directly. The main trap is D because the tray is for spare tags, not key returns."
+  },
+  {
+    "id": "TR5-023",
+    "prompt": "A clinic recently began sending patients a short checklist the day before imaging appointments. Since then, fewer patients have arrived wearing metal jewelry or forgotten to bring insurance cards, and staff spend less time repeating the same instructions at check-in.\nQuestion:\nWhat can the reader reasonably infer from the passage?",
+    "choices": {
+      "A": "The pre-appointment checklist helped some patients arrive better prepared.",
+      "B": "The clinic stopped offering imaging appointments on short notice.",
+      "C": "Patients no longer need insurance cards for check-in.",
+      "D": "Jewelry is allowed in all imaging rooms."
+    },
+    "correct": "A",
+    "explanation": "Fewer patients forgot key instructions after the checklist was introduced. The main trap is C because the passage says insurance cards are still relevant."
+  },
+  {
+    "id": "TR5-024",
+    "prompt": "My aunt sharpened sewing chalk and lined up thread spools by shade every Friday before the tailoring shop opened. No one paid extra for that order, and most customers never saw it. But when she stepped back to look at the worktable, it always seemed to say the same thing: someone here is ready for your project before you even arrive.\nQuestion:\nWhich choice is the best summary of the passage?",
+    "choices": {
+      "A": "The writer explains how tailoring tools are manufactured.",
+      "B": "The writer remembers a relative whose quiet preparation showed care for customers.",
+      "C": "The writer regrets never working in a tailoring shop.",
+      "D": "The writer argues that customers notice every small detail in a store."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on what the aunt’s routine expressed about readiness and care. The main trap is D because the writer does not claim every customer noticed the details."
+  },
+  {
+    "id": "TR5-025",
+    "prompt": "A columnist writes, “To me, wide hallways make a building feel calmer, even when it is crowded.”\nQuestion:\nWhich statement from the passage is an opinion?",
+    "choices": {
+      "A": "A columnist writes about buildings.",
+      "B": "Hallways can become crowded.",
+      "C": "Wide hallways make a building feel calmer.",
+      "D": "Buildings contain hallways."
+    },
+    "correct": "C",
+    "explanation": "“To me” signals a personal judgment, making this the opinion. The main trap is B because it is a general factual condition rather than the stated opinion."
+  },
+  {
+    "id": "TR5-026",
+    "prompt": "Product pages often place large customer-star averages at the top of the screen, but those numbers do not reveal how many people reviewed the item or whether the reviews describe long-term use. Shoppers should read beyond the average before deciding what to buy.\nQuestion:\nWhat is the author’s purpose in the passage?",
+    "choices": {
+      "A": "To warn readers that a single rating average may not give enough information",
+      "B": "To explain how websites calculate every review score",
+      "C": "To prove that all highly rated products are poor quality",
+      "D": "To discourage online shopping entirely"
+    },
+    "correct": "A",
+    "explanation": "The author advises readers to look beyond the average score before choosing a product. The main trap is B because the passage discusses how to use ratings, not how they are calculated."
+  },
+  {
+    "id": "TR5-027",
+    "prompt": "When the heavy curtain lifted, the audience did not clap right away. They leaned forward instead, as if the stage itself had surprised them into silence. Even the children in the second row forgot to whisper while the painted city lights came into view.\nQuestion:\nWhich word best describes the tone of the passage?",
+    "choices": {
+      "A": "bored",
+      "B": "amazed",
+      "C": "irritated",
+      "D": "careless"
+    },
+    "correct": "B",
+    "explanation": "The audience falls silent in wonder when the stage is revealed. The main trap is D because the scene is attentive and impressed, not careless."
+  },
+  {
+    "id": "TR5-028",
+    "prompt": "The neighborhood cleanup began years ago as a single Saturday event organized by six households. Later, nearby blocks joined, then local shops donated supplies, and eventually the project expanded into a monthly program with separate teams for litter pickup, weeding, and mural repair.\nQuestion:\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "By order of time",
+      "B": "By comparison of viewpoints",
+      "C": "By question and answer",
+      "D": "By one problem and one solution only"
+    },
+    "correct": "A",
+    "explanation": "The passage traces the cleanup effort from a small beginning to a broader program over time. The main trap is D because the passage is broader than a single problem-solution structure."
+  },
+  {
+    "id": "TR5-029",
+    "prompt": "The shelter kept a reserve supply of blankets in storage for winter weather.\nQuestion:\nAs used in the sentence, reserve most nearly means",
+    "choices": {
+      "A": "extra",
+      "B": "public",
+      "C": "damaged",
+      "D": "decorative"
+    },
+    "correct": "A",
+    "explanation": "A reserve supply is an extra supply kept for future need. The main trap is B because reserve does not mean public."
+  },
+  {
+    "id": "TR5-030",
+    "prompt": "In a report about clinic parking, the writer includes a receptionist’s comment: “The spaces are usually enough in the morning. The real problem starts when delivery trucks stop near the entrance at noon.”\nQuestion:\nWhy does the writer include the receptionist’s quotation?",
+    "choices": {
+      "A": "To provide firsthand support for the report’s point",
+      "B": "To replace all evidence with one personal opinion",
+      "C": "To show that receptionists oppose deliveries",
+      "D": "To suggest that parking is never a problem in the morning"
+    },
+    "correct": "A",
+    "explanation": "The receptionist’s comment adds direct experience to support the report’s claim about parking problems. The main trap is B because the quote supports the report rather than replacing all evidence."
+  },
+  {
+    "id": "TR5-031",
+    "prompt": "Passage 1:\nPublic bulletin screens can help residents learn about local events because announcements rotate throughout the day in busy places.\nPassage 2:\nPrinted flyers can help residents learn about local events because people can take them home and refer to them later.\nQuestion:\nHow are the ideas in the two passages related?",
+    "choices": {
+      "A": "They describe two different methods of sharing community information.",
+      "B": "They argue that printed flyers should never be used.",
+      "C": "They disagree about whether local events should exist.",
+      "D": "They explain how screens are repaired."
+    },
+    "correct": "A",
+    "explanation": "One passage focuses on bulletin screens and the other on printed flyers, but both are about informing residents. The main trap is B because neither passage rejects the other method."
+  },
+  {
+    "id": "TR5-032",
+    "prompt": "A table shows the percentage of overdue fines paid within one week:\nBefore text reminders — 54%\nOne month after text reminders — 66%\nThree months after text reminders — 71%\nQuestion:\nWhich conclusion is best supported by the table?",
+    "choices": {
+      "A": "Text reminders were followed by an increase in quick fine payments.",
+      "B": "Every overdue fine was paid within one week after the change.",
+      "C": "Fine payments dropped after the first month.",
+      "D": "Library fines were eliminated after text reminders began."
+    },
+    "correct": "A",
+    "explanation": "The percentages rise from 54% to 66% to 71% after reminders begin. The main trap is B because the data do not show that every fine was paid quickly."
+  },
+  {
+    "id": "TR5-033",
+    "prompt": "A brochure states that the community pool hosted 7,500 visitors last summer.\nQuestion:\nWhich source would best verify this claim?",
+    "choices": {
+      "A": "The pool’s seasonal attendance record",
+      "B": "A child’s drawing of the pool",
+      "C": "A poster advertising swim lessons",
+      "D": "A personal blog about local parks"
+    },
+    "correct": "A",
+    "explanation": "An official attendance record is the strongest source for verifying visitor totals. The main trap is D because a blog is not authoritative evidence."
+  },
+  {
+    "id": "TR5-034",
+    "prompt": "After asking 14 members of one robotics club whether they preferred digital manuals, Amir concluded that all students in the district preferred digital manuals to printed ones.\nQuestion:\nWhich statement best identifies the flaw in Amir’s reasoning?",
+    "choices": {
+      "A": "He drew a broad conclusion from a small and limited sample.",
+      "B": "He asked too many students for their opinions.",
+      "C": "He compared two manuals with identical formats.",
+      "D": "He forgot to ask whether students liked robotics."
+    },
+    "correct": "A",
+    "explanation": "Fourteen students from one club cannot represent all students in the district. The main trap is D because the key flaw is the weak sample, not the missing question."
+  },
+  {
+    "id": "TR5-035",
+    "prompt": "An article argues that a public auditorium should add a second ticket window before popular events. It notes that lines often reach the sidewalk when a show begins selling seats at the door.\nQuestion:\nWhich added sentence would most strengthen the argument?",
+    "choices": {
+      "A": "The auditorium lobby was repainted last month.",
+      "B": "Staff counted more than 60 people waiting in line during the first 20 minutes of ticket sales at the last sold-out concert.",
+      "C": "Some visitors prefer balcony seats to floor seats.",
+      "D": "The auditorium also rents space for private meetings."
+    },
+    "correct": "B",
+    "explanation": "This directly supports the need for a second window by showing heavy demand. The main trap is D because other building uses do not strengthen the ticket-window argument."
+  },
+  {
+    "id": "TR5-036",
+    "prompt": "A community theater partnered with a local carpentry class so students could build set pieces for an upcoming play. The theater received custom stage platforms, and the students gained practice measuring, cutting, and assembling materials for a real audience event.\nQuestion:\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Carpentry students should replace all theater staff.",
+      "B": "The partnership benefited both the theater and the students.",
+      "C": "Stage platforms are the most important part of any performance.",
+      "D": "Students learn best only in classrooms."
+    },
+    "correct": "B",
+    "explanation": "The theater gained set pieces, and the students gained hands-on experience. The main trap is A because the passage describes cooperation, not replacement."
+  },
+  {
+    "id": "TR5-037",
+    "prompt": "Computer Lab Notice:\nUse headphones for all audio.\nReusable water bottles with lids are allowed on side tables only.\nPhone calls must be taken outside the room.\nQuestion:\nAccording to the notice, which action is permitted?",
+    "choices": {
+      "A": "Watching a video without headphones",
+      "B": "Leaving a lidded water bottle on a side table",
+      "C": "Taking a phone call quietly at the back of the room",
+      "D": "Drinking from an open cup beside the keyboard"
+    },
+    "correct": "B",
+    "explanation": "The notice specifically allows reusable water bottles with lids on side tables only. The main trap is C because phone calls must be taken outside the room."
+  },
+  {
+    "id": "TR5-038",
+    "prompt": "A city tested longer evening hours at its permit office for two months. Staff noticed that more residents came after work, and daytime lines became shorter because fewer people had to visit during lunch breaks. The city then made the later hours permanent.\nQuestion:\nWhat can the reader reasonably infer from the passage?",
+    "choices": {
+      "A": "City staff believed the later hours were useful enough to keep.",
+      "B": "Residents stopped visiting the permit office during the trial.",
+      "C": "Daytime lines became longer after evening hours were added.",
+      "D": "Lunch breaks were removed from city offices."
+    },
+    "correct": "A",
+    "explanation": "The city made the change permanent after seeing benefits for residents and daytime traffic flow. The main trap is C because the passage says daytime lines became shorter."
+  },
+  {
+    "id": "TR5-039",
+    "prompt": "Building directories are helpful only when room numbers match the signs on the walls and the maps are placed where visitors can notice them before they start wandering the halls. A directory that is accurate but hidden still fails to guide people well.\nQuestion:\nWhich choice is the best summary of the passage?",
+    "choices": {
+      "A": "Directories are useful only in very large buildings.",
+      "B": "A directory can help visitors only if it is both accurate and easy to notice.",
+      "C": "Wall signs are less useful than maps in every situation.",
+      "D": "Visitors should ask for directions instead of using directories."
+    },
+    "correct": "B",
+    "explanation": "The passage emphasizes both correctness and visibility. The main trap is A because the passage does not limit the usefulness of directories to large buildings."
+  },
+  {
+    "id": "TR5-040",
+    "prompt": "Some managers insist that every staff update must be sent as a long email. I disagree. For minor schedule changes, a short shared notice can work better because employees can see it quickly without searching through their inboxes. The best communication method is the one that fits the urgency and size of the message.\nQuestion:\nWhich statement best expresses the author’s point of view?",
+    "choices": {
+      "A": "Long emails should be used for every workplace message.",
+      "B": "Communication methods should be chosen based on what fits the message best.",
+      "C": "Shared notices are always better than email.",
+      "D": "Staff updates should never be written down."
+    },
+    "correct": "B",
+    "explanation": "The author argues that the method should match the urgency and scale of the update. The main trap is C because the passage does not claim shared notices are always better."
+  },
+  {
+    "id": "TR5-041",
+    "prompt": "Passage 1:\nSmall neighborhood libraries can make a community stronger because they place books and information within walking distance for more residents.\nPassage 2:\nWeekend reading events can make a community stronger because they bring neighbors together around shared stories and activities.\nQuestion:\nThe authors of both passages would most likely agree that",
+    "choices": {
+      "A": "community reading resources can support stronger local connections",
+      "B": "weekend events are more important than books",
+      "C": "libraries should open only on weekends",
+      "D": "walking distance does not matter for community access"
+    },
+    "correct": "A",
+    "explanation": "One passage emphasizes access to books and the other emphasizes shared events, but both support stronger communities through reading. The main trap is B because the passages do not rank events above books."
+  },
+  {
+    "id": "TR5-042",
+    "prompt": "A report compares missing-item claims before and after numbered shelf labels were added in a supply room:\nBefore shelf labels — 22 claims per month\nAfter shelf labels — 9 claims per month\nQuestion:\nWhich conclusion is best supported by the report?",
+    "choices": {
+      "A": "Missing-item claims decreased after numbered shelf labels were added.",
+      "B": "Shelf labels eliminated all supply problems forever.",
+      "C": "Missing-item claims increased after the labels were added.",
+      "D": "Workers stopped using the supply room after the change."
+    },
+    "correct": "A",
+    "explanation": "Claims drop from 22 per month to 9 per month after the change. The main trap is B because the data do not show that all problems disappeared."
+  },
+  {
+    "id": "TR5-043",
+    "prompt": "A transit planner wants the city to add a covered waiting bench near the public market stop. She notes that older riders often stand there with grocery bags and that the next available bench is half a block away.\nQuestion:\nWhich piece of evidence would best support the planner’s proposal?",
+    "choices": {
+      "A": "A rider count shows that the market stop is busiest on mornings and weekends.",
+      "B": "Some shoppers prefer paper bags to reusable bags.",
+      "C": "The public market sign was replaced last year.",
+      "D": "The transit map includes all downtown stops."
+    },
+    "correct": "A",
+    "explanation": "This evidence supports adding seating where many riders wait with groceries. The main trap is D because the map does not show need at that specific stop."
+  },
+  {
+    "id": "TR5-044",
+    "prompt": "An article about a new playground says neighborhood families appreciate the added climbing equipment and that children use the area throughout the day. The article does not include any data about injuries before or after the playground opened.\nQuestion:\nWhich question remains unanswered by the passage?",
+    "choices": {
+      "A": "Whether families noticed the new playground",
+      "B": "Whether children use the playground during the day",
+      "C": "Whether the new playground affected injury rates",
+      "D": "Whether the playground includes climbing equipment"
+    },
+    "correct": "C",
+    "explanation": "The passage reports appreciation and use but gives no before-and-after injury data. The main trap is A because the article already says families appreciate the playground."
+  },
+  {
+    "id": "TR5-045",
+    "prompt": "Workshop Storage Guide:\nPlace paintbrushes bristle-side up in the drying jar.\nReturn folding stools to the rack after use.\nReport cracked plastic trays before the next class.\nQuestion:\nWhich action best follows the guide?",
+    "choices": {
+      "A": "Laying wet paintbrushes flat on the counter",
+      "B": "Returning a folding stool to the rack after use",
+      "C": "Stacking cracked trays in the corner for later",
+      "D": "Placing brushes bristle-side down in a drawer"
+    },
+    "correct": "B",
+    "explanation": "This follows the storage guide exactly. The main trap is A because the guide says wet brushes should go bristle-side up in the drying jar, not flat on the counter."
+  }
+]

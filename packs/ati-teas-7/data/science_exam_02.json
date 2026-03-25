@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TS2-001",
+    "prompt": "The heart has four chambers. Oxygen-rich blood returning from the lungs enters one chamber before moving to the left ventricle.\nQuestion:\nWhich chamber receives oxygenated blood from the lungs?",
+    "choices": {
+      "A": "Right atrium",
+      "B": "Left atrium",
+      "C": "Right ventricle",
+      "D": "Left ventricle"
+    },
+    "correct": "B",
+    "explanation": "Oxygen-rich blood returns from the lungs to the left atrium before moving to the left ventricle. The main trap is D because the left ventricle pumps blood out to the body rather than receiving it from the lungs."
+  },
+  {
+    "id": "TS2-002",
+    "prompt": "When a person swallows, a flap of tissue helps keep food from entering the airway.\nQuestion:\nWhich structure performs this function?",
+    "choices": {
+      "A": "Epiglottis",
+      "B": "Uvula",
+      "C": "Esophagus",
+      "D": "Larynx"
+    },
+    "correct": "A",
+    "explanation": "The epiglottis folds over the airway during swallowing and helps keep food out of the trachea. The main trap is C because the esophagus carries food after swallowing but does not cover the airway."
+  },
+  {
+    "id": "TS2-003",
+    "prompt": "Several endocrine glands release hormones into the bloodstream to regulate body functions.\nQuestion:\nWhich gland produces hormones that help regulate metabolism?",
+    "choices": {
+      "A": "Thyroid gland",
+      "B": "Pituitary gland",
+      "C": "Pineal gland",
+      "D": "Thymus gland"
+    },
+    "correct": "A",
+    "explanation": "The thyroid produces hormones that regulate metabolism. The main trap is B because the pituitary controls many glands but is not the gland primarily known for metabolic regulation."
+  },
+  {
+    "id": "TS2-004",
+    "prompt": "Urine is produced in the kidneys and then travels through tubes to the bladder.\nQuestion:\nWhat are these tubes called?",
+    "choices": {
+      "A": "Ureters",
+      "B": "Urethra",
+      "C": "Nephrons",
+      "D": "Renal arteries"
+    },
+    "correct": "A",
+    "explanation": "Ureters carry urine from the kidneys to the bladder. The main trap is B because the urethra carries urine from the bladder to the outside of the body."
+  },
+  {
+    "id": "TS2-005",
+    "prompt": "Muscle tissue can be voluntary or involuntary depending on its type and location.\nQuestion:\nWhich type of muscle is found in the walls of the stomach and intestines?",
+    "choices": {
+      "A": "Skeletal muscle",
+      "B": "Smooth muscle",
+      "C": "Cardiac muscle",
+      "D": "Striated voluntary muscle"
+    },
+    "correct": "B",
+    "explanation": "Smooth muscle lines many internal organs and works involuntarily. The main trap is A because skeletal muscle is voluntary and attached to bones."
+  },
+  {
+    "id": "TS2-006",
+    "prompt": "The body maintains homeostasis by regulating temperature, hunger, and thirst.\nQuestion:\nWhich part of the brain is most directly involved in regulating body temperature?",
+    "choices": {
+      "A": "Cerebrum",
+      "B": "Cerebellum",
+      "C": "Hypothalamus",
+      "D": "Medulla oblongata"
+    },
+    "correct": "C",
+    "explanation": "The hypothalamus helps regulate temperature, hunger, thirst, and other homeostatic functions. The main trap is D because the medulla mainly controls automatic breathing and heart rate."
+  },
+  {
+    "id": "TS2-007",
+    "prompt": "After nutrients are absorbed, the remaining material moves into another part of the digestive tract.\nQuestion:\nWhich organ absorbs most of the remaining water from this material?",
+    "choices": {
+      "A": "Stomach",
+      "B": "Large intestine",
+      "C": "Pancreas",
+      "D": "Gallbladder"
+    },
+    "correct": "B",
+    "explanation": "The large intestine absorbs much of the remaining water from undigested material. The main trap is A because the stomach is more involved in mechanical and chemical digestion."
+  },
+  {
+    "id": "TS2-008",
+    "prompt": "Blood contains plasma, red blood cells, white blood cells, and platelets.\nQuestion:\nWhich blood component is most important for clot formation?",
+    "choices": {
+      "A": "Plasma",
+      "B": "Red blood cells",
+      "C": "White blood cells",
+      "D": "Platelets"
+    },
+    "correct": "D",
+    "explanation": "Platelets are cell fragments that help form blood clots. The main trap is B because red blood cells mainly transport oxygen."
+  },
+  {
+    "id": "TS2-009",
+    "prompt": "During a sudden stressful event, the body rapidly releases hormones that prepare it for a “fight-or-flight” response.\nQuestion:\nWhich glands release these stress-related hormones?",
+    "choices": {
+      "A": "Adrenal glands",
+      "B": "Salivary glands",
+      "C": "Parathyroid glands",
+      "D": "Sweat glands"
+    },
+    "correct": "A",
+    "explanation": "Adrenal glands release hormones such as epinephrine during stress responses. The main trap is C because parathyroid glands regulate calcium, not fight-or-flight hormones."
+  },
+  {
+    "id": "TS2-010",
+    "prompt": "A developing human embryo implants in a reproductive organ where it continues to grow during pregnancy.\nQuestion:\nIn which organ does this development normally occur?",
+    "choices": {
+      "A": "Ovary",
+      "B": "Cervix",
+      "C": "Uterus",
+      "D": "Fallopian tube"
+    },
+    "correct": "C",
+    "explanation": "The embryo implants in the uterus, where development continues during pregnancy. The main trap is D because fertilization typically occurs in the fallopian tube, not development through pregnancy."
+  },
+  {
+    "id": "TS2-011",
+    "prompt": "Different parts of the brain control different essential functions.\nQuestion:\nWhich part of the brain helps regulate breathing and heart rate?",
+    "choices": {
+      "A": "Frontal lobe",
+      "B": "Medulla oblongata",
+      "C": "Cerebellum",
+      "D": "Occipital lobe"
+    },
+    "correct": "B",
+    "explanation": "The medulla regulates vital involuntary functions including breathing and heart rate. The main trap is C because the cerebellum mainly coordinates balance and movement."
+  },
+  {
+    "id": "TS2-012",
+    "prompt": "The skin contains multiple layers and structures that support protection and temperature regulation.\nQuestion:\nWhich skin layer contains sweat glands and many blood vessels?",
+    "choices": {
+      "A": "Epidermis",
+      "B": "Dermis",
+      "C": "Cuticle",
+      "D": "Outer membrane"
+    },
+    "correct": "B",
+    "explanation": "The dermis contains sweat glands, blood vessels, and many sensory receptors. The main trap is A because the epidermis is the outer protective layer."
+  },
+  {
+    "id": "TS2-013",
+    "prompt": "Blood returning to the heart often moves at low pressure, especially in the legs.\nQuestion:\nWhat feature helps veins move blood back toward the heart?",
+    "choices": {
+      "A": "Air sacs",
+      "B": "Valves",
+      "C": "Cartilage rings",
+      "D": "Alveoli"
+    },
+    "correct": "B",
+    "explanation": "Veins contain valves that help prevent blood from flowing backward. The main trap is C because cartilage rings are found in the trachea, not veins."
+  },
+  {
+    "id": "TS2-014",
+    "prompt": "Calcium levels in the blood must stay within a narrow range for normal muscle and nerve function.\nQuestion:\nWhich glands are most directly involved in regulating blood calcium levels?",
+    "choices": {
+      "A": "Adrenal glands",
+      "B": "Thyroid glands",
+      "C": "Parathyroid glands",
+      "D": "Sebaceous glands"
+    },
+    "correct": "C",
+    "explanation": "Parathyroid hormone plays a major role in calcium regulation. The main trap is B because the thyroid has other endocrine functions and is not the main regulator of blood calcium."
+  },
+  {
+    "id": "TS2-015",
+    "prompt": "Bile helps break large fat droplets into smaller droplets during digestion.\nQuestion:\nWhich organ stores and concentrates bile until it is needed?",
+    "choices": {
+      "A": "Liver",
+      "B": "Pancreas",
+      "C": "Gallbladder",
+      "D": "Spleen"
+    },
+    "correct": "C",
+    "explanation": "The gallbladder stores and concentrates bile made by the liver. The main trap is A because the liver produces bile but does not store it in the same way."
+  },
+  {
+    "id": "TS2-016",
+    "prompt": "Chemical digestion begins before food reaches the stomach.\nQuestion:\nWhich substance in saliva begins the digestion of starches?",
+    "choices": {
+      "A": "Pepsin",
+      "B": "Amylase",
+      "C": "Insulin",
+      "D": "Bile"
+    },
+    "correct": "B",
+    "explanation": "Salivary amylase begins carbohydrate digestion in the mouth. The main trap is A because pepsin works mainly in the stomach on proteins."
+  },
+  {
+    "id": "TS2-017",
+    "prompt": "The musculoskeletal system includes structures that connect muscles and bones.\nQuestion:\nWhich structure connects a muscle to a bone?",
+    "choices": {
+      "A": "Ligament",
+      "B": "Tendon",
+      "C": "Cartilage",
+      "D": "Marrow"
+    },
+    "correct": "B",
+    "explanation": "Tendons connect muscle to bone. The main trap is A because ligaments connect bone to bone."
+  },
+  {
+    "id": "TS2-018",
+    "prompt": "During the menstrual cycle, an egg is released from one of the reproductive organs.\nQuestion:\nFrom which organ is the egg released during ovulation?",
+    "choices": {
+      "A": "Ovary",
+      "B": "Uterus",
+      "C": "Cervix",
+      "D": "Vagina"
+    },
+    "correct": "A",
+    "explanation": "Ovulation is the release of an egg from an ovary. The main trap is B because the uterus is where implantation may later occur."
+  },
+  {
+    "id": "TS2-019",
+    "prompt": "Breathing involves changes in the size of the chest cavity.\nQuestion:\nWhat happens during normal exhalation?",
+    "choices": {
+      "A": "The diaphragm contracts and air moves in.",
+      "B": "The diaphragm relaxes and air moves out.",
+      "C": "The diaphragm flattens and air moves in.",
+      "D": "The chest cavity expands and pulls air inward."
+    },
+    "correct": "B",
+    "explanation": "During normal exhalation, the diaphragm relaxes and the chest cavity decreases in size, pushing air out. The main trap is A because contraction of the diaphragm happens during inhalation."
+  },
+  {
+    "id": "TS2-020",
+    "prompt": "Whole blood includes formed elements suspended in a fluid portion.\nQuestion:\nWhat is the name of the liquid portion of blood?",
+    "choices": {
+      "A": "Platelet fluid",
+      "B": "Plasma",
+      "C": "Serum cell",
+      "D": "Lymph"
+    },
+    "correct": "B",
+    "explanation": "Plasma is the liquid portion of blood that carries dissolved substances and cells. The main trap is D because lymph is a separate fluid in the lymphatic system."
+  },
+  {
+    "id": "TS2-021",
+    "prompt": "Cells need energy to carry out many activities, including transport, movement, and synthesis.\nQuestion:\nWhich organelle is the main site of ATP production in eukaryotic cells?",
+    "choices": {
+      "A": "Mitochondrion",
+      "B": "Golgi apparatus",
+      "C": "Lysosome",
+      "D": "Nucleolus"
+    },
+    "correct": "A",
+    "explanation": "Mitochondria are the main site of ATP production in eukaryotic cells. The main trap is B because the Golgi apparatus packages materials rather than producing most ATP."
+  },
+  {
+    "id": "TS2-022",
+    "prompt": "Gametes must contain half the usual number of chromosomes so that fertilization can restore the normal chromosome number.\nQuestion:\nWhich process produces cells with half the usual chromosome number?",
+    "choices": {
+      "A": "Mitosis",
+      "B": "Meiosis",
+      "C": "Binary fission",
+      "D": "Diffusion"
+    },
+    "correct": "B",
+    "explanation": "Meiosis produces sex cells with half the usual chromosome number. The main trap is A because mitosis produces body cells with the same chromosome number as the parent cell."
+  },
+  {
+    "id": "TS2-023",
+    "prompt": "Proteins made in the rough endoplasmic reticulum are often modified and packaged before leaving the cell.\nQuestion:\nWhich organelle performs much of this packaging function?",
+    "choices": {
+      "A": "Cell membrane",
+      "B": "Golgi apparatus",
+      "C": "Ribosome",
+      "D": "Centriole"
+    },
+    "correct": "B",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages many proteins for transport. The main trap is C because ribosomes build proteins but do not package them."
+  },
+  {
+    "id": "TS2-024",
+    "prompt": "Cells contain structures that digest worn-out parts and other materials.\nQuestion:\nWhich organelle performs this digestive function?",
+    "choices": {
+      "A": "Lysosome",
+      "B": "Vacuole",
+      "C": "Cell wall",
+      "D": "Chromosome"
+    },
+    "correct": "A",
+    "explanation": "Lysosomes contain enzymes that break down waste and worn-out cell parts. The main trap is B because vacuoles mainly store materials."
+  },
+  {
+    "id": "TS2-025",
+    "prompt": "In the human body, individual cardiac muscle cells form tissue. That tissue is part of the heart, and the heart is part of the circulatory system.\nQuestion:\nWhich sequence shows these levels of organization from smallest to largest?",
+    "choices": {
+      "A": "Organ, cell, tissue, organ system",
+      "B": "Cell, tissue, organ, organ system",
+      "C": "Tissue, organ system, cell, organ",
+      "D": "Organ system, organ, tissue, cell"
+    },
+    "correct": "B",
+    "explanation": "Cells make tissues, tissues make organs, and organs work together in organ systems. The main trap is A because it starts with a larger level instead of the smallest."
+  },
+  {
+    "id": "TS2-026",
+    "prompt": "The nervous system and endocrine system both help coordinate body functions, but they work in different ways.\nQuestion:\nWhich statement correctly compares these two systems?",
+    "choices": {
+      "A": "Endocrine signals travel through ducts and act immediately.",
+      "B": "Endocrine signals are generally slower than nerve impulses but often last longer.",
+      "C": "Nervous system messages are carried only by hormones in the blood.",
+      "D": "Nervous system responses always last longer than endocrine responses."
+    },
+    "correct": "B",
+    "explanation": "Hormones usually travel through the bloodstream more slowly than nerve signals, but their effects often persist longer. The main trap is C because nervous system messages are transmitted by neurons, not only hormones."
+  },
+  {
+    "id": "TS2-027",
+    "prompt": "DNA is made of nucleotides that pair in a specific way.\nQuestion:\nWhich pair of nitrogen bases normally bonds together in DNA?",
+    "choices": {
+      "A": "Adenine and cytosine",
+      "B": "Adenine and thymine",
+      "C": "Guanine and thymine",
+      "D": "Cytosine and uracil"
+    },
+    "correct": "B",
+    "explanation": "In DNA, adenine pairs with thymine and cytosine pairs with guanine. The main trap is D because uracil is found in RNA, not DNA."
+  },
+  {
+    "id": "TS2-028",
+    "prompt": "Genetic information in DNA is used to build proteins.\nQuestion:\nWhat is the main role of messenger RNA (mRNA)?",
+    "choices": {
+      "A": "To digest proteins in the cell",
+      "B": "To carry genetic instructions from DNA to ribosomes",
+      "C": "To store extra lipids for energy",
+      "D": "To break apart glucose in the nucleus"
+    },
+    "correct": "B",
+    "explanation": "mRNA carries coded instructions used to assemble proteins. The main trap is A because mRNA does not digest proteins."
+  },
+  {
+    "id": "TS2-029",
+    "prompt": "Large carbohydrates are built from smaller subunits.\nQuestion:\nWhich type of molecule is the basic building block of many carbohydrates?",
+    "choices": {
+      "A": "Amino acid",
+      "B": "Fatty acid",
+      "C": "Monosaccharide",
+      "D": "Nucleotide"
+    },
+    "correct": "C",
+    "explanation": "Many carbohydrates are built from monosaccharides such as glucose. The main trap is A because amino acids are the building blocks of proteins."
+  },
+  {
+    "id": "TS2-030",
+    "prompt": "Different biological macromolecules have different main functions.\nQuestion:\nWhich is a major function of lipids in the body?",
+    "choices": {
+      "A": "Long-term energy storage and insulation",
+      "B": "Carrying genetic code",
+      "C": "Speeding all nerve impulses",
+      "D": "Forming ribosomes"
+    },
+    "correct": "A",
+    "explanation": "Lipids store energy and help insulate and protect the body. The main trap is B because nucleic acids, not lipids, carry genetic information."
+  },
+  {
+    "id": "TS2-031",
+    "prompt": "Dead leaves and animal remains are broken down in ecosystems, and nutrients are returned to the soil.\nQuestion:\nWhich type of organism performs this role?",
+    "choices": {
+      "A": "Producer",
+      "B": "Herbivore",
+      "C": "Decomposer",
+      "D": "Consumer"
+    },
+    "correct": "C",
+    "explanation": "Decomposers break down dead material and recycle nutrients into the ecosystem. The main trap is A because producers make their own food rather than breaking down dead matter."
+  },
+  {
+    "id": "TS2-032",
+    "prompt": "Bees collect nectar from flowering plants, and in the process they transfer pollen from one flower to another.\nQuestion:\nWhat type of ecological relationship is this?",
+    "choices": {
+      "A": "Parasitism",
+      "B": "Competition",
+      "C": "Mutualism",
+      "D": "Predation"
+    },
+    "correct": "C",
+    "explanation": "Both the bee and the flowering plant benefit, so this relationship is mutualism. The main trap is A because in parasitism one organism benefits while the other is harmed."
+  },
+  {
+    "id": "TS2-033",
+    "prompt": "A bacterial population is exposed to an antibiotic. Most of the bacteria die, but a few survive and reproduce. Over time, the population becomes harder to kill with the same antibiotic.\nQuestion:\nWhich explanation best accounts for this change?",
+    "choices": {
+      "A": "The antibiotic caused every bacterium to become stronger immediately.",
+      "B": "Natural selection favored bacteria with resistance traits.",
+      "C": "The bacteria stopped reproducing after exposure.",
+      "D": "All bacteria in the population had identical survival rates."
+    },
+    "correct": "B",
+    "explanation": "Resistant bacteria survived and reproduced, so resistance became more common in the population. The main trap is A because the antibiotic did not instantly strengthen every bacterium."
+  },
+  {
+    "id": "TS2-034",
+    "prompt": "A biologist studies all the frogs living in one wetland.\nQuestion:\nThese frogs together are best described as a",
+    "choices": {
+      "A": "community",
+      "B": "population",
+      "C": "biome",
+      "D": "habitat"
+    },
+    "correct": "B",
+    "explanation": "A population is all members of one species in a specific area. The main trap is A because a community includes multiple species."
+  },
+  {
+    "id": "TS2-035",
+    "prompt": "Plant cells often contain a large central vacuole filled mainly with water and dissolved substances.\nQuestion:\nWhat is one major function of the central vacuole in plant cells?",
+    "choices": {
+      "A": "Producing ATP for the cell",
+      "B": "Storing water and helping maintain turgor pressure",
+      "C": "Replicating the cell’s DNA",
+      "D": "Transporting proteins out of the nucleus"
+    },
+    "correct": "B",
+    "explanation": "The central vacuole stores water and supports plant cell rigidity. The main trap is A because ATP is produced mainly in mitochondria."
+  },
+  {
+    "id": "TS2-036",
+    "prompt": "Atoms contain subatomic particles with different charges.\nQuestion:\nWhat is the electrical charge of an electron?",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Neutral",
+      "D": "Variable"
+    },
+    "correct": "B",
+    "explanation": "Electrons have a negative charge. The main trap is C because neutrons, not electrons, are neutral."
+  },
+  {
+    "id": "TS2-037",
+    "prompt": "Atoms of the same element always have the same number of protons, but they may differ in another particle.\nQuestion:\nHow does one isotope of an element differ from another isotope of the same element?",
+    "choices": {
+      "A": "It has a different number of protons.",
+      "B": "It has a different number of neutrons.",
+      "C": "It has a different chemical symbol.",
+      "D": "It has a different number of valence shells."
+    },
+    "correct": "B",
+    "explanation": "Isotopes of the same element have the same number of protons but different numbers of neutrons. The main trap is A because changing the number of protons would make it a different element."
+  },
+  {
+    "id": "TS2-038",
+    "prompt": "A solution has a pH of 9.\nQuestion:\nHow is this solution best described?",
+    "choices": {
+      "A": "Strongly acidic",
+      "B": "Slightly acidic",
+      "C": "Neutral",
+      "D": "Basic"
+    },
+    "correct": "D",
+    "explanation": "A pH above 7 is basic, so pH 9 is basic. The main trap is C because neutral solutions have a pH of 7."
+  },
+  {
+    "id": "TS2-039",
+    "prompt": "Two clear liquids are mixed in a beaker, and bubbles begin to form immediately.\nQuestion:\nWhich observation most strongly suggests that a chemical reaction is occurring?",
+    "choices": {
+      "A": "The beaker is made of glass.",
+      "B": "Gas bubbles form after the liquids are mixed.",
+      "C": "The liquids were transparent before mixing.",
+      "D": "The container is placed on a lab table."
+    },
+    "correct": "B",
+    "explanation": "Gas production is a common sign that a chemical reaction is occurring. The main trap is C because transparency alone does not show a reaction."
+  },
+  {
+    "id": "TS2-040",
+    "prompt": "A chemical reaction takes place in a sealed container, and all products remain inside the container.\nQuestion:\nAccording to the law of conservation of mass, what should happen to the total mass?",
+    "choices": {
+      "A": "It should increase as new substances form.",
+      "B": "It should decrease as reactants disappear.",
+      "C": "It should stay the same before and after the reaction.",
+      "D": "It should vary randomly with temperature."
+    },
+    "correct": "C",
+    "explanation": "In a closed system, mass is conserved during chemical reactions. The main trap is A because new substances form by rearranging atoms, not by creating extra mass."
+  },
+  {
+    "id": "TS2-041",
+    "prompt": "A student mixes sand with water in a beaker and wants to separate the sand from the liquid.\nQuestion:\nWhich method would work best?",
+    "choices": {
+      "A": "Filtration",
+      "B": "Melting",
+      "C": "Condensation",
+      "D": "Freezing"
+    },
+    "correct": "A",
+    "explanation": "Filtration separates an insoluble solid like sand from a liquid. The main trap is B because melting does not separate sand from water."
+  },
+  {
+    "id": "TS2-042",
+    "prompt": "A student leaves an ice cube at room temperature, and it changes from solid water to liquid water.\nQuestion:\nThis is best classified as which type of change?",
+    "choices": {
+      "A": "Chemical change",
+      "B": "Nuclear change",
+      "C": "Physical change",
+      "D": "Biological change"
+    },
+    "correct": "C",
+    "explanation": "Melting changes the state of water without changing its chemical identity. The main trap is A because no new substance forms."
+  },
+  {
+    "id": "TS2-043",
+    "prompt": "A student tests whether different amounts of fertilizer affect the height of bean plants. The student changes only the amount of fertilizer given to each group.\nQuestion:\nWhich variable should be kept constant to make the test fair?",
+    "choices": {
+      "A": "The amount of water each plant receives",
+      "B": "The amount of fertilizer each group receives",
+      "C": "The final height of the plants",
+      "D": "The number of groups in the experiment"
+    },
+    "correct": "A",
+    "explanation": "To test fertilizer fairly, other important factors such as water should stay the same. The main trap is B because the amount of fertilizer is the variable being changed on purpose."
+  },
+  {
+    "id": "TS2-044",
+    "prompt": "A researcher tests whether a disinfectant spray reduces bacterial growth on countertops. One set of countertops is sprayed with the disinfectant, and another set is sprayed with plain water.\nQuestion:\nWhich group is the experimental group?",
+    "choices": {
+      "A": "The countertops sprayed with plain water",
+      "B": "The countertops sprayed with the disinfectant",
+      "C": "Both groups equally",
+      "D": "The bacteria before spraying"
+    },
+    "correct": "B",
+    "explanation": "The experimental group receives the treatment being tested. The main trap is A because the plain-water group functions as the comparison group."
+  },
+  {
+    "id": "TS2-045",
+    "prompt": "A student tests seed germination at different soil pH values.\nSoil pH — Average number of seeds germinated out of 20\n5 — 9\n6 — 14\n7 — 18\n8 — 11\nQuestion:\nBased on the data, at which pH did the seeds germinate best?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "The table shows the highest average germination, 18 out of 20, at pH 7. The main trap is B because pH 6 is high but not the highest."
+  },
+  {
+    "id": "TS2-046",
+    "prompt": "A teacher asks students to write a testable hypothesis about light and basil plant growth.\nQuestion:\nWhich statement is the best scientific hypothesis?",
+    "choices": {
+      "A": "Sunlight helps plants.",
+      "B": "If basil plants receive 8 hours of light each day, then they will grow taller in 3 weeks than basil plants receiving 4 hours of light each day.",
+      "C": "Plants are interesting to study.",
+      "D": "Good growing conditions are important."
+    },
+    "correct": "B",
+    "explanation": "This hypothesis is specific, testable, and compares measurable conditions. The main trap is A because it is too vague to test well."
+  },
+  {
+    "id": "TS2-047",
+    "prompt": "A student notices a small crack in a beaker before starting a lab.\nQuestion:\nWhat should the student do first?",
+    "choices": {
+      "A": "Use the beaker carefully since the crack is small.",
+      "B": "Cover the crack with tape and continue.",
+      "C": "Tell the teacher and replace the damaged beaker.",
+      "D": "Heat the beaker slowly so it will not break."
+    },
+    "correct": "C",
+    "explanation": "Damaged glassware is unsafe and should not be used. The main trap is A because even a small crack can cause breakage or injury."
+  },
+  {
+    "id": "TS2-048",
+    "prompt": "A student places identical tablets in water at different temperatures and records the time each one takes to dissolve.\nWater temperature — Time to dissolve\n10°C — 5 minutes\n25°C — 3 minutes\n40°C — 1 minute\nQuestion:\nWhich conclusion is best supported by the data?",
+    "choices": {
+      "A": "Tablets dissolve more slowly in warmer water.",
+      "B": "Water temperature had no effect on dissolving time.",
+      "C": "Higher water temperature was associated with faster dissolving.",
+      "D": "The tablets dissolved fastest at 10°C."
+    },
+    "correct": "C",
+    "explanation": "Dissolving time decreases from 5 minutes to 1 minute as temperature increases. The main trap is A because it states the opposite of the data."
+  },
+  {
+    "id": "TS2-049",
+    "prompt": "A student observes that classmates with purple binders had slightly higher quiz grades than classmates with green binders. The student concludes that using a purple binder causes better grades.\nQuestion:\nWhat is the main problem with this conclusion?",
+    "choices": {
+      "A": "It assumes a cause-and-effect relationship from limited observational data.",
+      "B": "It compares too many different subjects.",
+      "C": "It uses a direct experiment with strong controls.",
+      "D": "It proves that binder color is the only factor in learning."
+    },
+    "correct": "A",
+    "explanation": "The observation shows only a weak correlation and does not prove binder color caused better grades. The main trap is D because the data do not prove any single factor is responsible."
+  },
+  {
+    "id": "TS2-050",
+    "prompt": "A student wants to know whether a new hand soap reduces bacteria. The student swabs one hand of one volunteer before washing and again after washing once with the soap, then concludes the soap works for everyone.\nQuestion:\nWhat is the biggest weakness in this investigation?",
+    "choices": {
+      "A": "It uses too many volunteers.",
+      "B": "It has a very small sample and does not justify a broad conclusion.",
+      "C": "It measures bacteria directly.",
+      "D": "It includes observations before and after washing."
+    },
+    "correct": "B",
+    "explanation": "One volunteer and one trial are not enough to support a conclusion about everyone. The main trap is D because before-and-after observations can be useful, but the design is too limited to support a broad claim."
+  }
+]
