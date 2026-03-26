@@ -76,5 +76,102 @@
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Reading Practice Exam 1",
+      "file": "READING_Exam_01.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 2",
+      "file": "READING_Exam_02.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 3",
+      "file": "READING_Exam_03.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 4",
+      "file": "READING_Exam_04.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 5",
+      "file": "READING_Exam_05.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 6",
+      "file": "READING_Exam_06.pdf"
+    },
+    {
+      "label": "Math Practice Exam 1",
+      "file": "MATH_Exam_01.pdf"
+    },
+    {
+      "label": "Math Practice Exam 2",
+      "file": "MATH_Exam_02.pdf"
+    },
+    {
+      "label": "Math Practice Exam 3",
+      "file": "MATH_Exam_03.pdf"
+    },
+    {
+      "label": "Math Practice Exam 4",
+      "file": "MATH_Exam_04.pdf"
+    },
+    {
+      "label": "Math Practice Exam 5",
+      "file": "MATH_Exam_05.pdf"
+    },
+    {
+      "label": "Math Practice Exam 6",
+      "file": "MATH_Exam_06.pdf"
+    },
+    {
+      "label": "Science Practice Exam 1",
+      "file": "SCIENCE_Exam_01.pdf"
+    },
+    {
+      "label": "Science Practice Exam 2",
+      "file": "SCIENCE_Exam_02.pdf"
+    },
+    {
+      "label": "Science Practice Exam 3",
+      "file": "SCIENCE_Exam_03.pdf"
+    },
+    {
+      "label": "Science Practice Exam 4",
+      "file": "SCIENCE_Exam_04.pdf"
+    },
+    {
+      "label": "Science Practice Exam 5",
+      "file": "SCIENCE_Exam_05.pdf"
+    },
+    {
+      "label": "Science Practice Exam 6",
+      "file": "SCIENCE_Exam_06.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 1",
+      "file": "E&L_Exam_01.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 2",
+      "file": "E&L_Exam_02.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 3",
+      "file": "E&L_Exam_03.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 4",
+      "file": "E&L_Exam_04.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 5",
+      "file": "E&L_Exam_05.pdf"
+    },
+    {
+      "label": "English and Language Usage Practice Exam 6",
+      "file": "E&L_Exam_06.pdf"
+    }
+  ]
 }
